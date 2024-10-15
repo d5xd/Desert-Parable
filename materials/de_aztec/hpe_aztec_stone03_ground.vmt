@@ -1,7 +1,0 @@
-lightmappedGeneric
-{
-$baseTexture "de_aztec/hpe_aztec_stone03_ground"
-$surfaceprop rock
-
-"%keywords" cstrike
-}
