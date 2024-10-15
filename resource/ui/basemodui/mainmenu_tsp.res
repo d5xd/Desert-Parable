@@ -45,7 +45,7 @@
 		"visible"						"1"
 		"enabled"					"0" // and guess what!!?!?!??
 		"labelText"				"(Every Choice is an Illusion)"
-		"style"							"MainMenuHeader1"
+		"style"							"MainMenuHeader2"
 	}
 	
 	// Single player
