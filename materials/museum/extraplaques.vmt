@@ -1,0 +1,5 @@
+LightMappedGeneric
+{
+$basetexture "museum/extraplaques"
+$surfaceprop default
+}

@@ -1,0 +1,11 @@
+VertexlitGeneric
+{
+	$basetexture "models\props_parable\intercom"
+	$bumpmap "models\props_parable\intercom_normal"
+	
+	$phong 1
+	$phongexponent 15
+	$phongboost "2"
+	$phongfresnelranges "[0.1 0.5 1]"
+
+}

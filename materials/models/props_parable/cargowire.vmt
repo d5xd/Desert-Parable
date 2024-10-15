@@ -1,0 +1,11 @@
+VertexlitGeneric
+{
+	$basetexture "models\props_parable\cargowire"
+
+	$phong 1
+	$phongexponent 2
+	$phongboost "2"
+	$phongfresnelranges "[0.1 0.5 1]"
+	$basemapalphaphongmask 1
+
+}

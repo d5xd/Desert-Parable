@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_parable/papersheets2_7"
+	$nocull 1
+}

@@ -1,0 +1,5 @@
+LightMappedGeneric
+{
+$basetexture "museum/emailsplaque"
+$surfaceprop default
+}

@@ -1,0 +1,394 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.vmf
+Map revision 1
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+--- MAP LEAKED ---
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.bsp
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.vmf
+Map revision 2
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+Patching WVT material: maps/mapdesert1/nature/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+--- MAP LEAKED ---
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.bsp
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.vmf
+Map revision 2
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+Patching WVT material: maps/mapdesert1/nature/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+--- MAP LEAKED ---
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.bsp
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.vmf
+Map revision 3
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+Patching WVT material: maps/mapdesert1/nature/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2691 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9 texinfos to 4
+Reduced 3 texdatas to 2 (96 bytes to 70)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.prt
+  20 portalclusters
+  36 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 368
+Average clusters visible: 18
+Building PAS...
+Average clusters audible: 20
+visdatasize:284  compressed from 320
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.bsp
+96 faces
+187100 square feet [26942508.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+96 patches before subdivision
+96 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 992, max 24
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0022 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                  7/32768          84/393216   ( 0.0%) 
+brushsides              42/65536         336/524288   ( 0.1%) 
+planes                  52/65536        1040/1310720  ( 0.1%) 
+vertexes               125/65536        1500/786432   ( 0.2%) 
+nodes                   83/65536        2656/2097152  ( 0.1%) 
+texinfos                 4/12288         288/884736   ( 0.0%) 
+texdata                  2/2048           64/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   96/65536        5376/3670016  ( 0.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               12/65536         672/3670016  ( 0.0%) 
+leaves                  85/65536        2720/2097152  ( 0.1%) 
+leaffaces               96/65536         192/131072   ( 0.1%) 
+leafbrushes             52/65536         104/131072   ( 0.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              448/512000       1792/2048000  ( 0.1%) 
+edges                  237/256000        948/1024000  ( 0.1%) 
+LDR worldlights          2/16384         176/1441792  ( 0.0%) 
+HDR worldlights          0/16384           0/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              4/131072         40/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices            48/131072         96/262144   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      139384/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         284/16777216 ( 0.0%) 
+entdata               [variable]         513/393216   ( 0.1%) 
+LDR ambient table       85/65536         340/262144   ( 0.1%) 
+HDR ambient table       85/65536         340/262144   ( 0.1%) 
+LDR leaf ambient       148/65536        4144/1835008  ( 0.2%) 
+HDR leaf ambient        85/65536        2380/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       87136/0        ( 0.0%) 
+physics               [variable]        2691/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 208
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.bsp
+96 faces
+187100 square feet [26942508.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+96 patches before subdivision
+96 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 992, max 24
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0024 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                  7/32768          84/393216   ( 0.0%) 
+brushsides              42/65536         336/524288   ( 0.1%) 
+planes                  52/65536        1040/1310720  ( 0.1%) 
+vertexes               125/65536        1500/786432   ( 0.2%) 
+nodes                   83/65536        2656/2097152  ( 0.1%) 
+texinfos                 4/12288         288/884736   ( 0.0%) 
+texdata                  2/2048           64/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   96/65536        5376/3670016  ( 0.1%) 
+hdr faces               96/65536        5376/3670016  ( 0.1%) 
+origfaces               12/65536         672/3670016  ( 0.0%) 
+leaves                  85/65536        2720/2097152  ( 0.1%) 
+leaffaces               96/65536         192/131072   ( 0.1%) 
+leafbrushes             52/65536         104/131072   ( 0.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              448/512000       1792/2048000  ( 0.1%) 
+edges                  237/256000        948/1024000  ( 0.1%) 
+LDR worldlights          2/16384         176/1441792  ( 0.0%) 
+HDR worldlights          2/16384         176/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              4/131072         40/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices            48/131072         96/262144   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      139384/0        ( 0.0%) 
+HDR lightdata         [variable]      139384/0        ( 0.0%) 
+visdata               [variable]         284/16777216 ( 0.0%) 
+entdata               [variable]         513/393216   ( 0.1%) 
+LDR ambient table       85/65536         340/262144   ( 0.1%) 
+HDR ambient table       85/65536         340/262144   ( 0.1%) 
+LDR leaf ambient       148/65536        4144/1835008  ( 0.2%) 
+HDR leaf ambient       148/65536        4144/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       87136/0        ( 0.0%) 
+physics               [variable]        2691/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3
+
+Total triangle count: 208
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.vmf
+Map revision 5
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+Displacement 2 has bad geometry near -1024.00 0.00 53.95
+Can't compile displacement physics, exiting.  Texture is NATURE/BLENDGRASSDIRT001A
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.vmf
+Map revision 6
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+Patching WVT material: maps/mapdesert1/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+Displacement 2 has bad geometry near -1024.00 0.00 53.95
+Can't compile displacement physics, exiting.  Texture is NATURE/BLENDGRASSDIRT001A
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.vmf
+Map revision 7
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+Patching WVT material: maps/mapdesert1/nature/blendgrassdirt001a_wvt_patch
+Patching WVT material: maps/mapdesert1/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5440 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 25 texinfos to 17
+Reduced 7 texdatas to 5 (220 bytes to 167)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.prt
+  81 portalclusters
+ 231 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 23 visible clusters (0.00%)
+Total clusters visible: 5912
+Average clusters visible: 72
+Building PAS...
+Average clusters audible: 81
+visdatasize:2446  compressed from 2592
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.bsp
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.vmf
+Map revision 8
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+Patching WVT material: maps/mapdesert1/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4554 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 31 texinfos to 17
+Reduced 6 texdatas to 5 (168 bytes to 141)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.bsp
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.prt
+  75 portalclusters
+ 194 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 45 visible clusters (0.00%)
+Total clusters visible: 5434
+Average clusters visible: 72
+Building PAS...
+Average clusters audible: 75
+visdatasize:2104  compressed from 2400
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\mapdesert1.bsp

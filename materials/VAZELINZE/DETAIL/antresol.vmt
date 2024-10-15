@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "vazelinze\detail\antresol"
+	"$bumpmap" "vazelinze\detail\antresol_n"
+	"$surfaceprop" "wood"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.8 .8 .8]"
+}

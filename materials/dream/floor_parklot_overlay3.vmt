@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "dream/floor_parklot_overlay3"
+	"$translucent" 1
+	"$decal" 1
+	"$decalscale" 0.25
+}

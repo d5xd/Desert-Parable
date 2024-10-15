@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\TSP_Stanley_Enhanced/base_m_d"
+	"$bumpmap" "models\player\TSP_Stanley_Enhanced/base_m_n"
+	"$model" 1
+	"$halflambert" 1
+}

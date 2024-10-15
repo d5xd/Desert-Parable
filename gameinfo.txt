@@ -1,0 +1,20 @@
+"GameInfo"
+{
+	game	"The Parable Of Desert RUS"
+	title	"The Parable Of Desert"
+	GameData		"stanley.fgd"
+
+	type			"singleplayer_only"
+
+	FileSystem
+	{
+		SteamAppId	221910
+		ToolsAppId	211
+
+		SearchPaths
+		{
+			Game	|gameinfo_path|.
+			Game	|All_Source_Engine_Paths|thestanleyparable	
+					}
+	}
+}

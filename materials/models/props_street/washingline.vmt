@@ -1,0 +1,9 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "\models\props_street\washingline"
+	"$surfaceprop" "plastic"
+        "$bumpmap" "\models\props_street\washingline_normal"
+	"$nocull" 1
+
+
+}

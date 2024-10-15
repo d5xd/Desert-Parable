@@ -1,0 +1,12 @@
+LightmappedGeneric
+{
+$basetexture "vazelinze\stena\kraska03"
+$bumpmap "vazelinze\stena\pobelka01_n"
+$envmap env_cubemap
+//$normalmapalphaenvmapmask "1"
+$envmapsaturation "1"
+$envmapcontrast "1"
+$envmaptint "[.1 .1 .1]"
+$surfaceprop concrete
+"%keywords" vazelinze
+}

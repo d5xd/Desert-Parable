@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+$basetexture "stanley/colourgreen"
+$surfaceprop metal
+"%keywords" "thats right I'm hiding keywords"
+}

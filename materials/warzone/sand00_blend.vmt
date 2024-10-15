@@ -1,0 +1,8 @@
+"WorldVertexTransition"
+{
+	"%detailtype"	"warzone_sand01"
+	"$vertexfog"	"1"
+	"$basetexture"	"warzone/sand00"
+	"$basetexture2"	"warzone/sand01"
+	"$surfaceprop"	"sand"
+}

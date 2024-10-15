@@ -1,0 +1,16 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "models\xperia\glass"
+	"$nodecal" "1"
+	"$nocull" "1"
+	"$translucent" 1
+	"$phong" 1
+
+	"$phongboost" "1"
+	"$phongexponent" 7
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.35 .35 .35]"
+	"$envmapfresnel" "1"
+	"$phongfresnelranges" "[0.1 0.1 0.1]"
+}

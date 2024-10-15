@@ -1,0 +1,277 @@
+--------------------------
+If you're reading this then you're probably wondering
+why in the fuck are all of these textures numbered.
+Well you see son, ninja ripper likes to number its
+textures when it ports them. Long story short, I
+was much to lazy to rename them all. So yeah.
+
+Anyways, hopefully this list will help you look for
+whatever texture you're trying to find.
+
+
+
+Mansion1
+0274 = Chipped Floor
+0275 = Chipped Floor2
+0276 = Dirty Tile Backsplash
+0262_0 = White tile floor
+0263_0 = Red & white tile floor
+0261_0 = wood floor
+0260_0 = ceiling
+0255_0 = wood floor trim
+
+Mansion2
+0221_0 = Mid wood trim
+0251_0 = Base Board
+0228_0 = Shelf
+0254_0 = chipped wood
+
+Mansion3
+0212_0 = Poster1
+0213_0 = Poster2
+0214_0 = Poster3
+0215_0 = Tape
+0217_0 = Poster4
+0218_0 = Poster5
+0219_0 = Poster6
+0220_0 = Poster7
+
+Mansion4
+Door01 = Blue Door
+Window01 = Door Window
+0259_0 = brown wallpaper
+0250_0 = Green wallpaper
+0256_0 = door frame
+0264_0 = dirty green wallpaper
+
+Mansion5
+0252_0 = Chipped Wood pole
+0253_0 = Metal Lightswitch
+0159_0 = Plastic Lightswitch
+
+Mansion6
+0365_0 = Fabric Screen
+0144_0 = Curtain
+0145_0 = Window Wood
+0146_0 = Repeat texture 221
+0147_0 = metal hanger
+
+Mansion7
+0266_0 = Dirty Rug
+0265_0 = Green wall repeat
+0272_0 = Clean rug
+0156_0 = Green wall repeat
+0241_0 = Newspaper
+0242_0 = Banana skin
+0243_0 = Old banana skin
+0157_0 = Chipped wood
+0275_0 = Light bulb 
+0255_0 = Floor white wood repeat
+
+Mansion8
+0250_0 = Repeat Green Wallpaper
+0271_0 = Repeat tape
+0239_0 = Burger Shot Garb
+vroom = Car poster
+
+____________________________________________________________
+
+Props1
+0229_0 = Fridge Other
+0230_0 = Fridge Brushed Metal
+0231_0 = Fridge Main
+
+Props2
+0270_0 = Wooden Table
+
+Props3
+0197_0 = Picture Frame
+0211 = Picture 1
+
+Props4
+0160_0 = Bed Sheets
+0161_0 = Couch
+0162_0 = Bed Matress
+0163_0 = Bed Metal
+0164_0 = Bed Feet
+
+Props5
+0270_0 = Repeat Wooden Table
+
+Props6
+0148_0 = Lamp Base
+0149_0 = Repeat Fridge Main
+0150_0 = Lamp Shade
+
+Props7
+0142_0 = Chair Fabric 
+0143_0 = Chair Blanket
+
+Props8
+0267_0 = Shelf Repeat
+0271_0 = Tape Repeat
+
+Props9
+0268_0 = Corded Cloth
+0148_0 = Lamp Base Repeat
+0267_0 = Shelf Repeat
+
+Props10
+0348_0 = Radio
+0364_0 = Green Glass
+0320_0 = Vodka
+0197_0 = Picture Frame Repeat
+0227 = Picture 2
+
+Props11
+0347_0 = Red Chair
+
+Props12
+0245 = Tin Above Fridge
+0246 = Tin Above Fridge 2
+0184 = Wooden Thing 
+
+Props13
+0219_0 = Poster6 Repeat
+0217_0 = Poster4 Repeat
+0212_0 = Poster1 Repeat
+0239_0 = Burger Shot Garb Repeat
+0320_0 = Vodka Repeat
+0380_0 = Blue Striped Mug
+0379_0 = White mug
+0382_0 = Cola Can
+0381_0 = Dirty Plate1
+
+Props14
+0173_0 = White Mug Repeat
+0174_0 = White Pot
+0175_0 = Pots1
+0176_0 = Pots2
+0178_0 = BEANS
+0179_0 = Pots3
+0180_0 = Dirty White Pot
+0185_0 = Chop Block
+0186_0 = Fridge Main Repeat 
+0168_0 = Pots Handle 
+
+Props15
+0280_0 = Light Shade 
+0216_0 = Light Cord
+0275_0 = Light Bulb Repeat
+
+Props16
+0187_0 = VHS Player
+0270_0 = Repeat Wooden Table
+
+Props17
+0327_0 = Tv
+0328_0 = Rabbit Ears
+0811 = TV Screen
+
+Props18
+0147_0 = Repeat Metal Hanger
+0247_0 = Stove
+
+Props19
+0240_0 = Wood Stick
+0181_0 = Red pot
+0182_0 = Striped Mug
+0183_0 = Dirty Plate2
+0169_0 = Pile Of Pots
+0168_0 = Repeat Pots Handle
+0175_0 = Repeat Pots1 
+0174_0 = Repeat White Pot
+0176_0 = Repeat Pots2
+0173_0 = Repeat White Mug
+
+Props20
+0273_0 = Wood Roller Table
+0274_0 = Table Wheels
+
+Props21
+0224_0 = Green Cabinets 
+0225_0 = Cabinet Handles
+0222_0 = Counter Top
+0249_0 = Dirty Green Cabinets
+
+Props22
+0399_0 = Wine Cap
+0400_0 = Wine Bottle
+0401_0 = Grey Vase
+0168_0 = Repeat Pots Handle
+0175_0 = Repeat Pots1 
+0180_0 = Repeat Dirty White Pot
+0179_0 = Repeat Pots3
+0178_0 = Repeat BEANS
+0176_0 = Repeat Pots2
+0174_0 = Repeat White Pot
+0183_0 = Repeat Dirty Plate2
+0000_1 = Shelf Bowls
+
+Props23
+0233_0 = Stove Vent
+
+Props24
+0226_0 = Dresser Fabric 
+0235_0 = Pepper Box
+0248_0 = Shelf Cloth
+0165_0 = Cardboard Tube
+0166_0 = Cardboard Tube Logo
+0167_0 = Cardboard Tube Box
+
+Props25
+0224_0 = Repeat Green Cabinets 
+0225_0 = Repeat Cabinet Handles
+0249_0 = Repeat Dirty Green Cabinets
+
+Props26
+0223_0 = Kitchen Sink
+
+Props27
+0224_0 = Repeat Green Cabinets 
+0225_0 = Repeat Cabinet Handles
+0249_0 = Repeat Dirty Green Cabinets
+
+Props28
+0222_0 = Repeat Counter Top
+0227_0 = Dresser
+
+Props29
+0236_0 = Cardboard Box2
+
+Props30
+0237_0 = Trash Bin
+0238_0 = Trash Bag
+
+Props31
+0244_0 = Garbage Bag2
+0170_0 = Paint Can Lid
+0171_0 = Paint Can Sticker
+0172_0 = Sum bitch-ass Grey
+0240_0 = Repeat Wood Stick
+
+Props32
+0419 = Stove Stain
+0402 = Can Bottom
+0403 = Can Top
+0167_0 = Repeat Cardboard Tube Box
+0227_0 = Repeat Dresser
+
+Props33
+0339_0 = Green Chair Wood
+0340_0 = Green Chair Back
+0366_0 = Dirty Plate3
+0367_0 = Repeat Banana Skin
+0374_0 = Kitchen Table Sides
+0375_0 = Kitchen Table Top
+0379_0 = Repeat White Mug
+0380_0 = Repeat Striped Mug
+0381_0 = Repeat Dirty Plate1
+0382_0 = Repeat Cola Can
+
+Props34
+0321_0 = Basket
+0000_1 = Repeat Shelf Bowls
+0320_0 = Repeat Vodka
+0267_0 = Repeat Shelf
+0271_0 = Repeat Tape

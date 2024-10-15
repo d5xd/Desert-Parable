@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_parable/arrow"
+	
+	$phong 1
+	$phongexponent 10
+	$phongboost "2"
+	$phongfresnelranges "[0.1 0.5 1]"
+	$basemapalphaphongmask 1
+}

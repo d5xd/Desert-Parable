@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "museum/CreditsLeft"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "glass"
+	"$translucent" 1
+}

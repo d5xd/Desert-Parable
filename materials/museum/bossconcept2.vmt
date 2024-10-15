@@ -1,0 +1,7 @@
+LightMappedGeneric
+{
+$basetexture "museum/bossconcept2"
+$surfaceprop default
+"%noportal" 1
+"%keywords" "stanley"
+}

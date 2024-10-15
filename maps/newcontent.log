@@ -1,0 +1,2061 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent.vmf
+Map revision 3
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (22392 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 85 texinfos to 68
+Reduced 14 texdatas to 14 (349 bytes to 349)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent.prt
+ 151 portalclusters
+ 368 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 463 visible clusters (0.00%)
+Total clusters visible: 14660
+Average clusters visible: 97
+Building PAS...
+Average clusters audible: 143
+visdatasize:7108  compressed from 7248
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent.bsp
+362 faces
+22555 square feet [3247986.50 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+362 patches before subdivision
+3730 patches after subdivision
+17 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 129611, max 222
+transfer lists:   1.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(13099, 15079, 12273)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(4466, 5584, 3841)
+Build Patch/Sample Hash Table(s).....Done<0.0011 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+6 of 10 (60% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/4096           96/196608   ( 0.0%) 
+brushes                 62/32768         744/393216   ( 0.2%) 
+brushsides             374/65536        2992/524288   ( 0.6%) 
+planes                 180/65536        3600/1310720  ( 0.3%) 
+vertexes               516/65536        6192/786432   ( 0.8%) 
+nodes                  300/65536        9600/2097152  ( 0.5%) 
+texinfos                68/12288        4896/884736   ( 0.6%) 
+texdata                 14/2048          448/65536    ( 0.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  362/65536       20272/3670016  ( 0.6%) 
+hdr faces              362/65536       20272/3670016  ( 0.6%) 
+origfaces              210/65536       11760/3670016  ( 0.3%) 
+leaves                 303/65536        9696/2097152  ( 0.5%) 
+leaffaces              474/65536         948/131072   ( 0.7%) 
+leafbrushes            142/65536         284/131072   ( 0.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             2544/512000      10176/2048000  ( 0.5%) 
+edges                 1430/256000       5720/1024000  ( 0.6%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights         17/16384        1496/1441792  ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             37/131072        370/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           597/131072       1194/262144   ( 0.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 6/1024         2112/360448   ( 0.6%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      110108/0        ( 0.0%) 
+visdata               [variable]        7108/16777216 ( 0.0%) 
+entdata               [variable]        3675/393216   ( 0.9%) 
+LDR ambient table      303/65536        1212/262144   ( 0.5%) 
+HDR ambient table      303/65536        1212/262144   ( 0.5%) 
+LDR leaf ambient       303/65536        8484/1835008  ( 0.5%) 
+HDR leaf ambient       905/65536       25340/1835008  ( 1.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1756     ( 0.1%) 
+pakfile               [variable]       99750/0        ( 0.0%) 
+physics               [variable]       22392/4194304  ( 0.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 980
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent.vmf
+Map revision 6
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (52.00 -1044.00 -1.75) leaked!
+--- MAP LEAKED ---
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent.vmf
+Map revision 7
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 26 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (52436 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 250 texinfos to 163
+Reduced 33 texdatas to 33 (729 bytes to 729)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent.prt
+ 275 portalclusters
+ 801 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1566 visible clusters (0.00%)
+Total clusters visible: 43539
+Average clusters visible: 158
+Building PAS...
+Average clusters audible: 275
+visdatasize:21563  compressed from 22000
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent.bsp
+917 faces
+161918 square feet [23316200.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+917 patches before subdivision
+18025 patches after subdivision
+366 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 876065, max 273
+transfer lists:   6.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(66102, 62846, 37131)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(10395, 11878, 7959)
+Build Patch/Sample Hash Table(s).....Done<0.0141 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+256 of 336 (76% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/4096          288/196608   ( 0.1%) 
+brushes                155/32768        1860/393216   ( 0.5%) 
+brushsides            1027/65536        8216/524288   ( 1.6%) 
+planes                 658/65536       13160/1310720  ( 1.0%) 
+vertexes              1311/65536       15732/786432   ( 2.0%) 
+nodes                  578/65536       18496/2097152  ( 0.9%) 
+texinfos               163/12288       11736/884736   ( 1.3%) 
+texdata                 33/2048         1056/65536    ( 1.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  917/65536       51352/3670016  ( 1.4%) 
+hdr faces              917/65536       51352/3670016  ( 1.4%) 
+origfaces              539/65536       30184/3670016  ( 0.8%) 
+leaves                 585/65536       18720/2097152  ( 0.9%) 
+leaffaces             1021/65536        2042/131072   ( 1.6%) 
+leafbrushes            295/65536         590/131072   ( 0.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             6585/512000      26340/2048000  ( 1.3%) 
+edges                 3665/256000      14660/1024000  ( 1.4%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        366/16384       32208/1441792  ( 2.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             92/131072        920/1310720  ( 0.1%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices          1512/131072       3024/262144   ( 1.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                34/1024        11968/360448   ( 3.3%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      420000/0        ( 0.0%) 
+visdata               [variable]       21563/16777216 ( 0.1%) 
+entdata               [variable]       16314/393216   ( 4.1%) 
+LDR ambient table      585/65536        2340/262144   ( 0.9%) 
+HDR ambient table      585/65536        2340/262144   ( 0.9%) 
+LDR leaf ambient       585/65536       16380/1835008  ( 0.9%) 
+HDR leaf ambient      1515/65536       42420/1835008  ( 2.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/8020     ( 0.0%) 
+pakfile               [variable]      157496/0        ( 0.0%) 
+physics               [variable]       52436/4194304  ( 1.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 2595
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent.bsp
+13 seconds elapsed
+
+
+
+materialPath: D:\desertparablerus1\materials
+Loading d:\desertparablerus1\maps\newcontent.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 240 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\desertparablerus1\maps\newcontent.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/trainyard*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/trainyard*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (109372 bytes)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (-106.00, -1050.00, -2.00)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (-124.00, -782.00, -24.25)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (-106.00, -915.30, -2.00)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (52.00, -660.00, -1.75)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (52.00, -794.70, -1.75)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (70.00, -928.00, -24.00)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (48.00, -1056.00, -1.75)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (-102.00, -654.00, -2.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 364 texinfos to 202
+Reduced 42 texdatas to 39 (913 bytes to 851)
+Writing d:\desertparablerus1\maps\newcontent.bsp
+0 seconds elapsed
+
+
+
+20 threads
+reading d:\desertparablerus1\maps\newcontent.bsp
+reading d:\desertparablerus1\maps\newcontent.prt
+ 130 portalclusters
+ 273 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 31 visible clusters (0.48%)
+Total clusters visible: 6455
+Average clusters visible: 49
+Building PAS...
+Average clusters audible: 92
+visdatasize:5233  compressed from 6240
+writing d:\desertparablerus1\maps\newcontent.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading d:\desertparablerus1\maps\newcontent.bsp
+Error! Unable to load file "models/props_downtown/metal_window01_16.dx80.vtx"
+Error! Unable to load file "models/props_interiors/sofa_chair02.dx80.vtx"
+Error! Unable to load file "models/props_downtown/metal_door_112_frame.dx80.vtx"
+Error! Unable to load file "models/props_lights/light_panel_64_glass.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/offpaintingd.dx80.vtx"
+Error! Unable to load file "models/props_lights/light_panel_64_base.dx80.vtx"
+Error! Unable to load file "models/props_parable/postitblock_blank.dx80.vtx"
+Error! Unable to load file "models/props_office/pencilsharpener01.dx80.vtx"
+Error! Unable to load file "models/props_interiors/coffee_table_rectangular.dx80.vtx"
+Error! Unable to load file "models/props_downtown/metal_door_112_16_frame.dx80.vtx"
+Error! Unable to load file "models/props_office/vending_machine01.dx80.vtx"
+Error! Unable to load file "models/props_downtown/notepad.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_7.dx80.vtx"
+Error! Unable to load file "models/props_office/filebox_lid_1980.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_4.dx80.vtx"
+Error! Unable to load file "models/props_office/filebox_1980.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/offpaintinge.dx80.vtx"
+Error! Unable to load file "models/props_office/clock_wall_1980.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/plant01_static.dx80.vtx"
+Error! Unable to load file "models/traincar_interior/traincar_envelope.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_6.dx80.vtx"
+Error! Unable to load file "models/props_urban/hotel_ceiling_firealarm001.dx80.vtx"
+Error! Unable to load file "models/props_interiors/sofa02.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/box_office_indoor_32.dx80.vtx"
+Error! Unable to load file "models/props_office/cardboardbox_b_1970.dx80.vtx"
+Error! Unable to load file "models/props/stairs/stairs01_128w/stairs01_128.dx80.vtx"
+Error! Unable to load file "models/props_office/chair_swivel.dx80.vtx"
+Error! Unable to load file "models/props_office/cubicle_3sided.dx80.vtx"
+Error! Unable to load file "models/prop_cables/cable_floor_04.dx80.vtx"
+830 faces
+22600 square feet [3254483.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+830 patches before subdivision
+12352 patches after subdivision
+366 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 868733, max 288
+transfer lists:   6.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(16286, 20255, 19835)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5884, 8382, 7007)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1992, 3106, 2362)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(710, 1231, 847)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(250, 478, 305)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(89, 188, 112)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(32, 74, 41)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(11, 29, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(4, 11, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 5, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0008 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+256 of 336 (76% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                393/8192         4716/98304    ( 4.8%) 
+brushsides            2475/65536       19800/524288   ( 3.8%) 
+planes                1006/65536       20120/1310720  ( 1.5%) 
+vertexes              1576/65536       18912/786432   ( 2.4%) 
+nodes                  371/65536       11872/2097152  ( 0.6%) 
+texinfos               202/12288       14544/884736   ( 1.6%) 
+texdata                 39/2048         1248/65536    ( 1.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  830/65536       46480/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              559/65536       31304/3670016  ( 0.9%) 
+leaves                 377/65536       12064/2097152  ( 0.6%) 
+leaffaces              993/65536        1986/131072   ( 1.5%) 
+leafbrushes            551/65536        1102/131072   ( 0.8%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6518/512000      26072/2048000  ( 1.3%) 
+edges                 4250/256000      17000/1024000  ( 1.7%) 
+LDR worldlights        366/8192        32208/720896   ( 4.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            126/32768        1260/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2712/65536        5424/131072   ( 4.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                43/512         15136/180224   ( 8.4%) 
+LDR lightdata         [variable]      267620/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        5233/16777216 ( 0.0%) 
+entdata               [variable]       16288/393216   ( 4.1%) 
+LDR ambient table      377/65536        1508/262144   ( 0.6%) 
+HDR ambient table      377/65536        1508/262144   ( 0.6%) 
+LDR leaf ambient       842/65536       23576/1835008  ( 1.3%) 
+HDR leaf ambient       377/65536       10556/1835008  ( 0.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/8360     ( 0.0%) 
+pakfile               [variable]      105671/0        ( 0.0%) 
+physics               [variable]      109372/4194304  ( 2.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2622
+Writing d:\desertparablerus1\maps\newcontent.bsp
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading d:\desertparablerus1\maps\newcontent.bsp
+Error! Unable to load file "models/props_downtown/metal_window01_16.dx80.vtx"
+Error! Unable to load file "models/props_interiors/sofa_chair02.dx80.vtx"
+Error! Unable to load file "models/props_downtown/metal_door_112_frame.dx80.vtx"
+Error! Unable to load file "models/props_lights/light_panel_64_glass.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/offpaintingd.dx80.vtx"
+Error! Unable to load file "models/props_lights/light_panel_64_base.dx80.vtx"
+Error! Unable to load file "models/props_parable/postitblock_blank.dx80.vtx"
+Error! Unable to load file "models/props_office/pencilsharpener01.dx80.vtx"
+Error! Unable to load file "models/props_interiors/coffee_table_rectangular.dx80.vtx"
+Error! Unable to load file "models/props_downtown/metal_door_112_16_frame.dx80.vtx"
+Error! Unable to load file "models/props_office/vending_machine01.dx80.vtx"
+Error! Unable to load file "models/props_downtown/notepad.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_7.dx80.vtx"
+Error! Unable to load file "models/props_office/filebox_lid_1980.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_4.dx80.vtx"
+Error! Unable to load file "models/props_office/filebox_1980.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/offpaintinge.dx80.vtx"
+Error! Unable to load file "models/props_office/clock_wall_1980.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/plant01_static.dx80.vtx"
+Error! Unable to load file "models/traincar_interior/traincar_envelope.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_6.dx80.vtx"
+Error! Unable to load file "models/props_urban/hotel_ceiling_firealarm001.dx80.vtx"
+Error! Unable to load file "models/props_interiors/sofa02.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/box_office_indoor_32.dx80.vtx"
+Error! Unable to load file "models/props_office/cardboardbox_b_1970.dx80.vtx"
+Error! Unable to load file "models/props/stairs/stairs01_128w/stairs01_128.dx80.vtx"
+Error! Unable to load file "models/props_office/chair_swivel.dx80.vtx"
+Error! Unable to load file "models/props_office/cubicle_3sided.dx80.vtx"
+Error! Unable to load file "models/prop_cables/cable_floor_04.dx80.vtx"
+830 faces
+22600 square feet [3254483.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+830 patches before subdivision
+12352 patches after subdivision
+366 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 868733, max 288
+transfer lists:   6.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(16286, 20255, 19835)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5884, 8382, 7007)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1992, 3106, 2362)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(710, 1231, 847)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(250, 478, 305)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(89, 188, 112)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(32, 74, 41)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(11, 29, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(4, 11, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 5, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0009 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+256 of 336 (76% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                393/8192         4716/98304    ( 4.8%) 
+brushsides            2475/65536       19800/524288   ( 3.8%) 
+planes                1006/65536       20120/1310720  ( 1.5%) 
+vertexes              1576/65536       18912/786432   ( 2.4%) 
+nodes                  371/65536       11872/2097152  ( 0.6%) 
+texinfos               202/12288       14544/884736   ( 1.6%) 
+texdata                 39/2048         1248/65536    ( 1.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  830/65536       46480/3670016  ( 1.3%) 
+hdr faces              830/65536       46480/3670016  ( 1.3%) 
+origfaces              559/65536       31304/3670016  ( 0.9%) 
+leaves                 377/65536       12064/2097152  ( 0.6%) 
+leaffaces              993/65536        1986/131072   ( 1.5%) 
+leafbrushes            551/65536        1102/131072   ( 0.8%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6518/512000      26072/2048000  ( 1.3%) 
+edges                 4250/256000      17000/1024000  ( 1.7%) 
+LDR worldlights        366/8192        32208/720896   ( 4.5%) 
+HDR worldlights        366/8192        32208/720896   ( 4.5%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            126/32768        1260/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2712/65536        5424/131072   ( 4.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                43/512         15136/180224   ( 8.4%) 
+LDR lightdata         [variable]      267620/0        ( 0.0%) 
+HDR lightdata         [variable]      267620/0        ( 0.0%) 
+visdata               [variable]        5233/16777216 ( 0.0%) 
+entdata               [variable]       16288/393216   ( 4.1%) 
+LDR ambient table      377/65536        1508/262144   ( 0.6%) 
+HDR ambient table      377/65536        1508/262144   ( 0.6%) 
+LDR leaf ambient       842/65536       23576/1835008  ( 1.3%) 
+HDR leaf ambient       842/65536       23576/1835008  ( 1.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/8360     ( 0.0%) 
+pakfile               [variable]      105671/0        ( 0.0%) 
+physics               [variable]      109372/4194304  ( 2.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2622
+Writing d:\desertparablerus1\maps\newcontent.bsp
+7 seconds elapsed
+
+
+
+materialPath: D:\desertparablerus1\materials
+Loading d:\desertparablerus1\maps\newcontent.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 240 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\desertparablerus1\maps\newcontent.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/trainyard*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/trainyard*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (109372 bytes)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (-106.00, -1050.00, -2.00)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (-124.00, -782.00, -24.25)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (-106.00, -915.30, -2.00)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (52.00, -660.00, -1.75)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (52.00, -794.70, -1.75)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (70.00, -928.00, -24.00)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (48.00, -1056.00, -1.75)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (-102.00, -654.00, -2.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 364 texinfos to 202
+Reduced 42 texdatas to 39 (913 bytes to 851)
+Writing d:\desertparablerus1\maps\newcontent.bsp
+0 seconds elapsed
+
+
+
+20 threads
+reading d:\desertparablerus1\maps\newcontent.bsp
+reading d:\desertparablerus1\maps\newcontent.prt
+ 130 portalclusters
+ 273 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 31 visible clusters (0.48%)
+Total clusters visible: 6455
+Average clusters visible: 49
+Building PAS...
+Average clusters audible: 92
+visdatasize:5233  compressed from 6240
+writing d:\desertparablerus1\maps\newcontent.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading d:\desertparablerus1\maps\newcontent.bsp
+Error! Unable to load file "models/props_downtown/metal_window01_16.dx80.vtx"
+Error! Unable to load file "models/props_interiors/sofa_chair02.dx80.vtx"
+Error! Unable to load file "models/props_downtown/metal_door_112_frame.dx80.vtx"
+Error! Unable to load file "models/props_lights/light_panel_64_glass.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/offpaintingd.dx80.vtx"
+Error! Unable to load file "models/props_lights/light_panel_64_base.dx80.vtx"
+Error! Unable to load file "models/props_parable/postitblock_blank.dx80.vtx"
+Error! Unable to load file "models/props_office/pencilsharpener01.dx80.vtx"
+Error! Unable to load file "models/props_interiors/coffee_table_rectangular.dx80.vtx"
+Error! Unable to load file "models/props_downtown/metal_door_112_16_frame.dx80.vtx"
+Error! Unable to load file "models/props_office/vending_machine01.dx80.vtx"
+Error! Unable to load file "models/props_downtown/notepad.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_7.dx80.vtx"
+Error! Unable to load file "models/props_office/filebox_lid_1980.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_4.dx80.vtx"
+Error! Unable to load file "models/props_office/filebox_1980.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/offpaintinge.dx80.vtx"
+Error! Unable to load file "models/props_office/clock_wall_1980.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/plant01_static.dx80.vtx"
+Error! Unable to load file "models/traincar_interior/traincar_envelope.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_6.dx80.vtx"
+Error! Unable to load file "models/props_urban/hotel_ceiling_firealarm001.dx80.vtx"
+Error! Unable to load file "models/props_interiors/sofa02.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/box_office_indoor_32.dx80.vtx"
+Error! Unable to load file "models/props_office/cardboardbox_b_1970.dx80.vtx"
+Error! Unable to load file "models/props/stairs/stairs01_128w/stairs01_128.dx80.vtx"
+Error! Unable to load file "models/props_office/chair_swivel.dx80.vtx"
+Error! Unable to load file "models/props_office/cubicle_3sided.dx80.vtx"
+Error! Unable to load file "models/prop_cables/cable_floor_04.dx80.vtx"
+830 faces
+22600 square feet [3254483.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+830 patches before subdivision
+12352 patches after subdivision
+366 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 868733, max 288
+transfer lists:   6.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(16286, 20255, 19835)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5884, 8382, 7007)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1992, 3106, 2362)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(710, 1231, 847)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(250, 478, 305)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(89, 188, 112)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(32, 74, 41)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(11, 29, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(4, 11, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 5, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0012 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+256 of 336 (76% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                393/8192         4716/98304    ( 4.8%) 
+brushsides            2475/65536       19800/524288   ( 3.8%) 
+planes                1006/65536       20120/1310720  ( 1.5%) 
+vertexes              1576/65536       18912/786432   ( 2.4%) 
+nodes                  371/65536       11872/2097152  ( 0.6%) 
+texinfos               202/12288       14544/884736   ( 1.6%) 
+texdata                 39/2048         1248/65536    ( 1.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  830/65536       46480/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              559/65536       31304/3670016  ( 0.9%) 
+leaves                 377/65536       12064/2097152  ( 0.6%) 
+leaffaces              993/65536        1986/131072   ( 1.5%) 
+leafbrushes            551/65536        1102/131072   ( 0.8%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6518/512000      26072/2048000  ( 1.3%) 
+edges                 4250/256000      17000/1024000  ( 1.7%) 
+LDR worldlights        366/8192        32208/720896   ( 4.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            126/32768        1260/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2712/65536        5424/131072   ( 4.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                43/512         15136/180224   ( 8.4%) 
+LDR lightdata         [variable]      267620/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        5233/16777216 ( 0.0%) 
+entdata               [variable]       16594/393216   ( 4.2%) 
+LDR ambient table      377/65536        1508/262144   ( 0.6%) 
+HDR ambient table      377/65536        1508/262144   ( 0.6%) 
+LDR leaf ambient       842/65536       23576/1835008  ( 1.3%) 
+HDR leaf ambient       377/65536       10556/1835008  ( 0.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/8360     ( 0.0%) 
+pakfile               [variable]      105671/0        ( 0.0%) 
+physics               [variable]      109372/4194304  ( 2.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2622
+Writing d:\desertparablerus1\maps\newcontent.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading d:\desertparablerus1\maps\newcontent.bsp
+Error! Unable to load file "models/props_downtown/metal_window01_16.dx80.vtx"
+Error! Unable to load file "models/props_interiors/sofa_chair02.dx80.vtx"
+Error! Unable to load file "models/props_downtown/metal_door_112_frame.dx80.vtx"
+Error! Unable to load file "models/props_lights/light_panel_64_glass.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/offpaintingd.dx80.vtx"
+Error! Unable to load file "models/props_lights/light_panel_64_base.dx80.vtx"
+Error! Unable to load file "models/props_parable/postitblock_blank.dx80.vtx"
+Error! Unable to load file "models/props_office/pencilsharpener01.dx80.vtx"
+Error! Unable to load file "models/props_interiors/coffee_table_rectangular.dx80.vtx"
+Error! Unable to load file "models/props_downtown/metal_door_112_16_frame.dx80.vtx"
+Error! Unable to load file "models/props_office/vending_machine01.dx80.vtx"
+Error! Unable to load file "models/props_downtown/notepad.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_7.dx80.vtx"
+Error! Unable to load file "models/props_office/filebox_lid_1980.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_4.dx80.vtx"
+Error! Unable to load file "models/props_office/filebox_1980.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/offpaintinge.dx80.vtx"
+Error! Unable to load file "models/props_office/clock_wall_1980.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/plant01_static.dx80.vtx"
+Error! Unable to load file "models/traincar_interior/traincar_envelope.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_6.dx80.vtx"
+Error! Unable to load file "models/props_urban/hotel_ceiling_firealarm001.dx80.vtx"
+Error! Unable to load file "models/props_interiors/sofa02.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/box_office_indoor_32.dx80.vtx"
+Error! Unable to load file "models/props_office/cardboardbox_b_1970.dx80.vtx"
+Error! Unable to load file "models/props/stairs/stairs01_128w/stairs01_128.dx80.vtx"
+Error! Unable to load file "models/props_office/chair_swivel.dx80.vtx"
+Error! Unable to load file "models/props_office/cubicle_3sided.dx80.vtx"
+Error! Unable to load file "models/prop_cables/cable_floor_04.dx80.vtx"
+830 faces
+22600 square feet [3254483.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+830 patches before subdivision
+12352 patches after subdivision
+366 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 868733, max 288
+transfer lists:   6.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(16286, 20255, 19835)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5884, 8382, 7007)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1992, 3106, 2362)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(710, 1231, 847)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(250, 478, 305)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(89, 188, 112)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(32, 74, 41)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(11, 29, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(4, 11, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 5, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0008 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+256 of 336 (76% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                393/8192         4716/98304    ( 4.8%) 
+brushsides            2475/65536       19800/524288   ( 3.8%) 
+planes                1006/65536       20120/1310720  ( 1.5%) 
+vertexes              1576/65536       18912/786432   ( 2.4%) 
+nodes                  371/65536       11872/2097152  ( 0.6%) 
+texinfos               202/12288       14544/884736   ( 1.6%) 
+texdata                 39/2048         1248/65536    ( 1.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  830/65536       46480/3670016  ( 1.3%) 
+hdr faces              830/65536       46480/3670016  ( 1.3%) 
+origfaces              559/65536       31304/3670016  ( 0.9%) 
+leaves                 377/65536       12064/2097152  ( 0.6%) 
+leaffaces              993/65536        1986/131072   ( 1.5%) 
+leafbrushes            551/65536        1102/131072   ( 0.8%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6518/512000      26072/2048000  ( 1.3%) 
+edges                 4250/256000      17000/1024000  ( 1.7%) 
+LDR worldlights        366/8192        32208/720896   ( 4.5%) 
+HDR worldlights        366/8192        32208/720896   ( 4.5%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            126/32768        1260/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2712/65536        5424/131072   ( 4.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                43/512         15136/180224   ( 8.4%) 
+LDR lightdata         [variable]      267620/0        ( 0.0%) 
+HDR lightdata         [variable]      267620/0        ( 0.0%) 
+visdata               [variable]        5233/16777216 ( 0.0%) 
+entdata               [variable]       16594/393216   ( 4.2%) 
+LDR ambient table      377/65536        1508/262144   ( 0.6%) 
+HDR ambient table      377/65536        1508/262144   ( 0.6%) 
+LDR leaf ambient       842/65536       23576/1835008  ( 1.3%) 
+HDR leaf ambient       842/65536       23576/1835008  ( 1.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/8360     ( 0.0%) 
+pakfile               [variable]      105671/0        ( 0.0%) 
+physics               [variable]      109372/4194304  ( 2.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2622
+Writing d:\desertparablerus1\maps\newcontent.bsp
+4 seconds elapsed
+
+
+
+materialPath: D:\desertparablerus1\materials
+Loading d:\desertparablerus1\maps\newcontent.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 240 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\desertparablerus1\maps\newcontent.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/trainyard*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/trainyard*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (109372 bytes)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (-106.00, -1050.00, -2.00)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (-124.00, -782.00, -24.25)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (-106.00, -915.30, -2.00)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (52.00, -660.00, -1.75)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (52.00, -794.70, -1.75)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (70.00, -928.00, -24.00)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (48.00, -1056.00, -1.75)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (-102.00, -654.00, -2.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 364 texinfos to 202
+Reduced 42 texdatas to 39 (913 bytes to 851)
+Writing d:\desertparablerus1\maps\newcontent.bsp
+0 seconds elapsed
+
+
+
+20 threads
+reading d:\desertparablerus1\maps\newcontent.bsp
+reading d:\desertparablerus1\maps\newcontent.prt
+ 130 portalclusters
+ 273 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 31 visible clusters (0.48%)
+Total clusters visible: 6455
+Average clusters visible: 49
+Building PAS...
+Average clusters audible: 92
+visdatasize:5233  compressed from 6240
+writing d:\desertparablerus1\maps\newcontent.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading d:\desertparablerus1\maps\newcontent.bsp
+Error! Unable to load file "models/props_downtown/metal_window01_16.dx80.vtx"
+Error! Unable to load file "models/props_interiors/sofa_chair02.dx80.vtx"
+Error! Unable to load file "models/props_downtown/metal_door_112_frame.dx80.vtx"
+Error! Unable to load file "models/props_lights/light_panel_64_glass.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/offpaintingd.dx80.vtx"
+Error! Unable to load file "models/props_lights/light_panel_64_base.dx80.vtx"
+Error! Unable to load file "models/props_parable/postitblock_blank.dx80.vtx"
+Error! Unable to load file "models/props_office/pencilsharpener01.dx80.vtx"
+Error! Unable to load file "models/props_interiors/coffee_table_rectangular.dx80.vtx"
+Error! Unable to load file "models/props_downtown/metal_door_112_16_frame.dx80.vtx"
+Error! Unable to load file "models/props_office/vending_machine01.dx80.vtx"
+Error! Unable to load file "models/props_downtown/notepad.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_7.dx80.vtx"
+Error! Unable to load file "models/props_office/filebox_lid_1980.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_4.dx80.vtx"
+Error! Unable to load file "models/props_office/filebox_1980.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/offpaintinge.dx80.vtx"
+Error! Unable to load file "models/props_office/clock_wall_1980.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/plant01_static.dx80.vtx"
+Error! Unable to load file "models/traincar_interior/traincar_envelope.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_6.dx80.vtx"
+Error! Unable to load file "models/props_urban/hotel_ceiling_firealarm001.dx80.vtx"
+Error! Unable to load file "models/props_interiors/sofa02.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/box_office_indoor_32.dx80.vtx"
+Error! Unable to load file "models/props_office/cardboardbox_b_1970.dx80.vtx"
+Error! Unable to load file "models/props/stairs/stairs01_128w/stairs01_128.dx80.vtx"
+Error! Unable to load file "models/props_office/chair_swivel.dx80.vtx"
+Error! Unable to load file "models/props_office/cubicle_3sided.dx80.vtx"
+Error! Unable to load file "models/prop_cables/cable_floor_04.dx80.vtx"
+830 faces
+22600 square feet [3254485.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+830 patches before subdivision
+12352 patches after subdivision
+383 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 879135, max 289
+transfer lists:   6.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(17615, 22084, 22783)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(6450, 9056, 7897)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2241, 3366, 2644)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(820, 1332, 937)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(300, 518, 334)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(112, 204, 121)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(42, 80, 44)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(16, 32, 16)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(6, 13, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2, 5, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0009 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+256 of 336 (76% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                392/8192         4704/98304    ( 4.8%) 
+brushsides            2469/65536       19752/524288   ( 3.8%) 
+planes                 996/65536       19920/1310720  ( 1.5%) 
+vertexes              1568/65536       18816/786432   ( 2.4%) 
+nodes                  371/65536       11872/2097152  ( 0.6%) 
+texinfos               202/12288       14544/884736   ( 1.6%) 
+texdata                 39/2048         1248/65536    ( 1.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  830/65536       46480/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              559/65536       31304/3670016  ( 0.9%) 
+leaves                 377/65536       12064/2097152  ( 0.6%) 
+leaffaces              993/65536        1986/131072   ( 1.5%) 
+leafbrushes            550/65536        1100/131072   ( 0.8%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6512/512000      26048/2048000  ( 1.3%) 
+edges                 4247/256000      16988/1024000  ( 1.7%) 
+LDR worldlights        383/8192        33704/720896   ( 4.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            126/32768        1260/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2712/65536        5424/131072   ( 4.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                43/512         15136/180224   ( 8.4%) 
+LDR lightdata         [variable]      267584/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        5233/16777216 ( 0.0%) 
+entdata               [variable]       20094/393216   ( 5.1%) 
+LDR ambient table      377/65536        1508/262144   ( 0.6%) 
+HDR ambient table      377/65536        1508/262144   ( 0.6%) 
+LDR leaf ambient      1197/65536       33516/1835008  ( 1.8%) 
+HDR leaf ambient       377/65536       10556/1835008  ( 0.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/8360     ( 0.0%) 
+pakfile               [variable]      105671/0        ( 0.0%) 
+physics               [variable]      109372/4194304  ( 2.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2616
+Writing d:\desertparablerus1\maps\newcontent.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading d:\desertparablerus1\maps\newcontent.bsp
+Error! Unable to load file "models/props_downtown/metal_window01_16.dx80.vtx"
+Error! Unable to load file "models/props_interiors/sofa_chair02.dx80.vtx"
+Error! Unable to load file "models/props_downtown/metal_door_112_frame.dx80.vtx"
+Error! Unable to load file "models/props_lights/light_panel_64_glass.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/offpaintingd.dx80.vtx"
+Error! Unable to load file "models/props_lights/light_panel_64_base.dx80.vtx"
+Error! Unable to load file "models/props_parable/postitblock_blank.dx80.vtx"
+Error! Unable to load file "models/props_office/pencilsharpener01.dx80.vtx"
+Error! Unable to load file "models/props_interiors/coffee_table_rectangular.dx80.vtx"
+Error! Unable to load file "models/props_downtown/metal_door_112_16_frame.dx80.vtx"
+Error! Unable to load file "models/props_office/vending_machine01.dx80.vtx"
+Error! Unable to load file "models/props_downtown/notepad.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_7.dx80.vtx"
+Error! Unable to load file "models/props_office/filebox_lid_1980.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_4.dx80.vtx"
+Error! Unable to load file "models/props_office/filebox_1980.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/offpaintinge.dx80.vtx"
+Error! Unable to load file "models/props_office/clock_wall_1980.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/plant01_static.dx80.vtx"
+Error! Unable to load file "models/traincar_interior/traincar_envelope.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_6.dx80.vtx"
+Error! Unable to load file "models/props_urban/hotel_ceiling_firealarm001.dx80.vtx"
+Error! Unable to load file "models/props_interiors/sofa02.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/box_office_indoor_32.dx80.vtx"
+Error! Unable to load file "models/props_office/cardboardbox_b_1970.dx80.vtx"
+Error! Unable to load file "models/props/stairs/stairs01_128w/stairs01_128.dx80.vtx"
+Error! Unable to load file "models/props_office/chair_swivel.dx80.vtx"
+Error! Unable to load file "models/props_office/cubicle_3sided.dx80.vtx"
+Error! Unable to load file "models/prop_cables/cable_floor_04.dx80.vtx"
+830 faces
+22600 square feet [3254485.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+830 patches before subdivision
+12352 patches after subdivision
+383 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 879135, max 289
+transfer lists:   6.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(17615, 22084, 22783)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(6450, 9056, 7897)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2241, 3366, 2644)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(820, 1332, 937)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(300, 518, 334)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(112, 204, 121)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(42, 80, 44)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(16, 32, 16)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(6, 13, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2, 5, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0023 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+256 of 336 (76% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                392/8192         4704/98304    ( 4.8%) 
+brushsides            2469/65536       19752/524288   ( 3.8%) 
+planes                 996/65536       19920/1310720  ( 1.5%) 
+vertexes              1568/65536       18816/786432   ( 2.4%) 
+nodes                  371/65536       11872/2097152  ( 0.6%) 
+texinfos               202/12288       14544/884736   ( 1.6%) 
+texdata                 39/2048         1248/65536    ( 1.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  830/65536       46480/3670016  ( 1.3%) 
+hdr faces              830/65536       46480/3670016  ( 1.3%) 
+origfaces              559/65536       31304/3670016  ( 0.9%) 
+leaves                 377/65536       12064/2097152  ( 0.6%) 
+leaffaces              993/65536        1986/131072   ( 1.5%) 
+leafbrushes            550/65536        1100/131072   ( 0.8%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6512/512000      26048/2048000  ( 1.3%) 
+edges                 4247/256000      16988/1024000  ( 1.7%) 
+LDR worldlights        383/8192        33704/720896   ( 4.7%) 
+HDR worldlights        383/8192        33704/720896   ( 4.7%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            126/32768        1260/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2712/65536        5424/131072   ( 4.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                43/512         15136/180224   ( 8.4%) 
+LDR lightdata         [variable]      267584/0        ( 0.0%) 
+HDR lightdata         [variable]      267584/0        ( 0.0%) 
+visdata               [variable]        5233/16777216 ( 0.0%) 
+entdata               [variable]       20094/393216   ( 5.1%) 
+LDR ambient table      377/65536        1508/262144   ( 0.6%) 
+HDR ambient table      377/65536        1508/262144   ( 0.6%) 
+LDR leaf ambient      1197/65536       33516/1835008  ( 1.8%) 
+HDR leaf ambient      1197/65536       33516/1835008  ( 1.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/8360     ( 0.0%) 
+pakfile               [variable]      105671/0        ( 0.0%) 
+physics               [variable]      109372/4194304  ( 2.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2616
+Writing d:\desertparablerus1\maps\newcontent.bsp
+4 seconds elapsed
+
+
+
+materialPath: D:\desertparablerus1\materials
+Loading d:\desertparablerus1\maps\newcontent.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 240 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\desertparablerus1\maps\newcontent.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/trainyard*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/trainyard*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (109372 bytes)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (-106.00, -1050.00, -2.00)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (-124.00, -782.00, -24.25)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (-106.00, -915.30, -2.00)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (52.00, -660.00, -1.75)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (52.00, -794.70, -1.75)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (70.00, -928.00, -24.00)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (48.00, -1056.00, -1.75)
+Static prop models/props_forest/fence_trail_128.mdl outside the map (-102.00, -654.00, -2.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 364 texinfos to 202
+Reduced 42 texdatas to 39 (913 bytes to 851)
+Writing d:\desertparablerus1\maps\newcontent.bsp
+0 seconds elapsed
+
+
+
+20 threads
+reading d:\desertparablerus1\maps\newcontent.bsp
+reading d:\desertparablerus1\maps\newcontent.prt
+ 130 portalclusters
+ 273 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 31 visible clusters (0.48%)
+Total clusters visible: 6455
+Average clusters visible: 49
+Building PAS...
+Average clusters audible: 92
+visdatasize:5233  compressed from 6240
+writing d:\desertparablerus1\maps\newcontent.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading d:\desertparablerus1\maps\newcontent.bsp
+Error! Unable to load file "models/props_downtown/metal_window01_16.dx80.vtx"
+Error! Unable to load file "models/props_interiors/sofa_chair02.dx80.vtx"
+Error! Unable to load file "models/props_downtown/metal_door_112_frame.dx80.vtx"
+Error! Unable to load file "models/props_lights/light_panel_64_glass.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/offpaintingd.dx80.vtx"
+Error! Unable to load file "models/props_lights/light_panel_64_base.dx80.vtx"
+Error! Unable to load file "models/props_parable/postitblock_blank.dx80.vtx"
+Error! Unable to load file "models/props_office/pencilsharpener01.dx80.vtx"
+Error! Unable to load file "models/props_interiors/coffee_table_rectangular.dx80.vtx"
+Error! Unable to load file "models/props_downtown/metal_door_112_16_frame.dx80.vtx"
+Error! Unable to load file "models/props_office/vending_machine01.dx80.vtx"
+Error! Unable to load file "models/props_downtown/notepad.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_7.dx80.vtx"
+Error! Unable to load file "models/props_office/filebox_lid_1980.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_4.dx80.vtx"
+Error! Unable to load file "models/props_office/filebox_1980.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/offpaintinge.dx80.vtx"
+Error! Unable to load file "models/props_office/clock_wall_1980.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/plant01_static.dx80.vtx"
+Error! Unable to load file "models/traincar_interior/traincar_envelope.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_6.dx80.vtx"
+Error! Unable to load file "models/props_urban/hotel_ceiling_firealarm001.dx80.vtx"
+Error! Unable to load file "models/props_interiors/sofa02.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/box_office_indoor_32.dx80.vtx"
+Error! Unable to load file "models/props_office/cardboardbox_b_1970.dx80.vtx"
+Error! Unable to load file "models/props/stairs/stairs01_128w/stairs01_128.dx80.vtx"
+Error! Unable to load file "models/props_office/chair_swivel.dx80.vtx"
+Error! Unable to load file "models/props_office/cubicle_3sided.dx80.vtx"
+Error! Unable to load file "models/prop_cables/cable_floor_04.dx80.vtx"
+830 faces
+22600 square feet [3254485.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+830 patches before subdivision
+12352 patches after subdivision
+383 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 879135, max 289
+transfer lists:   6.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(17874, 22318, 22840)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(6548, 9135, 7914)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2281, 3394, 2650)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(837, 1343, 939)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(307, 522, 335)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(115, 205, 122)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(43, 81, 45)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(17, 32, 16)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(6, 13, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 5, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0008 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+256 of 336 (76% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                392/8192         4704/98304    ( 4.8%) 
+brushsides            2469/65536       19752/524288   ( 3.8%) 
+planes                 996/65536       19920/1310720  ( 1.5%) 
+vertexes              1568/65536       18816/786432   ( 2.4%) 
+nodes                  371/65536       11872/2097152  ( 0.6%) 
+texinfos               202/12288       14544/884736   ( 1.6%) 
+texdata                 39/2048         1248/65536    ( 1.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  830/65536       46480/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              559/65536       31304/3670016  ( 0.9%) 
+leaves                 377/65536       12064/2097152  ( 0.6%) 
+leaffaces              993/65536        1986/131072   ( 1.5%) 
+leafbrushes            550/65536        1100/131072   ( 0.8%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6512/512000      26048/2048000  ( 1.3%) 
+edges                 4247/256000      16988/1024000  ( 1.7%) 
+LDR worldlights        383/8192        33704/720896   ( 4.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            126/32768        1260/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2712/65536        5424/131072   ( 4.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                43/512         15136/180224   ( 8.4%) 
+LDR lightdata         [variable]      267584/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        5233/16777216 ( 0.0%) 
+entdata               [variable]       20241/393216   ( 5.1%) 
+LDR ambient table      377/65536        1508/262144   ( 0.6%) 
+HDR ambient table      377/65536        1508/262144   ( 0.6%) 
+LDR leaf ambient      1185/65536       33180/1835008  ( 1.8%) 
+HDR leaf ambient       377/65536       10556/1835008  ( 0.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/8360     ( 0.0%) 
+pakfile               [variable]      105671/0        ( 0.0%) 
+physics               [variable]      109372/4194304  ( 2.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2616
+Writing d:\desertparablerus1\maps\newcontent.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading d:\desertparablerus1\maps\newcontent.bsp
+Error! Unable to load file "models/props_downtown/metal_window01_16.dx80.vtx"
+Error! Unable to load file "models/props_interiors/sofa_chair02.dx80.vtx"
+Error! Unable to load file "models/props_downtown/metal_door_112_frame.dx80.vtx"
+Error! Unable to load file "models/props_lights/light_panel_64_glass.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/offpaintingd.dx80.vtx"
+Error! Unable to load file "models/props_lights/light_panel_64_base.dx80.vtx"
+Error! Unable to load file "models/props_parable/postitblock_blank.dx80.vtx"
+Error! Unable to load file "models/props_office/pencilsharpener01.dx80.vtx"
+Error! Unable to load file "models/props_interiors/coffee_table_rectangular.dx80.vtx"
+Error! Unable to load file "models/props_downtown/metal_door_112_16_frame.dx80.vtx"
+Error! Unable to load file "models/props_office/vending_machine01.dx80.vtx"
+Error! Unable to load file "models/props_downtown/notepad.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_7.dx80.vtx"
+Error! Unable to load file "models/props_office/filebox_lid_1980.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_4.dx80.vtx"
+Error! Unable to load file "models/props_office/filebox_1980.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/offpaintinge.dx80.vtx"
+Error! Unable to load file "models/props_office/clock_wall_1980.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/plant01_static.dx80.vtx"
+Error! Unable to load file "models/traincar_interior/traincar_envelope.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_6.dx80.vtx"
+Error! Unable to load file "models/props_urban/hotel_ceiling_firealarm001.dx80.vtx"
+Error! Unable to load file "models/props_interiors/sofa02.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/box_office_indoor_32.dx80.vtx"
+Error! Unable to load file "models/props_office/cardboardbox_b_1970.dx80.vtx"
+Error! Unable to load file "models/props/stairs/stairs01_128w/stairs01_128.dx80.vtx"
+Error! Unable to load file "models/props_office/chair_swivel.dx80.vtx"
+Error! Unable to load file "models/props_office/cubicle_3sided.dx80.vtx"
+Error! Unable to load file "models/prop_cables/cable_floor_04.dx80.vtx"
+830 faces
+22600 square feet [3254485.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+830 patches before subdivision
+12352 patches after subdivision
+383 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 879135, max 289
+transfer lists:   6.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(17874, 22318, 22840)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(6548, 9135, 7914)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2281, 3394, 2650)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(837, 1343, 939)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(307, 522, 335)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(115, 205, 122)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(43, 81, 45)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(17, 32, 16)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(6, 13, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 5, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0009 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+256 of 336 (76% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                392/8192         4704/98304    ( 4.8%) 
+brushsides            2469/65536       19752/524288   ( 3.8%) 
+planes                 996/65536       19920/1310720  ( 1.5%) 
+vertexes              1568/65536       18816/786432   ( 2.4%) 
+nodes                  371/65536       11872/2097152  ( 0.6%) 
+texinfos               202/12288       14544/884736   ( 1.6%) 
+texdata                 39/2048         1248/65536    ( 1.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  830/65536       46480/3670016  ( 1.3%) 
+hdr faces              830/65536       46480/3670016  ( 1.3%) 
+origfaces              559/65536       31304/3670016  ( 0.9%) 
+leaves                 377/65536       12064/2097152  ( 0.6%) 
+leaffaces              993/65536        1986/131072   ( 1.5%) 
+leafbrushes            550/65536        1100/131072   ( 0.8%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6512/512000      26048/2048000  ( 1.3%) 
+edges                 4247/256000      16988/1024000  ( 1.7%) 
+LDR worldlights        383/8192        33704/720896   ( 4.7%) 
+HDR worldlights        383/8192        33704/720896   ( 4.7%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            126/32768        1260/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2712/65536        5424/131072   ( 4.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                43/512         15136/180224   ( 8.4%) 
+LDR lightdata         [variable]      267584/0        ( 0.0%) 
+HDR lightdata         [variable]      267584/0        ( 0.0%) 
+visdata               [variable]        5233/16777216 ( 0.0%) 
+entdata               [variable]       20241/393216   ( 5.1%) 
+LDR ambient table      377/65536        1508/262144   ( 0.6%) 
+HDR ambient table      377/65536        1508/262144   ( 0.6%) 
+LDR leaf ambient      1185/65536       33180/1835008  ( 1.8%) 
+HDR leaf ambient      1185/65536       33180/1835008  ( 1.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/8360     ( 0.0%) 
+pakfile               [variable]      105671/0        ( 0.0%) 
+physics               [variable]      109372/4194304  ( 2.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2616
+Writing d:\desertparablerus1\maps\newcontent.bsp
+5 seconds elapsed
+
+
+
+materialPath: D:\desertparablerus1\materials
+Loading d:\desertparablerus1\maps\newcontent.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-106.00 -1050.00 -2.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 240 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/trainyard*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/trainyard*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (145438 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 379 texinfos to 274
+Reduced 45 texdatas to 44 (973 bytes to 951)
+Writing d:\desertparablerus1\maps\newcontent.bsp
+0 seconds elapsed
+
+
+
+20 threads
+reading d:\desertparablerus1\maps\newcontent.bsp
+reading d:\desertparablerus1\maps\newcontent.prt
+LoadPortals: couldn't read d:\desertparablerus1\maps\newcontent.prt
+
+
+
+materialPath: D:\desertparablerus1\materials
+Loading d:\desertparablerus1\maps\newcontent.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 240 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\desertparablerus1\maps\newcontent.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/trainyard*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/trainyard*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (120726 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 379 texinfos to 233
+Reduced 45 texdatas to 43 (973 bytes to 934)
+Writing d:\desertparablerus1\maps\newcontent.bsp
+0 seconds elapsed
+
+
+
+20 threads
+reading d:\desertparablerus1\maps\newcontent.bsp
+reading d:\desertparablerus1\maps\newcontent.prt
+ 224 portalclusters
+ 614 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 45 visible clusters (0.23%)
+Total clusters visible: 19189
+Average clusters visible: 85
+Building PAS...
+Average clusters audible: 155
+visdatasize:12210  compressed from 14336
+writing d:\desertparablerus1\maps\newcontent.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading d:\desertparablerus1\maps\newcontent.bsp
+Error! Unable to load file "models/props_downtown/metal_window01_16.dx80.vtx"
+Error! Unable to load file "models/props_interiors/sofa_chair02.dx80.vtx"
+Error! Unable to load file "models/props_downtown/metal_door_112_frame.dx80.vtx"
+Error! Unable to load file "models/props_lights/light_panel_64_glass.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/offpaintingd.dx80.vtx"
+Error! Unable to load file "models/props_lights/light_panel_64_base.dx80.vtx"
+Error! Unable to load file "models/props_parable/postitblock_blank.dx80.vtx"
+Error! Unable to load file "models/props_office/pencilsharpener01.dx80.vtx"
+Error! Unable to load file "models/props_interiors/coffee_table_rectangular.dx80.vtx"
+Error! Unable to load file "models/props_downtown/metal_door_112_16_frame.dx80.vtx"
+Error! Unable to load file "models/props_office/vending_machine01.dx80.vtx"
+Error! Unable to load file "models/props_downtown/notepad.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_7.dx80.vtx"
+Error! Unable to load file "models/props_office/filebox_lid_1980.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_4.dx80.vtx"
+Error! Unable to load file "models/props_office/filebox_1980.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/offpaintinge.dx80.vtx"
+Error! Unable to load file "models/props_office/clock_wall_1980.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/plant01_static.dx80.vtx"
+Error! Unable to load file "models/traincar_interior/traincar_envelope.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_6.dx80.vtx"
+Error! Unable to load file "models/props_urban/hotel_ceiling_firealarm001.dx80.vtx"
+Error! Unable to load file "models/props_interiors/sofa02.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/box_office_indoor_32.dx80.vtx"
+Error! Unable to load file "models/props_office/cardboardbox_b_1970.dx80.vtx"
+Error! Unable to load file "models/props/stairs/stairs01_128w/stairs01_128.dx80.vtx"
+Error! Unable to load file "models/props_office/chair_swivel.dx80.vtx"
+Error! Unable to load file "models/props_office/cubicle_3sided.dx80.vtx"
+Error! Unable to load file "models/prop_cables/cable_floor_04.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/offpaintingk.dx80.vtx"
+1143 faces
+2 degenerate faces
+110223 square feet [15872206.00 square inches]
+64 Displacements
+29329 Square Feet [4223377.50 Square Inches]
+1141 patches before subdivision
+17143 patches after subdivision
+383 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1151322, max 289
+transfer lists:   8.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(50286, 50496, 35167)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(10223, 12138, 8990)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2820, 3903, 2795)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(950, 1479, 973)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(337, 566, 344)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(123, 221, 125)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(46, 87, 46)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(17, 34, 17)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(7, 13, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 5, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0016 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+256 of 336 (76% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                418/8192         5016/98304    ( 5.1%) 
+brushsides            2635/65536       21080/524288   ( 4.0%) 
+planes                1118/65536       22360/1310720  ( 1.7%) 
+vertexes              2005/65536       24060/786432   ( 3.1%) 
+nodes                  537/65536       17184/2097152  ( 0.8%) 
+texinfos               233/12288       16776/884736   ( 1.9%) 
+texdata                 43/2048         1376/65536    ( 2.1%) 
+dispinfos               64/0           11264/0        ( 0.0%) 
+disp_verts            5184/0          103680/0        ( 0.0%) 
+disp_tris             8192/0           16384/0        ( 0.0%) 
+disp_lmsamples       82944/0           82944/0        ( 0.0%) 
+faces                 1143/65536       64008/3670016  ( 1.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              726/65536       40656/3670016  ( 1.1%) 
+leaves                 543/65536       17376/2097152  ( 0.8%) 
+leaffaces             1260/65536        2520/131072   ( 1.9%) 
+leafbrushes            622/65536        1244/131072   ( 0.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             8611/512000      34444/2048000  ( 1.7%) 
+edges                 5402/256000      21608/1024000  ( 2.1%) 
+LDR worldlights        383/8192        33704/720896   ( 4.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            142/32768        1420/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2919/65536        5838/131072   ( 4.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                55/512         19360/180224   (10.7%) 
+LDR lightdata         [variable]      430948/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       12210/16777216 ( 0.1%) 
+entdata               [variable]       20991/393216   ( 5.3%) 
+LDR ambient table      543/65536        2172/262144   ( 0.8%) 
+HDR ambient table      543/65536        2172/262144   ( 0.8%) 
+LDR leaf ambient      1918/65536       53704/1835008  ( 2.9%) 
+HDR leaf ambient       543/65536       15204/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9346     ( 0.0%) 
+pakfile               [variable]      105671/0        ( 0.0%) 
+physics               [variable]      120726/4194304  ( 2.9%) 
+physics terrain       [variable]       18752/1048576  ( 1.8%) 
+
+Level flags = 0
+
+Total triangle count: 3422
+Writing d:\desertparablerus1\maps\newcontent.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading d:\desertparablerus1\maps\newcontent.bsp
+Error! Unable to load file "models/props_downtown/metal_window01_16.dx80.vtx"
+Error! Unable to load file "models/props_interiors/sofa_chair02.dx80.vtx"
+Error! Unable to load file "models/props_downtown/metal_door_112_frame.dx80.vtx"
+Error! Unable to load file "models/props_lights/light_panel_64_glass.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/offpaintingd.dx80.vtx"
+Error! Unable to load file "models/props_lights/light_panel_64_base.dx80.vtx"
+Error! Unable to load file "models/props_parable/postitblock_blank.dx80.vtx"
+Error! Unable to load file "models/props_office/pencilsharpener01.dx80.vtx"
+Error! Unable to load file "models/props_interiors/coffee_table_rectangular.dx80.vtx"
+Error! Unable to load file "models/props_downtown/metal_door_112_16_frame.dx80.vtx"
+Error! Unable to load file "models/props_office/vending_machine01.dx80.vtx"
+Error! Unable to load file "models/props_downtown/notepad.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_7.dx80.vtx"
+Error! Unable to load file "models/props_office/filebox_lid_1980.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_4.dx80.vtx"
+Error! Unable to load file "models/props_office/filebox_1980.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/offpaintinge.dx80.vtx"
+Error! Unable to load file "models/props_office/clock_wall_1980.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/plant01_static.dx80.vtx"
+Error! Unable to load file "models/traincar_interior/traincar_envelope.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_6.dx80.vtx"
+Error! Unable to load file "models/props_urban/hotel_ceiling_firealarm001.dx80.vtx"
+Error! Unable to load file "models/props_interiors/sofa02.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/box_office_indoor_32.dx80.vtx"
+Error! Unable to load file "models/props_office/cardboardbox_b_1970.dx80.vtx"
+Error! Unable to load file "models/props/stairs/stairs01_128w/stairs01_128.dx80.vtx"
+Error! Unable to load file "models/props_office/chair_swivel.dx80.vtx"
+Error! Unable to load file "models/props_office/cubicle_3sided.dx80.vtx"
+Error! Unable to load file "models/prop_cables/cable_floor_04.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/offpaintingk.dx80.vtx"
+1143 faces
+2 degenerate faces
+110223 square feet [15872206.00 square inches]
+64 Displacements
+29329 Square Feet [4223377.50 Square Inches]
+1141 patches before subdivision
+17143 patches after subdivision
+383 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1151322, max 289
+transfer lists:   8.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(50286, 50496, 35167)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(10223, 12138, 8990)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2820, 3903, 2795)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(950, 1479, 973)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(337, 566, 344)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(123, 221, 125)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(46, 87, 46)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(17, 34, 17)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(7, 13, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 5, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0017 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+256 of 336 (76% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                418/8192         5016/98304    ( 5.1%) 
+brushsides            2635/65536       21080/524288   ( 4.0%) 
+planes                1118/65536       22360/1310720  ( 1.7%) 
+vertexes              2005/65536       24060/786432   ( 3.1%) 
+nodes                  537/65536       17184/2097152  ( 0.8%) 
+texinfos               233/12288       16776/884736   ( 1.9%) 
+texdata                 43/2048         1376/65536    ( 2.1%) 
+dispinfos               64/0           11264/0        ( 0.0%) 
+disp_verts            5184/0          103680/0        ( 0.0%) 
+disp_tris             8192/0           16384/0        ( 0.0%) 
+disp_lmsamples       82944/0           82944/0        ( 0.0%) 
+faces                 1143/65536       64008/3670016  ( 1.7%) 
+hdr faces             1143/65536       64008/3670016  ( 1.7%) 
+origfaces              726/65536       40656/3670016  ( 1.1%) 
+leaves                 543/65536       17376/2097152  ( 0.8%) 
+leaffaces             1260/65536        2520/131072   ( 1.9%) 
+leafbrushes            622/65536        1244/131072   ( 0.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             8611/512000      34444/2048000  ( 1.7%) 
+edges                 5402/256000      21608/1024000  ( 2.1%) 
+LDR worldlights        383/8192        33704/720896   ( 4.7%) 
+HDR worldlights        383/8192        33704/720896   ( 4.7%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            142/32768        1420/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2919/65536        5838/131072   ( 4.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                55/512         19360/180224   (10.7%) 
+LDR lightdata         [variable]      430948/0        ( 0.0%) 
+HDR lightdata         [variable]      430948/0        ( 0.0%) 
+visdata               [variable]       12210/16777216 ( 0.1%) 
+entdata               [variable]       20991/393216   ( 5.3%) 
+LDR ambient table      543/65536        2172/262144   ( 0.8%) 
+HDR ambient table      543/65536        2172/262144   ( 0.8%) 
+LDR leaf ambient      1918/65536       53704/1835008  ( 2.9%) 
+HDR leaf ambient      1918/65536       53704/1835008  ( 2.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9346     ( 0.0%) 
+pakfile               [variable]      105671/0        ( 0.0%) 
+physics               [variable]      120726/4194304  ( 2.9%) 
+physics terrain       [variable]       18752/1048576  ( 1.8%) 
+
+Level flags = 0
+
+Total triangle count: 3422
+Writing d:\desertparablerus1\maps\newcontent.bsp
+4 seconds elapsed
+
+
+
+materialPath: D:\desertparablerus1\materials
+Loading d:\desertparablerus1\maps\newcontent.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 240 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\desertparablerus1\maps\newcontent.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/trainyard*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/trainyard*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (120726 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 379 texinfos to 233
+Reduced 45 texdatas to 43 (973 bytes to 934)
+Writing d:\desertparablerus1\maps\newcontent.bsp
+0 seconds elapsed
+
+
+
+20 threads
+reading d:\desertparablerus1\maps\newcontent.bsp
+reading d:\desertparablerus1\maps\newcontent.prt
+ 224 portalclusters
+ 614 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 45 visible clusters (0.23%)
+Total clusters visible: 19189
+Average clusters visible: 85
+Building PAS...
+Average clusters audible: 155
+visdatasize:12210  compressed from 14336
+writing d:\desertparablerus1\maps\newcontent.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading d:\desertparablerus1\maps\newcontent.bsp
+Error! Unable to load file "models/props_downtown/metal_window01_16.dx80.vtx"
+Error! Unable to load file "models/props_interiors/sofa_chair02.dx80.vtx"
+Error! Unable to load file "models/props_downtown/metal_door_112_frame.dx80.vtx"
+Error! Unable to load file "models/props_lights/light_panel_64_glass.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/offpaintingd.dx80.vtx"
+Error! Unable to load file "models/props_lights/light_panel_64_base.dx80.vtx"
+Error! Unable to load file "models/props_parable/postitblock_blank.dx80.vtx"
+Error! Unable to load file "models/props_office/pencilsharpener01.dx80.vtx"
+Error! Unable to load file "models/props_interiors/coffee_table_rectangular.dx80.vtx"
+Error! Unable to load file "models/props_downtown/metal_door_112_16_frame.dx80.vtx"
+Error! Unable to load file "models/props_office/vending_machine01.dx80.vtx"
+Error! Unable to load file "models/props_downtown/notepad.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_7.dx80.vtx"
+Error! Unable to load file "models/props_office/filebox_lid_1980.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_4.dx80.vtx"
+Error! Unable to load file "models/props_office/filebox_1980.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/offpaintinge.dx80.vtx"
+Error! Unable to load file "models/props_office/clock_wall_1980.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/plant01_static.dx80.vtx"
+Error! Unable to load file "models/traincar_interior/traincar_envelope.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_6.dx80.vtx"
+Error! Unable to load file "models/props_urban/hotel_ceiling_firealarm001.dx80.vtx"
+Error! Unable to load file "models/props_interiors/sofa02.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/box_office_indoor_32.dx80.vtx"
+Error! Unable to load file "models/props_office/cardboardbox_b_1970.dx80.vtx"
+Error! Unable to load file "models/props/stairs/stairs01_128w/stairs01_128.dx80.vtx"
+Error! Unable to load file "models/props_office/chair_swivel.dx80.vtx"
+Error! Unable to load file "models/props_office/cubicle_3sided.dx80.vtx"
+Error! Unable to load file "models/prop_cables/cable_floor_04.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/offpaintingk.dx80.vtx"
+1143 faces
+2 degenerate faces
+110223 square feet [15872206.00 square inches]
+64 Displacements
+29329 Square Feet [4223377.50 Square Inches]
+1141 patches before subdivision
+17143 patches after subdivision
+385 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1151322, max 289
+transfer lists:   8.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(50843, 51055, 35504)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(10300, 12203, 9039)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2841, 3920, 2808)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(958, 1485, 977)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(340, 568, 346)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(124, 222, 125)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(46, 87, 46)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(17, 34, 17)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(7, 13, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 5, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0016 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+256 of 336 (76% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                418/8192         5016/98304    ( 5.1%) 
+brushsides            2635/65536       21080/524288   ( 4.0%) 
+planes                1118/65536       22360/1310720  ( 1.7%) 
+vertexes              2005/65536       24060/786432   ( 3.1%) 
+nodes                  537/65536       17184/2097152  ( 0.8%) 
+texinfos               233/12288       16776/884736   ( 1.9%) 
+texdata                 43/2048         1376/65536    ( 2.1%) 
+dispinfos               64/0           11264/0        ( 0.0%) 
+disp_verts            5184/0          103680/0        ( 0.0%) 
+disp_tris             8192/0           16384/0        ( 0.0%) 
+disp_lmsamples       82944/0           82944/0        ( 0.0%) 
+faces                 1143/65536       64008/3670016  ( 1.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              726/65536       40656/3670016  ( 1.1%) 
+leaves                 543/65536       17376/2097152  ( 0.8%) 
+leaffaces             1260/65536        2520/131072   ( 1.9%) 
+leafbrushes            622/65536        1244/131072   ( 0.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             8611/512000      34444/2048000  ( 1.7%) 
+edges                 5402/256000      21608/1024000  ( 2.1%) 
+LDR worldlights        385/8192        33880/720896   ( 4.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            142/32768        1420/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2919/65536        5838/131072   ( 4.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                55/512         19360/180224   (10.7%) 
+LDR lightdata         [variable]      430948/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       12210/16777216 ( 0.1%) 
+entdata               [variable]       21274/393216   ( 5.4%) 
+LDR ambient table      543/65536        2172/262144   ( 0.8%) 
+HDR ambient table      543/65536        2172/262144   ( 0.8%) 
+LDR leaf ambient      1932/65536       54096/1835008  ( 2.9%) 
+HDR leaf ambient       543/65536       15204/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9346     ( 0.0%) 
+pakfile               [variable]      105671/0        ( 0.0%) 
+physics               [variable]      120726/4194304  ( 2.9%) 
+physics terrain       [variable]       18752/1048576  ( 1.8%) 
+
+Level flags = 0
+
+Total triangle count: 3422
+Writing d:\desertparablerus1\maps\newcontent.bsp
+9 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading d:\desertparablerus1\maps\newcontent.bsp
+Error! Unable to load file "models/props_downtown/metal_window01_16.dx80.vtx"
+Error! Unable to load file "models/props_interiors/sofa_chair02.dx80.vtx"
+Error! Unable to load file "models/props_downtown/metal_door_112_frame.dx80.vtx"
+Error! Unable to load file "models/props_lights/light_panel_64_glass.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/offpaintingd.dx80.vtx"
+Error! Unable to load file "models/props_lights/light_panel_64_base.dx80.vtx"
+Error! Unable to load file "models/props_parable/postitblock_blank.dx80.vtx"
+Error! Unable to load file "models/props_office/pencilsharpener01.dx80.vtx"
+Error! Unable to load file "models/props_interiors/coffee_table_rectangular.dx80.vtx"
+Error! Unable to load file "models/props_downtown/metal_door_112_16_frame.dx80.vtx"
+Error! Unable to load file "models/props_office/vending_machine01.dx80.vtx"
+Error! Unable to load file "models/props_downtown/notepad.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_7.dx80.vtx"
+Error! Unable to load file "models/props_office/filebox_lid_1980.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_4.dx80.vtx"
+Error! Unable to load file "models/props_office/filebox_1980.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/offpaintinge.dx80.vtx"
+Error! Unable to load file "models/props_office/clock_wall_1980.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/plant01_static.dx80.vtx"
+Error! Unable to load file "models/traincar_interior/traincar_envelope.dx80.vtx"
+Error! Unable to load file "models/props_parable/papers_6.dx80.vtx"
+Error! Unable to load file "models/props_urban/hotel_ceiling_firealarm001.dx80.vtx"
+Error! Unable to load file "models/props_interiors/sofa02.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/box_office_indoor_32.dx80.vtx"
+Error! Unable to load file "models/props_office/cardboardbox_b_1970.dx80.vtx"
+Error! Unable to load file "models/props/stairs/stairs01_128w/stairs01_128.dx80.vtx"
+Error! Unable to load file "models/props_office/chair_swivel.dx80.vtx"
+Error! Unable to load file "models/props_office/cubicle_3sided.dx80.vtx"
+Error! Unable to load file "models/prop_cables/cable_floor_04.dx80.vtx"
+Error! Unable to load file "models/props/cs_office/offpaintingk.dx80.vtx"
+1143 faces
+2 degenerate faces
+110223 square feet [15872206.00 square inches]
+64 Displacements
+29329 Square Feet [4223377.50 Square Inches]
+1141 patches before subdivision
+17143 patches after subdivision
+385 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1151322, max 289
+transfer lists:   8.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(50843, 51055, 35504)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(10300, 12203, 9039)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2841, 3920, 2808)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(958, 1485, 977)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(340, 568, 346)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(124, 222, 125)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(46, 87, 46)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(17, 34, 17)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(7, 13, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 5, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0031 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+256 of 336 (76% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                418/8192         5016/98304    ( 5.1%) 
+brushsides            2635/65536       21080/524288   ( 4.0%) 
+planes                1118/65536       22360/1310720  ( 1.7%) 
+vertexes              2005/65536       24060/786432   ( 3.1%) 
+nodes                  537/65536       17184/2097152  ( 0.8%) 
+texinfos               233/12288       16776/884736   ( 1.9%) 
+texdata                 43/2048         1376/65536    ( 2.1%) 
+dispinfos               64/0           11264/0        ( 0.0%) 
+disp_verts            5184/0          103680/0        ( 0.0%) 
+disp_tris             8192/0           16384/0        ( 0.0%) 
+disp_lmsamples       82944/0           82944/0        ( 0.0%) 
+faces                 1143/65536       64008/3670016  ( 1.7%) 
+hdr faces             1143/65536       64008/3670016  ( 1.7%) 
+origfaces              726/65536       40656/3670016  ( 1.1%) 
+leaves                 543/65536       17376/2097152  ( 0.8%) 
+leaffaces             1260/65536        2520/131072   ( 1.9%) 
+leafbrushes            622/65536        1244/131072   ( 0.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             8611/512000      34444/2048000  ( 1.7%) 
+edges                 5402/256000      21608/1024000  ( 2.1%) 
+LDR worldlights        385/8192        33880/720896   ( 4.7%) 
+HDR worldlights        385/8192        33880/720896   ( 4.7%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            142/32768        1420/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2919/65536        5838/131072   ( 4.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                55/512         19360/180224   (10.7%) 
+LDR lightdata         [variable]      430948/0        ( 0.0%) 
+HDR lightdata         [variable]      430948/0        ( 0.0%) 
+visdata               [variable]       12210/16777216 ( 0.1%) 
+entdata               [variable]       21274/393216   ( 5.4%) 
+LDR ambient table      543/65536        2172/262144   ( 0.8%) 
+HDR ambient table      543/65536        2172/262144   ( 0.8%) 
+LDR leaf ambient      1932/65536       54096/1835008  ( 2.9%) 
+HDR leaf ambient      1932/65536       54096/1835008  ( 2.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9346     ( 0.0%) 
+pakfile               [variable]      105671/0        ( 0.0%) 
+physics               [variable]      120726/4194304  ( 2.9%) 
+physics terrain       [variable]       18752/1048576  ( 1.8%) 
+
+Level flags = 0
+
+Total triangle count: 3422
+Writing d:\desertparablerus1\maps\newcontent.bsp
+11 seconds elapsed

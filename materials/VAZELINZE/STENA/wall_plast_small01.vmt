@@ -1,0 +1,12 @@
+LightmappedGeneric
+{
+$basetexture "vazelinze\stena\wall_plast_small01"
+$bumpmap "vazelinze\stena\wall_plast_small01_n"
+$envmap env_cubemap
+//$normalmapalphaenvmapmask "1"
+$envmapsaturation "1"
+$envmapcontrast "1"
+$envmaptint "[.1 .1 .1]"
+$surfaceprop tile
+"%keywords" vazelinze
+}

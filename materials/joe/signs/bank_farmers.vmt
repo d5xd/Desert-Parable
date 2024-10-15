@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "joe/signs/bank_farmers"
+		$translucent 1
+}

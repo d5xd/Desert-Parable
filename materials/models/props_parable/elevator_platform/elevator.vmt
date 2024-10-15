@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_parable/elevator_platform/elevator"
+	$phong 1
+	$phongexponent 10
+	$phongboost "0.4"
+	$phongfresnelranges "[0.25 0.5 1]"
+	$basemapalphaphongmask 1
+}

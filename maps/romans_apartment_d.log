@@ -1,0 +1,1474 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.vmf
+Map revision 3
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (12712 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 15 texinfos to 7
+Reduced 3 texdatas to 3 (67 bytes to 67)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.prt
+ 165 portalclusters
+ 631 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 27139
+Average clusters visible: 164
+Building PAS...
+Average clusters audible: 165
+visdatasize:8254  compressed from 7920
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+24 faces
+8648 square feet [1245418.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+24 patches before subdivision
+24 patches after subdivision
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 67, max 8
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                 34/32768         408/393216   ( 0.1%) 
+brushsides             205/65536        1640/524288   ( 0.3%) 
+planes                 166/65536        3320/1310720  ( 0.3%) 
+vertexes               350/65536        4200/786432   ( 0.5%) 
+nodes                  191/65536        6112/2097152  ( 0.3%) 
+texinfos                 7/12288         504/884736   ( 0.1%) 
+texdata                  3/2048           96/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   24/65536        1344/3670016  ( 0.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               12/65536         672/3670016  ( 0.0%) 
+leaves                 193/65536        6176/2097152  ( 0.3%) 
+leaffaces              115/65536         230/131072   ( 0.2%) 
+leafbrushes             69/65536         138/131072   ( 0.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              146/512000        584/2048000  ( 0.0%) 
+edges                   94/256000        376/1024000  ( 0.0%) 
+LDR worldlights          6/16384         528/1441792  ( 0.0%) 
+HDR worldlights          0/16384           0/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             45/131072        450/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           783/131072       1566/262144   ( 0.6%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]         216/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        8254/16777216 ( 0.0%) 
+entdata               [variable]        3060/393216   ( 0.8%) 
+LDR ambient table      193/65536         772/262144   ( 0.3%) 
+HDR ambient table      193/65536         772/262144   ( 0.3%) 
+LDR leaf ambient       165/65536        4620/1835008  ( 0.3%) 
+HDR leaf ambient       193/65536        5404/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9106     ( 0.0%) 
+pakfile               [variable]      526986/0        ( 0.0%) 
+physics               [variable]       12712/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 50
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+24 faces
+8648 square feet [1245418.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+24 patches before subdivision
+24 patches after subdivision
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 67, max 8
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                 34/32768         408/393216   ( 0.1%) 
+brushsides             205/65536        1640/524288   ( 0.3%) 
+planes                 166/65536        3320/1310720  ( 0.3%) 
+vertexes               350/65536        4200/786432   ( 0.5%) 
+nodes                  191/65536        6112/2097152  ( 0.3%) 
+texinfos                 7/12288         504/884736   ( 0.1%) 
+texdata                  3/2048           96/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   24/65536        1344/3670016  ( 0.0%) 
+hdr faces               24/65536        1344/3670016  ( 0.0%) 
+origfaces               12/65536         672/3670016  ( 0.0%) 
+leaves                 193/65536        6176/2097152  ( 0.3%) 
+leaffaces              115/65536         230/131072   ( 0.2%) 
+leafbrushes             69/65536         138/131072   ( 0.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              146/512000        584/2048000  ( 0.0%) 
+edges                   94/256000        376/1024000  ( 0.0%) 
+LDR worldlights          6/16384         528/1441792  ( 0.0%) 
+HDR worldlights          6/16384         528/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             45/131072        450/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           783/131072       1566/262144   ( 0.6%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]         216/0        ( 0.0%) 
+HDR lightdata         [variable]         216/0        ( 0.0%) 
+visdata               [variable]        8254/16777216 ( 0.0%) 
+entdata               [variable]        3060/393216   ( 0.8%) 
+LDR ambient table      193/65536         772/262144   ( 0.3%) 
+HDR ambient table      193/65536         772/262144   ( 0.3%) 
+LDR leaf ambient       165/65536        4620/1835008  ( 0.3%) 
+HDR leaf ambient       165/65536        4620/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9106     ( 0.0%) 
+pakfile               [variable]      707378/0        ( 0.0%) 
+physics               [variable]       12712/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3
+
+Total triangle count: 50
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.vmf
+Map revision 4
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (13267 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 21 texinfos to 10
+Reduced 4 texdatas to 4 (86 bytes to 86)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.prt
+ 165 portalclusters
+ 631 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 27139
+Average clusters visible: 164
+Building PAS...
+Average clusters audible: 165
+visdatasize:8254  compressed from 7920
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+30 faces
+9720 square feet [1399786.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+30 patches before subdivision
+30 patches after subdivision
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 73, max 8
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/4096           96/196608   ( 0.0%) 
+brushes                 35/32768         420/393216   ( 0.1%) 
+brushsides             211/65536        1688/524288   ( 0.3%) 
+planes                 194/65536        3880/1310720  ( 0.3%) 
+vertexes               358/65536        4296/786432   ( 0.5%) 
+nodes                  197/65536        6304/2097152  ( 0.3%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   30/65536        1680/3670016  ( 0.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               18/65536        1008/3670016  ( 0.0%) 
+leaves                 200/65536        6400/2097152  ( 0.3%) 
+leaffaces              121/65536         242/131072   ( 0.2%) 
+leafbrushes             70/65536         140/131072   ( 0.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              194/512000        776/2048000  ( 0.0%) 
+edges                  118/256000        472/1024000  ( 0.0%) 
+LDR worldlights          6/16384         528/1441792  ( 0.0%) 
+HDR worldlights          0/16384           0/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             45/131072        450/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           783/131072       1566/262144   ( 0.6%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]         216/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        8254/16777216 ( 0.0%) 
+entdata               [variable]        3233/393216   ( 0.8%) 
+LDR ambient table      200/65536         800/262144   ( 0.3%) 
+HDR ambient table      200/65536         800/262144   ( 0.3%) 
+LDR leaf ambient       171/65536        4788/1835008  ( 0.3%) 
+HDR leaf ambient       200/65536        5600/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9106     ( 0.0%) 
+pakfile               [variable]      526986/0        ( 0.0%) 
+physics               [variable]       13267/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 62
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+30 faces
+9720 square feet [1399786.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+30 patches before subdivision
+30 patches after subdivision
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 73, max 8
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/4096           96/196608   ( 0.0%) 
+brushes                 35/32768         420/393216   ( 0.1%) 
+brushsides             211/65536        1688/524288   ( 0.3%) 
+planes                 194/65536        3880/1310720  ( 0.3%) 
+vertexes               358/65536        4296/786432   ( 0.5%) 
+nodes                  197/65536        6304/2097152  ( 0.3%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   30/65536        1680/3670016  ( 0.0%) 
+hdr faces               30/65536        1680/3670016  ( 0.0%) 
+origfaces               18/65536        1008/3670016  ( 0.0%) 
+leaves                 200/65536        6400/2097152  ( 0.3%) 
+leaffaces              121/65536         242/131072   ( 0.2%) 
+leafbrushes             70/65536         140/131072   ( 0.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              194/512000        776/2048000  ( 0.0%) 
+edges                  118/256000        472/1024000  ( 0.0%) 
+LDR worldlights          6/16384         528/1441792  ( 0.0%) 
+HDR worldlights          6/16384         528/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             45/131072        450/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           783/131072       1566/262144   ( 0.6%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]         216/0        ( 0.0%) 
+HDR lightdata         [variable]         216/0        ( 0.0%) 
+visdata               [variable]        8254/16777216 ( 0.0%) 
+entdata               [variable]        3233/393216   ( 0.8%) 
+LDR ambient table      200/65536         800/262144   ( 0.3%) 
+HDR ambient table      200/65536         800/262144   ( 0.3%) 
+LDR leaf ambient       171/65536        4788/1835008  ( 0.3%) 
+HDR leaf ambient       171/65536        4788/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9106     ( 0.0%) 
+pakfile               [variable]      707378/0        ( 0.0%) 
+physics               [variable]       13267/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3
+
+Total triangle count: 62
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.vmf
+Map revision 5
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (13267 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 21 texinfos to 10
+Reduced 4 texdatas to 4 (86 bytes to 86)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.prt
+ 165 portalclusters
+ 631 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 27139
+Average clusters visible: 164
+Building PAS...
+Average clusters audible: 165
+visdatasize:8254  compressed from 7920
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+30 faces
+9720 square feet [1399786.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+30 patches before subdivision
+30 patches after subdivision
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 73, max 8
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/4096           96/196608   ( 0.0%) 
+brushes                 35/32768         420/393216   ( 0.1%) 
+brushsides             211/65536        1688/524288   ( 0.3%) 
+planes                 194/65536        3880/1310720  ( 0.3%) 
+vertexes               358/65536        4296/786432   ( 0.5%) 
+nodes                  197/65536        6304/2097152  ( 0.3%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   30/65536        1680/3670016  ( 0.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               18/65536        1008/3670016  ( 0.0%) 
+leaves                 200/65536        6400/2097152  ( 0.3%) 
+leaffaces              121/65536         242/131072   ( 0.2%) 
+leafbrushes             70/65536         140/131072   ( 0.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              194/512000        776/2048000  ( 0.0%) 
+edges                  118/256000        472/1024000  ( 0.0%) 
+LDR worldlights          6/16384         528/1441792  ( 0.0%) 
+HDR worldlights          0/16384           0/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             45/131072        450/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           783/131072       1566/262144   ( 0.6%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]         216/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        8254/16777216 ( 0.0%) 
+entdata               [variable]        3275/393216   ( 0.8%) 
+LDR ambient table      200/65536         800/262144   ( 0.3%) 
+HDR ambient table      200/65536         800/262144   ( 0.3%) 
+LDR leaf ambient       171/65536        4788/1835008  ( 0.3%) 
+HDR leaf ambient       200/65536        5600/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9106     ( 0.0%) 
+pakfile               [variable]      526986/0        ( 0.0%) 
+physics               [variable]       13267/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 62
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+30 faces
+9720 square feet [1399786.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+30 patches before subdivision
+30 patches after subdivision
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 73, max 8
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/4096           96/196608   ( 0.0%) 
+brushes                 35/32768         420/393216   ( 0.1%) 
+brushsides             211/65536        1688/524288   ( 0.3%) 
+planes                 194/65536        3880/1310720  ( 0.3%) 
+vertexes               358/65536        4296/786432   ( 0.5%) 
+nodes                  197/65536        6304/2097152  ( 0.3%) 
+texinfos                10/12288         720/884736   ( 0.1%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   30/65536        1680/3670016  ( 0.0%) 
+hdr faces               30/65536        1680/3670016  ( 0.0%) 
+origfaces               18/65536        1008/3670016  ( 0.0%) 
+leaves                 200/65536        6400/2097152  ( 0.3%) 
+leaffaces              121/65536         242/131072   ( 0.2%) 
+leafbrushes             70/65536         140/131072   ( 0.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              194/512000        776/2048000  ( 0.0%) 
+edges                  118/256000        472/1024000  ( 0.0%) 
+LDR worldlights          6/16384         528/1441792  ( 0.0%) 
+HDR worldlights          6/16384         528/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             45/131072        450/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           783/131072       1566/262144   ( 0.6%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]         216/0        ( 0.0%) 
+HDR lightdata         [variable]         216/0        ( 0.0%) 
+visdata               [variable]        8254/16777216 ( 0.0%) 
+entdata               [variable]        3275/393216   ( 0.8%) 
+LDR ambient table      200/65536         800/262144   ( 0.3%) 
+HDR ambient table      200/65536         800/262144   ( 0.3%) 
+LDR leaf ambient       171/65536        4788/1835008  ( 0.3%) 
+HDR leaf ambient       171/65536        4788/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9106     ( 0.0%) 
+pakfile               [variable]      707378/0        ( 0.0%) 
+physics               [variable]       13267/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3
+
+Total triangle count: 62
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.vmf
+Map revision 6
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (13820 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 24 texinfos to 11
+Reduced 5 texdatas to 5 (108 bytes to 108)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.prt
+ 165 portalclusters
+ 631 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 27139
+Average clusters visible: 164
+Building PAS...
+Average clusters audible: 165
+visdatasize:8254  compressed from 7920
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+30 faces
+9720 square feet [1399786.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+30 patches before subdivision
+30 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 73, max 8
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/4096          144/196608   ( 0.1%) 
+brushes                 36/32768         432/393216   ( 0.1%) 
+brushsides             218/65536        1744/524288   ( 0.3%) 
+planes                 206/65536        4120/1310720  ( 0.3%) 
+vertexes               358/65536        4296/786432   ( 0.5%) 
+nodes                  203/65536        6496/2097152  ( 0.3%) 
+texinfos                11/12288         792/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   30/65536        1680/3670016  ( 0.0%) 
+hdr faces               30/65536        1680/3670016  ( 0.0%) 
+origfaces               18/65536        1008/3670016  ( 0.0%) 
+leaves                 207/65536        6624/2097152  ( 0.3%) 
+leaffaces              121/65536         242/131072   ( 0.2%) 
+leafbrushes             71/65536         142/131072   ( 0.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              194/512000        776/2048000  ( 0.0%) 
+edges                  118/256000        472/1024000  ( 0.0%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          8/16384         704/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             45/131072        450/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           783/131072       1566/262144   ( 0.6%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]         216/0        ( 0.0%) 
+visdata               [variable]        8254/16777216 ( 0.0%) 
+entdata               [variable]        4080/393216   ( 1.0%) 
+LDR ambient table      207/65536         828/262144   ( 0.3%) 
+HDR ambient table      207/65536         828/262144   ( 0.3%) 
+LDR leaf ambient       207/65536        5796/1835008  ( 0.3%) 
+HDR leaf ambient       178/65536        4984/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9106     ( 0.0%) 
+pakfile               [variable]      527322/0        ( 0.0%) 
+physics               [variable]       13820/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 62
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.vmf
+Map revision 7
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16695 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 24 texinfos to 11
+Reduced 5 texdatas to 5 (108 bytes to 108)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.prt
+ 165 portalclusters
+ 631 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 27139
+Average clusters visible: 164
+Building PAS...
+Average clusters audible: 165
+visdatasize:8254  compressed from 7920
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+30 faces
+9720 square feet [1399786.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+30 patches before subdivision
+30 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 73, max 8
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/4096          288/196608   ( 0.1%) 
+brushes                 41/32768         492/393216   ( 0.1%) 
+brushsides             261/65536        2088/524288   ( 0.4%) 
+planes                 278/65536        5560/1310720  ( 0.4%) 
+vertexes               358/65536        4296/786432   ( 0.5%) 
+nodes                  231/65536        7392/2097152  ( 0.4%) 
+texinfos                11/12288         792/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   30/65536        1680/3670016  ( 0.0%) 
+hdr faces               30/65536        1680/3670016  ( 0.0%) 
+origfaces               18/65536        1008/3670016  ( 0.0%) 
+leaves                 238/65536        7616/2097152  ( 0.4%) 
+leaffaces              121/65536         242/131072   ( 0.2%) 
+leafbrushes             76/65536         152/131072   ( 0.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              194/512000        776/2048000  ( 0.0%) 
+edges                  118/256000        472/1024000  ( 0.0%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          8/16384         704/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             45/131072        450/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           783/131072       1566/262144   ( 0.6%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]         216/0        ( 0.0%) 
+visdata               [variable]        8254/16777216 ( 0.0%) 
+entdata               [variable]        5391/393216   ( 1.4%) 
+LDR ambient table      238/65536         952/262144   ( 0.4%) 
+HDR ambient table      238/65536         952/262144   ( 0.4%) 
+LDR leaf ambient       238/65536        6664/1835008  ( 0.4%) 
+HDR leaf ambient       209/65536        5852/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9106     ( 0.0%) 
+pakfile               [variable]      527322/0        ( 0.0%) 
+physics               [variable]       16695/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 62
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.vmf
+Map revision 8
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16695 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 24 texinfos to 11
+Reduced 5 texdatas to 5 (108 bytes to 108)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.prt
+ 165 portalclusters
+ 631 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 27139
+Average clusters visible: 164
+Building PAS...
+Average clusters audible: 165
+visdatasize:8254  compressed from 7920
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+30 faces
+9720 square feet [1399786.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+30 patches before subdivision
+30 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 73, max 8
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/4096          288/196608   ( 0.1%) 
+brushes                 41/32768         492/393216   ( 0.1%) 
+brushsides             261/65536        2088/524288   ( 0.4%) 
+planes                 278/65536        5560/1310720  ( 0.4%) 
+vertexes               358/65536        4296/786432   ( 0.5%) 
+nodes                  231/65536        7392/2097152  ( 0.4%) 
+texinfos                11/12288         792/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   30/65536        1680/3670016  ( 0.0%) 
+hdr faces               30/65536        1680/3670016  ( 0.0%) 
+origfaces               18/65536        1008/3670016  ( 0.0%) 
+leaves                 238/65536        7616/2097152  ( 0.4%) 
+leaffaces              121/65536         242/131072   ( 0.2%) 
+leafbrushes             76/65536         152/131072   ( 0.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              194/512000        776/2048000  ( 0.0%) 
+edges                  118/256000        472/1024000  ( 0.0%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          8/16384         704/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             45/131072        450/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           783/131072       1566/262144   ( 0.6%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]         216/0        ( 0.0%) 
+visdata               [variable]        8254/16777216 ( 0.0%) 
+entdata               [variable]        5390/393216   ( 1.4%) 
+LDR ambient table      238/65536         952/262144   ( 0.4%) 
+HDR ambient table      238/65536         952/262144   ( 0.4%) 
+LDR leaf ambient       238/65536        6664/1835008  ( 0.4%) 
+HDR leaf ambient       209/65536        5852/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9106     ( 0.0%) 
+pakfile               [variable]      527322/0        ( 0.0%) 
+physics               [variable]       16695/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 62
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.vmf
+Map revision 9
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16695 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 24 texinfos to 11
+Reduced 5 texdatas to 5 (108 bytes to 108)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.prt
+ 165 portalclusters
+ 631 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 27139
+Average clusters visible: 164
+Building PAS...
+Average clusters audible: 165
+visdatasize:8254  compressed from 7920
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+30 faces
+9720 square feet [1399786.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+30 patches before subdivision
+30 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 73, max 8
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/4096          288/196608   ( 0.1%) 
+brushes                 41/32768         492/393216   ( 0.1%) 
+brushsides             261/65536        2088/524288   ( 0.4%) 
+planes                 278/65536        5560/1310720  ( 0.4%) 
+vertexes               358/65536        4296/786432   ( 0.5%) 
+nodes                  231/65536        7392/2097152  ( 0.4%) 
+texinfos                11/12288         792/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   30/65536        1680/3670016  ( 0.0%) 
+hdr faces               30/65536        1680/3670016  ( 0.0%) 
+origfaces               18/65536        1008/3670016  ( 0.0%) 
+leaves                 238/65536        7616/2097152  ( 0.4%) 
+leaffaces              121/65536         242/131072   ( 0.2%) 
+leafbrushes             76/65536         152/131072   ( 0.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              194/512000        776/2048000  ( 0.0%) 
+edges                  118/256000        472/1024000  ( 0.0%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          8/16384         704/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             45/131072        450/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           783/131072       1566/262144   ( 0.6%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]         216/0        ( 0.0%) 
+visdata               [variable]        8254/16777216 ( 0.0%) 
+entdata               [variable]        5830/393216   ( 1.5%) 
+LDR ambient table      238/65536         952/262144   ( 0.4%) 
+HDR ambient table      238/65536         952/262144   ( 0.4%) 
+LDR leaf ambient       238/65536        6664/1835008  ( 0.4%) 
+HDR leaf ambient       209/65536        5852/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9106     ( 0.0%) 
+pakfile               [variable]      527322/0        ( 0.0%) 
+physics               [variable]       16695/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 62
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.vmf
+Map revision 11
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16695 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 24 texinfos to 11
+Reduced 5 texdatas to 5 (108 bytes to 108)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.prt
+ 165 portalclusters
+ 631 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 27139
+Average clusters visible: 164
+Building PAS...
+Average clusters audible: 165
+visdatasize:8254  compressed from 7920
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+30 faces
+9720 square feet [1399786.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+30 patches before subdivision
+30 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 73, max 8
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0001 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/4096          288/196608   ( 0.1%) 
+brushes                 41/32768         492/393216   ( 0.1%) 
+brushsides             259/65536        2072/524288   ( 0.4%) 
+planes                 274/65536        5480/1310720  ( 0.4%) 
+vertexes               358/65536        4296/786432   ( 0.5%) 
+nodes                  231/65536        7392/2097152  ( 0.4%) 
+texinfos                11/12288         792/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   30/65536        1680/3670016  ( 0.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               18/65536        1008/3670016  ( 0.0%) 
+leaves                 238/65536        7616/2097152  ( 0.4%) 
+leaffaces              121/65536         242/131072   ( 0.2%) 
+leafbrushes             76/65536         152/131072   ( 0.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              194/512000        776/2048000  ( 0.0%) 
+edges                  118/256000        472/1024000  ( 0.0%) 
+LDR worldlights          8/16384         704/1441792  ( 0.0%) 
+HDR worldlights          0/16384           0/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             45/131072        450/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           783/131072       1566/262144   ( 0.6%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]         216/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        8254/16777216 ( 0.0%) 
+entdata               [variable]        6010/393216   ( 1.5%) 
+LDR ambient table      238/65536         952/262144   ( 0.4%) 
+HDR ambient table      238/65536         952/262144   ( 0.4%) 
+LDR leaf ambient       209/65536        5852/1835008  ( 0.3%) 
+HDR leaf ambient       238/65536        6664/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9106     ( 0.0%) 
+pakfile               [variable]      526986/0        ( 0.0%) 
+physics               [variable]       16695/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 62
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+30 faces
+9720 square feet [1399786.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+30 patches before subdivision
+30 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 73, max 8
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/4096          288/196608   ( 0.1%) 
+brushes                 41/32768         492/393216   ( 0.1%) 
+brushsides             259/65536        2072/524288   ( 0.4%) 
+planes                 274/65536        5480/1310720  ( 0.4%) 
+vertexes               358/65536        4296/786432   ( 0.5%) 
+nodes                  231/65536        7392/2097152  ( 0.4%) 
+texinfos                11/12288         792/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   30/65536        1680/3670016  ( 0.0%) 
+hdr faces               30/65536        1680/3670016  ( 0.0%) 
+origfaces               18/65536        1008/3670016  ( 0.0%) 
+leaves                 238/65536        7616/2097152  ( 0.4%) 
+leaffaces              121/65536         242/131072   ( 0.2%) 
+leafbrushes             76/65536         152/131072   ( 0.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              194/512000        776/2048000  ( 0.0%) 
+edges                  118/256000        472/1024000  ( 0.0%) 
+LDR worldlights          8/16384         704/1441792  ( 0.0%) 
+HDR worldlights          8/16384         704/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             45/131072        450/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           783/131072       1566/262144   ( 0.6%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]         216/0        ( 0.0%) 
+HDR lightdata         [variable]         216/0        ( 0.0%) 
+visdata               [variable]        8254/16777216 ( 0.0%) 
+entdata               [variable]        6010/393216   ( 1.5%) 
+LDR ambient table      238/65536         952/262144   ( 0.4%) 
+HDR ambient table      238/65536         952/262144   ( 0.4%) 
+LDR leaf ambient       209/65536        5852/1835008  ( 0.3%) 
+HDR leaf ambient       209/65536        5852/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9106     ( 0.0%) 
+pakfile               [variable]      707378/0        ( 0.0%) 
+physics               [variable]       16695/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3
+
+Total triangle count: 62
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\romans_apartment_d.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\romans_apartment_d.vmf
+Map revision 13
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\romans_apartment_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16695 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 24 texinfos to 11
+Reduced 5 texdatas to 5 (108 bytes to 108)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\romans_apartment_d.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\romans_apartment_d.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\romans_apartment_d.prt
+ 165 portalclusters
+ 631 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 27139
+Average clusters visible: 164
+Building PAS...
+Average clusters audible: 165
+visdatasize:8254  compressed from 7920
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\romans_apartment_d.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\romans_apartment_d.bsp
+30 faces
+9720 square feet [1399786.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+30 patches before subdivision
+30 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 73, max 8
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/4096          288/196608   ( 0.1%) 
+brushes                 41/32768         492/393216   ( 0.1%) 
+brushsides             259/65536        2072/524288   ( 0.4%) 
+planes                 274/65536        5480/1310720  ( 0.4%) 
+vertexes               358/65536        4296/786432   ( 0.5%) 
+nodes                  231/65536        7392/2097152  ( 0.4%) 
+texinfos                11/12288         792/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   30/65536        1680/3670016  ( 0.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               18/65536        1008/3670016  ( 0.0%) 
+leaves                 238/65536        7616/2097152  ( 0.4%) 
+leaffaces              121/65536         242/131072   ( 0.2%) 
+leafbrushes             76/65536         152/131072   ( 0.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              194/512000        776/2048000  ( 0.0%) 
+edges                  118/256000        472/1024000  ( 0.0%) 
+LDR worldlights          8/16384         704/1441792  ( 0.0%) 
+HDR worldlights          0/16384           0/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             45/131072        450/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           783/131072       1566/262144   ( 0.6%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]         216/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        8254/16777216 ( 0.0%) 
+entdata               [variable]        6392/393216   ( 1.6%) 
+LDR ambient table      238/65536         952/262144   ( 0.4%) 
+HDR ambient table      238/65536         952/262144   ( 0.4%) 
+LDR leaf ambient       209/65536        5852/1835008  ( 0.3%) 
+HDR leaf ambient       238/65536        6664/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9106     ( 0.0%) 
+pakfile               [variable]      526986/0        ( 0.0%) 
+physics               [variable]       16695/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 62
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\romans_apartment_d.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\romans_apartment_d.bsp
+30 faces
+9720 square feet [1399786.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+30 patches before subdivision
+30 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 73, max 8
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/4096          288/196608   ( 0.1%) 
+brushes                 41/32768         492/393216   ( 0.1%) 
+brushsides             259/65536        2072/524288   ( 0.4%) 
+planes                 274/65536        5480/1310720  ( 0.4%) 
+vertexes               358/65536        4296/786432   ( 0.5%) 
+nodes                  231/65536        7392/2097152  ( 0.4%) 
+texinfos                11/12288         792/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   30/65536        1680/3670016  ( 0.0%) 
+hdr faces               30/65536        1680/3670016  ( 0.0%) 
+origfaces               18/65536        1008/3670016  ( 0.0%) 
+leaves                 238/65536        7616/2097152  ( 0.4%) 
+leaffaces              121/65536         242/131072   ( 0.2%) 
+leafbrushes             76/65536         152/131072   ( 0.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              194/512000        776/2048000  ( 0.0%) 
+edges                  118/256000        472/1024000  ( 0.0%) 
+LDR worldlights          8/16384         704/1441792  ( 0.0%) 
+HDR worldlights          8/16384         704/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             45/131072        450/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           783/131072       1566/262144   ( 0.6%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]         216/0        ( 0.0%) 
+HDR lightdata         [variable]         216/0        ( 0.0%) 
+visdata               [variable]        8254/16777216 ( 0.0%) 
+entdata               [variable]        6392/393216   ( 1.6%) 
+LDR ambient table      238/65536         952/262144   ( 0.4%) 
+HDR ambient table      238/65536         952/262144   ( 0.4%) 
+LDR leaf ambient       209/65536        5852/1835008  ( 0.3%) 
+HDR leaf ambient       209/65536        5852/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9106     ( 0.0%) 
+pakfile               [variable]      707378/0        ( 0.0%) 
+physics               [variable]       16695/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3
+
+Total triangle count: 62
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\romans_apartment_d.bsp
+4 seconds elapsed

@@ -1,0 +1,5 @@
+LightMappedGeneric
+{
+$basetexture "museum/frame"
+$surfaceprop default
+}

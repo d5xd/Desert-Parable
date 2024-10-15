@@ -1,0 +1,5 @@
+LightMappedGeneric
+{
+$basetexture "museum/officelayoutplaque"
+$surfaceprop default
+}

@@ -1,0 +1,4 @@
+VertexLitGeneric
+{
+$baseTexture "models/warzone/barrier001.vtf"
+}

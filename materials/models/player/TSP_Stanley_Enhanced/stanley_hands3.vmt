@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/TSP_Stanley_Enhanced/stanley_hands3"
+	"$bumpmap" "models/player/TSP_Stanley_Enhanced/stanley_hands3_normal"
+
+
+// -- From here down is new stuff which will only be applied if $phong is set to 1 --
+	"$phong" "1"
+        "$phongtint" "[0 0 0]"
+	"$phongboost"	"0.5"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+
+// Rim lighting parameters
+	"$rimlight" "1"				// To enable rim lighting (requires phong)
+	"$rimlightexponent" "80"             // Exponent for phong component of rim lighting
+	"$rimlightboost" ".5"	               // Boost for ambient cube component of rim lighting
+}

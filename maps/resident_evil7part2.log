@@ -1,0 +1,2081 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.vmf
+Map revision 3
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2292 bytes)
+Error! To use model "models/map10_doors/singledoor.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/map10_doors/singledoor.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 15 texinfos to 4
+Reduced 2 texdatas to 2 (48 bytes to 48)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.prt
+   1 portalclusters
+   0 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1
+Average clusters visible: 1
+Building PAS...
+Average clusters audible: 1
+visdatasize:14  compressed from 16
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+6 faces
+796 square feet [114688.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6 patches before subdivision
+186 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7547, max 80
+transfer lists:   0.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0001 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                  6/32768          72/393216   ( 0.0%) 
+brushsides              36/65536         288/524288   ( 0.1%) 
+planes                  34/65536         680/1310720  ( 0.1%) 
+vertexes                33/65536         396/786432   ( 0.1%) 
+nodes                   10/65536         320/2097152  ( 0.0%) 
+texinfos                 4/12288         288/884736   ( 0.0%) 
+texdata                  2/2048           64/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                    6/65536         336/3670016  ( 0.0%) 
+hdr faces                6/65536         336/3670016  ( 0.0%) 
+origfaces                6/65536         336/3670016  ( 0.0%) 
+leaves                  12/65536         384/2097152  ( 0.0%) 
+leaffaces                6/65536          12/131072   ( 0.0%) 
+leafbrushes              7/65536          14/131072   ( 0.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges               48/512000        192/2048000  ( 0.0%) 
+edges                   37/256000        148/1024000  ( 0.0%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          2/16384         176/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/131072          0/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices             0/131072          0/262144   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]        6752/0        ( 0.0%) 
+visdata               [variable]          14/16777216 ( 0.0%) 
+entdata               [variable]         760/393216   ( 0.2%) 
+LDR ambient table       12/65536          48/262144   ( 0.0%) 
+HDR ambient table       12/65536          48/262144   ( 0.0%) 
+LDR leaf ambient        12/65536         336/1835008  ( 0.0%) 
+HDR leaf ambient         1/65536          28/1835008  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       86786/0        ( 0.0%) 
+physics               [variable]        2292/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 12
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.vmf
+Map revision 4
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2292 bytes)
+Error! To use model "models/map10_doors/singledoor.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/map10_doors/singledoor.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 15 texinfos to 4
+Reduced 2 texdatas to 2 (48 bytes to 48)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.prt
+   1 portalclusters
+   0 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1
+Average clusters visible: 1
+Building PAS...
+Average clusters audible: 1
+visdatasize:14  compressed from 16
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+6 faces
+796 square feet [114688.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6 patches before subdivision
+186 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7547, max 80
+transfer lists:   0.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                  6/32768          72/393216   ( 0.0%) 
+brushsides              36/65536         288/524288   ( 0.1%) 
+planes                  34/65536         680/1310720  ( 0.1%) 
+vertexes                33/65536         396/786432   ( 0.1%) 
+nodes                   10/65536         320/2097152  ( 0.0%) 
+texinfos                 4/12288         288/884736   ( 0.0%) 
+texdata                  2/2048           64/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                    6/65536         336/3670016  ( 0.0%) 
+hdr faces                6/65536         336/3670016  ( 0.0%) 
+origfaces                6/65536         336/3670016  ( 0.0%) 
+leaves                  12/65536         384/2097152  ( 0.0%) 
+leaffaces                6/65536          12/131072   ( 0.0%) 
+leafbrushes              7/65536          14/131072   ( 0.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges               48/512000        192/2048000  ( 0.0%) 
+edges                   37/256000        148/1024000  ( 0.0%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          2/16384         176/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/131072          0/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices             0/131072          0/262144   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]        6752/0        ( 0.0%) 
+visdata               [variable]          14/16777216 ( 0.0%) 
+entdata               [variable]        1486/393216   ( 0.4%) 
+LDR ambient table       12/65536          48/262144   ( 0.0%) 
+HDR ambient table       12/65536          48/262144   ( 0.0%) 
+LDR leaf ambient        12/65536         336/1835008  ( 0.0%) 
+HDR leaf ambient         1/65536          28/1835008  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       86786/0        ( 0.0%) 
+physics               [variable]        2292/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 12
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.vmf
+Map revision 5
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2292 bytes)
+Error! To use model "models/map10_doors/singledoor.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/map10_doors/singledoor.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 15 texinfos to 4
+Reduced 2 texdatas to 2 (48 bytes to 48)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.prt
+   1 portalclusters
+   0 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1
+Average clusters visible: 1
+Building PAS...
+Average clusters audible: 1
+visdatasize:14  compressed from 16
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+6 faces
+796 square feet [114688.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6 patches before subdivision
+186 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7547, max 80
+transfer lists:   0.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0001 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                  6/32768          72/393216   ( 0.0%) 
+brushsides              36/65536         288/524288   ( 0.1%) 
+planes                  34/65536         680/1310720  ( 0.1%) 
+vertexes                33/65536         396/786432   ( 0.1%) 
+nodes                   10/65536         320/2097152  ( 0.0%) 
+texinfos                 4/12288         288/884736   ( 0.0%) 
+texdata                  2/2048           64/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                    6/65536         336/3670016  ( 0.0%) 
+hdr faces                6/65536         336/3670016  ( 0.0%) 
+origfaces                6/65536         336/3670016  ( 0.0%) 
+leaves                  12/65536         384/2097152  ( 0.0%) 
+leaffaces                6/65536          12/131072   ( 0.0%) 
+leafbrushes              7/65536          14/131072   ( 0.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges               48/512000        192/2048000  ( 0.0%) 
+edges                   37/256000        148/1024000  ( 0.0%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          2/16384         176/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/131072          0/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices             0/131072          0/262144   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]        6752/0        ( 0.0%) 
+visdata               [variable]          14/16777216 ( 0.0%) 
+entdata               [variable]        1067/393216   ( 0.3%) 
+LDR ambient table       12/65536          48/262144   ( 0.0%) 
+HDR ambient table       12/65536          48/262144   ( 0.0%) 
+LDR leaf ambient        12/65536         336/1835008  ( 0.0%) 
+HDR leaf ambient         1/65536          28/1835008  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       86786/0        ( 0.0%) 
+physics               [variable]        2292/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 12
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.vmf
+Map revision 6
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2292 bytes)
+Error! To use model "models/map10_doors/singledoor.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/map10_doors/singledoor.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 15 texinfos to 4
+Reduced 2 texdatas to 2 (48 bytes to 48)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.prt
+   1 portalclusters
+   0 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1
+Average clusters visible: 1
+Building PAS...
+Average clusters audible: 1
+visdatasize:14  compressed from 16
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+6 faces
+796 square feet [114688.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6 patches before subdivision
+186 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7547, max 80
+transfer lists:   0.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                  6/32768          72/393216   ( 0.0%) 
+brushsides              36/65536         288/524288   ( 0.1%) 
+planes                  34/65536         680/1310720  ( 0.1%) 
+vertexes                33/65536         396/786432   ( 0.1%) 
+nodes                   10/65536         320/2097152  ( 0.0%) 
+texinfos                 4/12288         288/884736   ( 0.0%) 
+texdata                  2/2048           64/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                    6/65536         336/3670016  ( 0.0%) 
+hdr faces                6/65536         336/3670016  ( 0.0%) 
+origfaces                6/65536         336/3670016  ( 0.0%) 
+leaves                  12/65536         384/2097152  ( 0.0%) 
+leaffaces                6/65536          12/131072   ( 0.0%) 
+leafbrushes              7/65536          14/131072   ( 0.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges               48/512000        192/2048000  ( 0.0%) 
+edges                   37/256000        148/1024000  ( 0.0%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          2/16384         176/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/131072          0/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices             0/131072          0/262144   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]        6752/0        ( 0.0%) 
+visdata               [variable]          14/16777216 ( 0.0%) 
+entdata               [variable]        1065/393216   ( 0.3%) 
+LDR ambient table       12/65536          48/262144   ( 0.0%) 
+HDR ambient table       12/65536          48/262144   ( 0.0%) 
+LDR leaf ambient        12/65536         336/1835008  ( 0.0%) 
+HDR leaf ambient         1/65536          28/1835008  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       86786/0        ( 0.0%) 
+physics               [variable]        2292/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 12
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.vmf
+Map revision 8
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_physics (-720.00 500.00 36.00) leaked!
+--- MAP LEAKED ---
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.vmf
+Map revision 8
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_physics (-720.00 500.00 36.00) leaked!
+--- MAP LEAKED ---
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.vmf
+Map revision 9
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6755 bytes)
+Error! To use model "models/map10_doors/singledoor.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/map10_doors/singledoor.mdl"!
+Error! To use model "models/props_wasteland/woodwall030b_window03a_bars.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_wasteland/woodwall030b_window03a_bars.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 32 texinfos to 14
+Reduced 6 texdatas to 6 (124 bytes to 124)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.prt
+  10 portalclusters
+  18 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 94
+Average clusters visible: 9
+Building PAS...
+Average clusters audible: 10
+visdatasize:124  compressed from 160
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+49 faces
+3913 square feet [563511.25 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+49 patches before subdivision
+809 patches after subdivision
+18 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 29536, max 121
+transfer lists:   0.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(210, 197, 130)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(51, 47, 28)
+Build Patch/Sample Hash Table(s).....Done<0.0002 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 16 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                 19/32768         228/393216   ( 0.1%) 
+brushsides             114/65536         912/524288   ( 0.2%) 
+planes                  92/65536        1840/1310720  ( 0.1%) 
+vertexes               122/65536        1464/786432   ( 0.2%) 
+nodes                   29/65536         928/2097152  ( 0.0%) 
+texinfos                14/12288        1008/884736   ( 0.1%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   49/65536        2744/3670016  ( 0.1%) 
+hdr faces               49/65536        2744/3670016  ( 0.1%) 
+origfaces               35/65536        1960/3670016  ( 0.1%) 
+leaves                  31/65536         992/2097152  ( 0.0%) 
+leaffaces               55/65536         110/131072   ( 0.1%) 
+leafbrushes             25/65536          50/131072   ( 0.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              374/512000       1496/2048000  ( 0.1%) 
+edges                  232/256000        928/1024000  ( 0.1%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights         18/16384        1584/1441792  ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              3/131072         30/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices            51/131072        102/262144   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]       30544/0        ( 0.0%) 
+visdata               [variable]         124/16777216 ( 0.0%) 
+entdata               [variable]        2619/393216   ( 0.7%) 
+LDR ambient table       31/65536         124/262144   ( 0.0%) 
+HDR ambient table       31/65536         124/262144   ( 0.0%) 
+LDR leaf ambient        31/65536         868/1835008  ( 0.0%) 
+HDR leaf ambient        64/65536        1792/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1224     ( 0.1%) 
+pakfile               [variable]      105194/0        ( 0.0%) 
+physics               [variable]        6755/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 136
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.vmf
+Map revision 10
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6770 bytes)
+Error! To use model "models/map10_doors/singledoor.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/map10_doors/singledoor.mdl"!
+Error! To use model "models/props_wasteland/woodwall030b_window03a_bars.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_wasteland/woodwall030b_window03a_bars.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 34 texinfos to 15
+Reduced 8 texdatas to 7 (199 bytes to 180)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.prt
+  10 portalclusters
+  18 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 94
+Average clusters visible: 9
+Building PAS...
+Average clusters audible: 10
+visdatasize:124  compressed from 160
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+49 faces
+3913 square feet [563511.25 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+49 patches before subdivision
+815 patches after subdivision
+20 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 30131, max 121
+transfer lists:   0.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(553, 520, 337)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(103, 94, 54)
+Build Patch/Sample Hash Table(s).....Done<0.0002 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 16 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/4096           48/196608   ( 0.0%) 
+brushes                 19/32768         228/393216   ( 0.1%) 
+brushsides             114/65536         912/524288   ( 0.2%) 
+planes                  92/65536        1840/1310720  ( 0.1%) 
+vertexes               122/65536        1464/786432   ( 0.2%) 
+nodes                   29/65536         928/2097152  ( 0.0%) 
+texinfos                15/12288        1080/884736   ( 0.1%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   49/65536        2744/3670016  ( 0.1%) 
+hdr faces               49/65536        2744/3670016  ( 0.1%) 
+origfaces               35/65536        1960/3670016  ( 0.1%) 
+leaves                  31/65536         992/2097152  ( 0.0%) 
+leaffaces               55/65536         110/131072   ( 0.1%) 
+leafbrushes             25/65536          50/131072   ( 0.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              374/512000       1496/2048000  ( 0.1%) 
+edges                  232/256000        928/1024000  ( 0.1%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights         20/16384        1760/1441792  ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              3/131072         30/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices            51/131072        102/262144   ( 0.0%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]       30772/0        ( 0.0%) 
+visdata               [variable]         124/16777216 ( 0.0%) 
+entdata               [variable]        3582/393216   ( 0.9%) 
+LDR ambient table       31/65536         124/262144   ( 0.0%) 
+HDR ambient table       31/65536         124/262144   ( 0.0%) 
+LDR leaf ambient        31/65536         868/1835008  ( 0.0%) 
+HDR leaf ambient        64/65536        1792/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1224     ( 0.1%) 
+pakfile               [variable]      278993/0        ( 0.0%) 
+physics               [variable]        6770/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 136
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.vmf
+Map revision 11
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7310 bytes)
+Error! To use model "models/map10_doors/singledoor.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/map10_doors/singledoor.mdl"!
+Error! To use model "models/props_wasteland/woodwall030b_window03a_bars.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_wasteland/woodwall030b_window03a_bars.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 17
+Reduced 7 texdatas to 7 (143 bytes to 143)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.prt
+  10 portalclusters
+  18 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 92
+Average clusters visible: 9
+Building PAS...
+Average clusters audible: 10
+visdatasize:124  compressed from 160
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+55 faces
+4851 square feet [698655.63 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+55 patches before subdivision
+815 patches after subdivision
+20 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 29648, max 121
+transfer lists:   0.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(688, 648, 423)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(65, 58, 33)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(15, 14, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4, 3, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0002 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 16 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/4096           96/196608   ( 0.0%) 
+brushes                 20/32768         240/393216   ( 0.1%) 
+brushsides             120/65536         960/524288   ( 0.2%) 
+planes                 120/65536        2400/1310720  ( 0.2%) 
+vertexes               130/65536        1560/786432   ( 0.2%) 
+nodes                   35/65536        1120/2097152  ( 0.1%) 
+texinfos                17/12288        1224/884736   ( 0.1%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   55/65536        3080/3670016  ( 0.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               41/65536        2296/3670016  ( 0.1%) 
+leaves                  38/65536        1216/2097152  ( 0.1%) 
+leaffaces               61/65536         122/131072   ( 0.1%) 
+leafbrushes             26/65536          52/131072   ( 0.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              422/512000       1688/2048000  ( 0.1%) 
+edges                  256/256000       1024/1024000  ( 0.1%) 
+LDR worldlights         20/16384        1760/1441792  ( 0.1%) 
+HDR worldlights          0/16384           0/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              3/131072         30/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices            51/131072        102/262144   ( 0.0%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]       30544/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         124/16777216 ( 0.0%) 
+entdata               [variable]        3853/393216   ( 1.0%) 
+LDR ambient table       38/65536         152/262144   ( 0.1%) 
+HDR ambient table       38/65536         152/262144   ( 0.1%) 
+LDR leaf ambient        82/65536        2296/1835008  ( 0.1%) 
+HDR leaf ambient        38/65536        1064/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1224     ( 0.1%) 
+pakfile               [variable]      278562/0        ( 0.0%) 
+physics               [variable]        7310/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 148
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+55 faces
+4851 square feet [698655.63 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+55 patches before subdivision
+815 patches after subdivision
+20 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 29648, max 121
+transfer lists:   0.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(688, 648, 423)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(65, 58, 33)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(15, 14, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4, 3, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0002 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 16 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/4096           96/196608   ( 0.0%) 
+brushes                 20/32768         240/393216   ( 0.1%) 
+brushsides             120/65536         960/524288   ( 0.2%) 
+planes                 120/65536        2400/1310720  ( 0.2%) 
+vertexes               130/65536        1560/786432   ( 0.2%) 
+nodes                   35/65536        1120/2097152  ( 0.1%) 
+texinfos                17/12288        1224/884736   ( 0.1%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   55/65536        3080/3670016  ( 0.1%) 
+hdr faces               55/65536        3080/3670016  ( 0.1%) 
+origfaces               41/65536        2296/3670016  ( 0.1%) 
+leaves                  38/65536        1216/2097152  ( 0.1%) 
+leaffaces               61/65536         122/131072   ( 0.1%) 
+leafbrushes             26/65536          52/131072   ( 0.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              422/512000       1688/2048000  ( 0.1%) 
+edges                  256/256000       1024/1024000  ( 0.1%) 
+LDR worldlights         20/16384        1760/1441792  ( 0.1%) 
+HDR worldlights         20/16384        1760/1441792  ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              3/131072         30/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices            51/131072        102/262144   ( 0.0%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]       30544/0        ( 0.0%) 
+HDR lightdata         [variable]       30544/0        ( 0.0%) 
+visdata               [variable]         124/16777216 ( 0.0%) 
+entdata               [variable]        3853/393216   ( 1.0%) 
+LDR ambient table       38/65536         152/262144   ( 0.1%) 
+HDR ambient table       38/65536         152/262144   ( 0.1%) 
+LDR leaf ambient        82/65536        2296/1835008  ( 0.1%) 
+HDR leaf ambient        82/65536        2296/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1224     ( 0.1%) 
+pakfile               [variable]      296970/0        ( 0.0%) 
+physics               [variable]        7310/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3
+
+Total triangle count: 148
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.vmf
+Map revision 12
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7310 bytes)
+Error! To use model "models/map10_doors/singledoor.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/map10_doors/singledoor.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 17
+Reduced 7 texdatas to 7 (143 bytes to 143)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.prt
+  10 portalclusters
+  18 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 92
+Average clusters visible: 9
+Building PAS...
+Average clusters audible: 10
+visdatasize:124  compressed from 160
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+55 faces
+4851 square feet [698655.63 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+55 patches before subdivision
+815 patches after subdivision
+20 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 29648, max 121
+transfer lists:   0.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(688, 648, 423)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(65, 58, 33)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(15, 14, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4, 3, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0002 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 16 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/4096           96/196608   ( 0.0%) 
+brushes                 20/32768         240/393216   ( 0.1%) 
+brushsides             120/65536         960/524288   ( 0.2%) 
+planes                 120/65536        2400/1310720  ( 0.2%) 
+vertexes               130/65536        1560/786432   ( 0.2%) 
+nodes                   35/65536        1120/2097152  ( 0.1%) 
+texinfos                17/12288        1224/884736   ( 0.1%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   55/65536        3080/3670016  ( 0.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               41/65536        2296/3670016  ( 0.1%) 
+leaves                  38/65536        1216/2097152  ( 0.1%) 
+leaffaces               61/65536         122/131072   ( 0.1%) 
+leafbrushes             26/65536          52/131072   ( 0.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              422/512000       1688/2048000  ( 0.1%) 
+edges                  256/256000       1024/1024000  ( 0.1%) 
+LDR worldlights         20/16384        1760/1441792  ( 0.1%) 
+HDR worldlights          0/16384           0/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              3/131072         30/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices            51/131072        102/262144   ( 0.0%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]       30544/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         124/16777216 ( 0.0%) 
+entdata               [variable]        3853/393216   ( 1.0%) 
+LDR ambient table       38/65536         152/262144   ( 0.1%) 
+HDR ambient table       38/65536         152/262144   ( 0.1%) 
+LDR leaf ambient        82/65536        2296/1835008  ( 0.1%) 
+HDR leaf ambient        38/65536        1064/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1224     ( 0.1%) 
+pakfile               [variable]      278562/0        ( 0.0%) 
+physics               [variable]        7310/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 148
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+55 faces
+4851 square feet [698655.63 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+55 patches before subdivision
+815 patches after subdivision
+20 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 29648, max 121
+transfer lists:   0.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(688, 648, 423)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(65, 58, 33)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(15, 14, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4, 3, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0002 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 16 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/4096           96/196608   ( 0.0%) 
+brushes                 20/32768         240/393216   ( 0.1%) 
+brushsides             120/65536         960/524288   ( 0.2%) 
+planes                 120/65536        2400/1310720  ( 0.2%) 
+vertexes               130/65536        1560/786432   ( 0.2%) 
+nodes                   35/65536        1120/2097152  ( 0.1%) 
+texinfos                17/12288        1224/884736   ( 0.1%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   55/65536        3080/3670016  ( 0.1%) 
+hdr faces               55/65536        3080/3670016  ( 0.1%) 
+origfaces               41/65536        2296/3670016  ( 0.1%) 
+leaves                  38/65536        1216/2097152  ( 0.1%) 
+leaffaces               61/65536         122/131072   ( 0.1%) 
+leafbrushes             26/65536          52/131072   ( 0.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              422/512000       1688/2048000  ( 0.1%) 
+edges                  256/256000       1024/1024000  ( 0.1%) 
+LDR worldlights         20/16384        1760/1441792  ( 0.1%) 
+HDR worldlights         20/16384        1760/1441792  ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              3/131072         30/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices            51/131072        102/262144   ( 0.0%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]       30544/0        ( 0.0%) 
+HDR lightdata         [variable]       30544/0        ( 0.0%) 
+visdata               [variable]         124/16777216 ( 0.0%) 
+entdata               [variable]        3853/393216   ( 1.0%) 
+LDR ambient table       38/65536         152/262144   ( 0.1%) 
+HDR ambient table       38/65536         152/262144   ( 0.1%) 
+LDR leaf ambient        82/65536        2296/1835008  ( 0.1%) 
+HDR leaf ambient        82/65536        2296/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1224     ( 0.1%) 
+pakfile               [variable]      296970/0        ( 0.0%) 
+physics               [variable]        7310/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3
+
+Total triangle count: 148
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.vmf
+Map revision 13
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7310 bytes)
+Error! To use model "models/map10_doors/singledoor.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/map10_doors/singledoor.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 35 texinfos to 16
+Reduced 6 texdatas to 6 (121 bytes to 121)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.prt
+  10 portalclusters
+  18 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 92
+Average clusters visible: 9
+Building PAS...
+Average clusters audible: 10
+visdatasize:124  compressed from 160
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+55 faces
+4851 square feet [698655.63 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+55 patches before subdivision
+815 patches after subdivision
+20 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 29651, max 121
+transfer lists:   0.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(688, 649, 423)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(65, 58, 33)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(15, 14, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4, 3, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0002 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 16 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/4096           96/196608   ( 0.0%) 
+brushes                 19/32768         228/393216   ( 0.1%) 
+brushsides             114/65536         912/524288   ( 0.2%) 
+planes                 110/65536        2200/1310720  ( 0.2%) 
+vertexes               122/65536        1464/786432   ( 0.2%) 
+nodes                   35/65536        1120/2097152  ( 0.1%) 
+texinfos                16/12288        1152/884736   ( 0.1%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   55/65536        3080/3670016  ( 0.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               41/65536        2296/3670016  ( 0.1%) 
+leaves                  38/65536        1216/2097152  ( 0.1%) 
+leaffaces               61/65536         122/131072   ( 0.1%) 
+leafbrushes             24/65536          48/131072   ( 0.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              422/512000       1688/2048000  ( 0.1%) 
+edges                  256/256000       1024/1024000  ( 0.1%) 
+LDR worldlights         20/16384        1760/1441792  ( 0.1%) 
+HDR worldlights          0/16384           0/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              3/131072         30/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices            51/131072        102/262144   ( 0.0%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]       30544/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         124/16777216 ( 0.0%) 
+entdata               [variable]        3853/393216   ( 1.0%) 
+LDR ambient table       38/65536         152/262144   ( 0.1%) 
+HDR ambient table       38/65536         152/262144   ( 0.1%) 
+LDR leaf ambient        82/65536        2296/1835008  ( 0.1%) 
+HDR leaf ambient        38/65536        1064/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1224     ( 0.1%) 
+pakfile               [variable]      278562/0        ( 0.0%) 
+physics               [variable]        7310/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 148
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+55 faces
+4851 square feet [698655.63 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+55 patches before subdivision
+815 patches after subdivision
+20 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 29651, max 121
+transfer lists:   0.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(688, 649, 423)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(65, 58, 33)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(15, 14, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4, 3, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0002 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 16 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/4096           96/196608   ( 0.0%) 
+brushes                 19/32768         228/393216   ( 0.1%) 
+brushsides             114/65536         912/524288   ( 0.2%) 
+planes                 110/65536        2200/1310720  ( 0.2%) 
+vertexes               122/65536        1464/786432   ( 0.2%) 
+nodes                   35/65536        1120/2097152  ( 0.1%) 
+texinfos                16/12288        1152/884736   ( 0.1%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   55/65536        3080/3670016  ( 0.1%) 
+hdr faces               55/65536        3080/3670016  ( 0.1%) 
+origfaces               41/65536        2296/3670016  ( 0.1%) 
+leaves                  38/65536        1216/2097152  ( 0.1%) 
+leaffaces               61/65536         122/131072   ( 0.1%) 
+leafbrushes             24/65536          48/131072   ( 0.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              422/512000       1688/2048000  ( 0.1%) 
+edges                  256/256000       1024/1024000  ( 0.1%) 
+LDR worldlights         20/16384        1760/1441792  ( 0.1%) 
+HDR worldlights         20/16384        1760/1441792  ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              3/131072         30/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices            51/131072        102/262144   ( 0.0%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]       30544/0        ( 0.0%) 
+HDR lightdata         [variable]       30544/0        ( 0.0%) 
+visdata               [variable]         124/16777216 ( 0.0%) 
+entdata               [variable]        3853/393216   ( 1.0%) 
+LDR ambient table       38/65536         152/262144   ( 0.1%) 
+HDR ambient table       38/65536         152/262144   ( 0.1%) 
+LDR leaf ambient        82/65536        2296/1835008  ( 0.1%) 
+HDR leaf ambient        82/65536        2296/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1224     ( 0.1%) 
+pakfile               [variable]      296970/0        ( 0.0%) 
+physics               [variable]        7310/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3
+
+Total triangle count: 148
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.vmf
+Map revision 15
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7862 bytes)
+Error! To use model "models/map10_doors/singledoor.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/map10_doors/singledoor.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 19
+Reduced 6 texdatas to 6 (121 bytes to 121)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.prt
+  10 portalclusters
+  18 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 92
+Average clusters visible: 9
+Building PAS...
+Average clusters audible: 10
+visdatasize:124  compressed from 160
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+61 faces
+5024 square feet [723487.63 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+61 patches before subdivision
+821 patches after subdivision
+20 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 42101, max 148
+transfer lists:   0.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(19302, 17228, 11538)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(4312, 3704, 2166)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1056, 877, 449)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(262, 211, 95)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(66, 52, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(17, 13, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(4, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0002 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 16 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/4096          144/196608   ( 0.1%) 
+brushes                 20/32768         240/393216   ( 0.1%) 
+brushsides             120/65536         960/524288   ( 0.2%) 
+planes                 116/65536        2320/1310720  ( 0.2%) 
+vertexes               130/65536        1560/786432   ( 0.2%) 
+nodes                   41/65536        1312/2097152  ( 0.1%) 
+texinfos                19/12288        1368/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   61/65536        3416/3670016  ( 0.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               47/65536        2632/3670016  ( 0.1%) 
+leaves                  45/65536        1440/2097152  ( 0.1%) 
+leaffaces               67/65536         134/131072   ( 0.1%) 
+leafbrushes             25/65536          50/131072   ( 0.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              470/512000       1880/2048000  ( 0.1%) 
+edges                  280/256000       1120/1024000  ( 0.1%) 
+LDR worldlights         20/16384        1760/1441792  ( 0.1%) 
+HDR worldlights          0/16384           0/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              3/131072         30/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices            51/131072        102/262144   ( 0.0%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]       30544/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         124/16777216 ( 0.0%) 
+entdata               [variable]        4117/393216   ( 1.0%) 
+LDR ambient table       45/65536         180/262144   ( 0.1%) 
+HDR ambient table       45/65536         180/262144   ( 0.1%) 
+LDR leaf ambient       171/65536        4788/1835008  ( 0.3%) 
+HDR leaf ambient        45/65536        1260/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/946      ( 0.1%) 
+pakfile               [variable]      276330/0        ( 0.0%) 
+physics               [variable]        7862/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 160
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+61 faces
+5024 square feet [723487.63 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+61 patches before subdivision
+821 patches after subdivision
+20 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 42101, max 148
+transfer lists:   0.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(19302, 17228, 11538)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(4312, 3704, 2166)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1056, 877, 449)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(262, 211, 95)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(66, 52, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(17, 13, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(4, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0002 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 16 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/4096          144/196608   ( 0.1%) 
+brushes                 20/32768         240/393216   ( 0.1%) 
+brushsides             120/65536         960/524288   ( 0.2%) 
+planes                 116/65536        2320/1310720  ( 0.2%) 
+vertexes               130/65536        1560/786432   ( 0.2%) 
+nodes                   41/65536        1312/2097152  ( 0.1%) 
+texinfos                19/12288        1368/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   61/65536        3416/3670016  ( 0.1%) 
+hdr faces               61/65536        3416/3670016  ( 0.1%) 
+origfaces               47/65536        2632/3670016  ( 0.1%) 
+leaves                  45/65536        1440/2097152  ( 0.1%) 
+leaffaces               67/65536         134/131072   ( 0.1%) 
+leafbrushes             25/65536          50/131072   ( 0.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              470/512000       1880/2048000  ( 0.1%) 
+edges                  280/256000       1120/1024000  ( 0.1%) 
+LDR worldlights         20/16384        1760/1441792  ( 0.1%) 
+HDR worldlights         20/16384        1760/1441792  ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              3/131072         30/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices            51/131072        102/262144   ( 0.0%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]       30544/0        ( 0.0%) 
+HDR lightdata         [variable]       30544/0        ( 0.0%) 
+visdata               [variable]         124/16777216 ( 0.0%) 
+entdata               [variable]        4117/393216   ( 1.0%) 
+LDR ambient table       45/65536         180/262144   ( 0.1%) 
+HDR ambient table       45/65536         180/262144   ( 0.1%) 
+LDR leaf ambient       171/65536        4788/1835008  ( 0.3%) 
+HDR leaf ambient       171/65536        4788/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/946      ( 0.1%) 
+pakfile               [variable]      292490/0        ( 0.0%) 
+physics               [variable]        7862/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3
+
+Total triangle count: 160
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.vmf
+Map revision 16
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7862 bytes)
+Error! To use model "models/map10_doors/singledoor.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/map10_doors/singledoor.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 19
+Reduced 6 texdatas to 6 (121 bytes to 121)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.prt
+  10 portalclusters
+  18 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 92
+Average clusters visible: 9
+Building PAS...
+Average clusters audible: 10
+visdatasize:124  compressed from 160
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+61 faces
+5024 square feet [723487.63 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+61 patches before subdivision
+821 patches after subdivision
+20 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 42053, max 148
+transfer lists:   0.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(19293, 17219, 11532)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(4311, 3703, 2165)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1057, 877, 450)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(263, 211, 95)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(66, 52, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(17, 13, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(4, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0002 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 16 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/4096          144/196608   ( 0.1%) 
+brushes                 20/32768         240/393216   ( 0.1%) 
+brushsides             120/65536         960/524288   ( 0.2%) 
+planes                 118/65536        2360/1310720  ( 0.2%) 
+vertexes               130/65536        1560/786432   ( 0.2%) 
+nodes                   41/65536        1312/2097152  ( 0.1%) 
+texinfos                19/12288        1368/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   61/65536        3416/3670016  ( 0.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               47/65536        2632/3670016  ( 0.1%) 
+leaves                  45/65536        1440/2097152  ( 0.1%) 
+leaffaces               67/65536         134/131072   ( 0.1%) 
+leafbrushes             25/65536          50/131072   ( 0.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              470/512000       1880/2048000  ( 0.1%) 
+edges                  280/256000       1120/1024000  ( 0.1%) 
+LDR worldlights         20/16384        1760/1441792  ( 0.1%) 
+HDR worldlights          0/16384           0/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              3/131072         30/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices            51/131072        102/262144   ( 0.0%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]       30544/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         124/16777216 ( 0.0%) 
+entdata               [variable]        4118/393216   ( 1.0%) 
+LDR ambient table       45/65536         180/262144   ( 0.1%) 
+HDR ambient table       45/65536         180/262144   ( 0.1%) 
+LDR leaf ambient       114/65536        3192/1835008  ( 0.2%) 
+HDR leaf ambient        45/65536        1260/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/946      ( 0.1%) 
+pakfile               [variable]      276330/0        ( 0.0%) 
+physics               [variable]        7862/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 160
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+61 faces
+5024 square feet [723487.63 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+61 patches before subdivision
+821 patches after subdivision
+20 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 42053, max 148
+transfer lists:   0.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(19293, 17219, 11532)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(4311, 3703, 2165)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1057, 877, 450)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(263, 211, 95)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(66, 52, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(17, 13, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(4, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0002 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 16 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/4096          144/196608   ( 0.1%) 
+brushes                 20/32768         240/393216   ( 0.1%) 
+brushsides             120/65536         960/524288   ( 0.2%) 
+planes                 118/65536        2360/1310720  ( 0.2%) 
+vertexes               130/65536        1560/786432   ( 0.2%) 
+nodes                   41/65536        1312/2097152  ( 0.1%) 
+texinfos                19/12288        1368/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   61/65536        3416/3670016  ( 0.1%) 
+hdr faces               61/65536        3416/3670016  ( 0.1%) 
+origfaces               47/65536        2632/3670016  ( 0.1%) 
+leaves                  45/65536        1440/2097152  ( 0.1%) 
+leaffaces               67/65536         134/131072   ( 0.1%) 
+leafbrushes             25/65536          50/131072   ( 0.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              470/512000       1880/2048000  ( 0.1%) 
+edges                  280/256000       1120/1024000  ( 0.1%) 
+LDR worldlights         20/16384        1760/1441792  ( 0.1%) 
+HDR worldlights         20/16384        1760/1441792  ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              3/131072         30/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices            51/131072        102/262144   ( 0.0%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]       30544/0        ( 0.0%) 
+HDR lightdata         [variable]       30544/0        ( 0.0%) 
+visdata               [variable]         124/16777216 ( 0.0%) 
+entdata               [variable]        4118/393216   ( 1.0%) 
+LDR ambient table       45/65536         180/262144   ( 0.1%) 
+HDR ambient table       45/65536         180/262144   ( 0.1%) 
+LDR leaf ambient       114/65536        3192/1835008  ( 0.2%) 
+HDR leaf ambient       114/65536        3192/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/946      ( 0.1%) 
+pakfile               [variable]      292490/0        ( 0.0%) 
+physics               [variable]        7862/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3
+
+Total triangle count: 160
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.vmf
+Map revision 17
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7862 bytes)
+Error! To use model "models/map10_doors/singledoor.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/map10_doors/singledoor.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 19
+Reduced 6 texdatas to 6 (121 bytes to 121)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.prt
+  10 portalclusters
+  18 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 92
+Average clusters visible: 9
+Building PAS...
+Average clusters audible: 10
+visdatasize:124  compressed from 160
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+61 faces
+5024 square feet [723487.63 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+61 patches before subdivision
+821 patches after subdivision
+20 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 42053, max 148
+transfer lists:   0.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(19293, 17219, 11532)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(4311, 3703, 2165)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1057, 877, 450)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(263, 211, 95)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(66, 52, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(17, 13, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(4, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0002 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 16 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/4096          144/196608   ( 0.1%) 
+brushes                 20/32768         240/393216   ( 0.1%) 
+brushsides             120/65536         960/524288   ( 0.2%) 
+planes                 118/65536        2360/1310720  ( 0.2%) 
+vertexes               130/65536        1560/786432   ( 0.2%) 
+nodes                   41/65536        1312/2097152  ( 0.1%) 
+texinfos                19/12288        1368/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   61/65536        3416/3670016  ( 0.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               47/65536        2632/3670016  ( 0.1%) 
+leaves                  45/65536        1440/2097152  ( 0.1%) 
+leaffaces               67/65536         134/131072   ( 0.1%) 
+leafbrushes             25/65536          50/131072   ( 0.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              470/512000       1880/2048000  ( 0.1%) 
+edges                  280/256000       1120/1024000  ( 0.1%) 
+LDR worldlights         20/16384        1760/1441792  ( 0.1%) 
+HDR worldlights          0/16384           0/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              3/131072         30/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices            51/131072        102/262144   ( 0.0%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]       30544/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         124/16777216 ( 0.0%) 
+entdata               [variable]        3944/393216   ( 1.0%) 
+LDR ambient table       45/65536         180/262144   ( 0.1%) 
+HDR ambient table       45/65536         180/262144   ( 0.1%) 
+LDR leaf ambient       114/65536        3192/1835008  ( 0.2%) 
+HDR leaf ambient        45/65536        1260/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/946      ( 0.1%) 
+pakfile               [variable]      276330/0        ( 0.0%) 
+physics               [variable]        7862/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 160
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+61 faces
+5024 square feet [723487.63 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+61 patches before subdivision
+821 patches after subdivision
+20 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 42053, max 148
+transfer lists:   0.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(19293, 17219, 11532)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(4311, 3703, 2165)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1057, 877, 450)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(263, 211, 95)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(66, 52, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(17, 13, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(4, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0002 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 16 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/4096          144/196608   ( 0.1%) 
+brushes                 20/32768         240/393216   ( 0.1%) 
+brushsides             120/65536         960/524288   ( 0.2%) 
+planes                 118/65536        2360/1310720  ( 0.2%) 
+vertexes               130/65536        1560/786432   ( 0.2%) 
+nodes                   41/65536        1312/2097152  ( 0.1%) 
+texinfos                19/12288        1368/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   61/65536        3416/3670016  ( 0.1%) 
+hdr faces               61/65536        3416/3670016  ( 0.1%) 
+origfaces               47/65536        2632/3670016  ( 0.1%) 
+leaves                  45/65536        1440/2097152  ( 0.1%) 
+leaffaces               67/65536         134/131072   ( 0.1%) 
+leafbrushes             25/65536          50/131072   ( 0.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              470/512000       1880/2048000  ( 0.1%) 
+edges                  280/256000       1120/1024000  ( 0.1%) 
+LDR worldlights         20/16384        1760/1441792  ( 0.1%) 
+HDR worldlights         20/16384        1760/1441792  ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              3/131072         30/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices            51/131072        102/262144   ( 0.0%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]       30544/0        ( 0.0%) 
+HDR lightdata         [variable]       30544/0        ( 0.0%) 
+visdata               [variable]         124/16777216 ( 0.0%) 
+entdata               [variable]        3944/393216   ( 1.0%) 
+LDR ambient table       45/65536         180/262144   ( 0.1%) 
+HDR ambient table       45/65536         180/262144   ( 0.1%) 
+LDR leaf ambient       114/65536        3192/1835008  ( 0.2%) 
+HDR leaf ambient       114/65536        3192/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/946      ( 0.1%) 
+pakfile               [variable]      292490/0        ( 0.0%) 
+physics               [variable]        7862/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3
+
+Total triangle count: 160
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\resident_evil7part2.bsp
+1 second elapsed

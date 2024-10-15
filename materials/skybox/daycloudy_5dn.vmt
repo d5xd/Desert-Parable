@@ -1,0 +1,7 @@
+"Sky"
+{
+	"$basetexture" "skybox/blank_0dn"
+	"$nofog" 1
+	"$ignorez" 1
+	"$nomip" 1
+}

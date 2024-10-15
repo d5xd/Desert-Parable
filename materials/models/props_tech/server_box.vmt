@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$model" 1
+	"$basetexture" "models\props_tech\server_box"
+	"$surfaceprop" "computer"
+}

@@ -1,0 +1,17 @@
+VertexlitGeneric
+{
+	$basetexture "models\props_parable\bathroomsign"
+	$bumpmap "models\props_parable\bathroomsign_normal"
+	
+	$envmap env_cubemap
+	$normalmapalphaenvmapmask 1
+	//$envmaptint [0.92941 0.70980 0.23137]
+	
+	$phong 1
+	$phongexponent 10
+	$phongboost "2"
+	$phongfresnelranges "[0.1 0.5 1]"
+	
+	//$phongtint [0.92941 0.70980 0.53137]
+
+}

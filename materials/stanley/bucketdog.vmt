@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+$basetexture "stanley/bucketdog"
+$surfaceprop metalgrate
+$translucent 1
+
+}

@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xperia/phone"
+	"$bumpmap" "models\xperia\normal"
+	"$nodecal" "1"
+
+	"$phong" "1"
+	"$phongboost"	"1"
+	"$phongalbedotint" "1"
+}

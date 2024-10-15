@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+$basetexture "stanley/babyfinal"
+$surfaceprop metalgrate
+$translucent 1
+
+}
