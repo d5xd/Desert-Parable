@@ -1,8 +1,0 @@
-LightmappedGeneric
-{
-$basetexture "stanley/doorsign"
-"%compilepassbullets" 1
-"%keywords" stanley
-$translucent 1
-
-}

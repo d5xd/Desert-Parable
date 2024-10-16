@@ -1,8 +1,0 @@
-VertexLitGeneric
-{
-	"$basetexture"	"casez\2\computer"
-	"$bumpmap"	"casez\2\computer_normal"
-	"$envmap" "env_cubemap"
-	"$envmapmask" "casez\2\computer_ref"
-
-}

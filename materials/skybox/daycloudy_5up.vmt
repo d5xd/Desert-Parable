@@ -1,7 +1,0 @@
-"Sky"
-{
-	"$basetexture" "skybox/daycloudy_5up"
-	"$nofog" 1
-	"$ignorez" 1
-	"$nomip" 1
-}

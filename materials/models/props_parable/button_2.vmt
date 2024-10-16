@@ -1,9 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/props_parable/button_2"
-	$phong 1
-	$phongexponent 10
-	$phongboost "2"
-	$phongfresnelranges "[1 2 5]"
-	$basemapalphaphongmask 1
-}

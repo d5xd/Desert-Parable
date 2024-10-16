@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "museum/exit"
-	"$envmap" "env_cubemap"
-	"$surfaceprop" "glass"
-	"$translucent" 1
-}

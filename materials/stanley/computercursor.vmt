@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture"	"stanley/computercursor"
-	"$surfaceprop"	"default"
-	"$translucent"	1
-	"$decal"	1
-}

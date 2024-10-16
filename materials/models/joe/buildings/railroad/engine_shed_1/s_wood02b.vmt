@@ -1,7 +1,0 @@
-"vertexlitgeneric"
-{
-	"$basetexture" "wood/s_wood02b"
-	"$bumpmap" "wood/s_wood01b_normal"
-	"$surfaceprop" "wood"
-	"%keywords" "rnl"
-}

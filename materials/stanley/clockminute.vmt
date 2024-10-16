@@ -1,7 +1,0 @@
-LightmappedGeneric
-{
-$basetexture "stanley/clockminute"
-$surfaceprop metalgrate
-$translucent 1
-
-}

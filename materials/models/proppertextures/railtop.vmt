@@ -1,6 +1,0 @@
-"vertexlitgeneric"
-{
-	"$basetexture" "props_metaladon/trakpak/railtop"
-	"$envmap" "env_cubemap"
-	"$surfaceprop" "Metal"
-}

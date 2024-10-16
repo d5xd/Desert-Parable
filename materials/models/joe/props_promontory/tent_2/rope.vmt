@@ -1,9 +1,0 @@
-"vertexlitgeneric"
-{
-	"$basetexture"		"vertexlitgeneric\rope"
-	"$bumpmap"			"vertexlitgeneric\vertexlitgenericnormalmap"
-	"$vertexcolor"		1
-	"$nocull"			1
-	"$minlight"			0.25
-	"$maxlight"			1
-}

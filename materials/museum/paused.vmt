@@ -1,7 +1,0 @@
-LightMappedGeneric
-{
-$basetexture "museum/paused"
-$surfaceprop default
-"%noportal" 1
-"%keywords" "stanley"
-}

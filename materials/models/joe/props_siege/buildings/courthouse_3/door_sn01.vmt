@@ -1,6 +1,0 @@
-"vertexlitgeneric"
-{
-	"$basetexture" "cs_italy/door_sn01"
-	"$surfaceprop" "wood"
-	"$bumpmap" "cs_italy/door_sn01_normal"
-}

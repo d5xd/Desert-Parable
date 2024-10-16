@@ -1,8 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "vazelinze\pol\plitka01"
-	"$bumpmap" "vazelinze\pol\plitka01_n"
-	"$surfaceprop" "tile"
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[.8 .8 .8]"
-}

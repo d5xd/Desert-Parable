@@ -1,5 +1,0 @@
-"unlitGeneric"
-{
-	"$basetexture" "models/unconid/1shared/green_screen"
-	$nocull 1
-}

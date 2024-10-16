@@ -1,8 +1,0 @@
-"WorldVertexTransition"
-{
-	"$basetexture"  	"nature/milground002"
-	"$basetexture2" 	"trakpak3_common/tracks/ballast/ballast_gray"
-	"%tooltexture" 	"nature/milground004_2_tooltexture"
-	"$surfaceprop" 	"grass"
-	"$surfaceprop2"	"gravel"
-}

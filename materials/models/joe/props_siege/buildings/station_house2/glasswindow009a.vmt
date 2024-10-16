@@ -1,8 +1,0 @@
-"vertexlitgeneric"
-{
-	// original shader: basetimeslightmapalphablend
-	"$translucent" 1
-	"$basetexture" "glass/glasswindow009a"
-	"$surfaceprop" "glass"
-	"%keywords" "c17downtown,c17industrial,wasteland"
-}

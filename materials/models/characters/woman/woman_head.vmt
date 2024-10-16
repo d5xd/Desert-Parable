@@ -1,9 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/characters/woman/woman_head"
-	"$bumpmap" "models/characters/woman/woman_head_nrml"
-	"$phong" "1"
-	"$phongexponent" "5"
-	"$phongboost" "1"
-	$phongfresnelranges		"[ .1 .05 .5]"
-}
