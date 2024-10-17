@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+    "$basetexture" "models\server_05\server_05_diffuse"
+    "$bumpmap" "models\server_05\server_05_normal"
+
+    "$phongexponenttexture" "models\server_05\server_05_phongexponent"
+
+    "$phong" "1"
+    "$phongboost"    "9.9934895"
+
+    "$phongfresnelranges"    "[0.1 0.23 0.945]"
+
+    "$phongdisablehalflambert"    "1"
+
+    "$envmap" "env_cubemap"
+    "$normalmapalphaenvmapmask"        "1"
+    "$envmapfresnel"    "1"
+
+    "$envmaptint"        0
+$nocull 1
+$alphatest   1
+$ambientocclusion 0
+}
