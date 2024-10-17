@@ -1,0 +1,2981 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.vmf
+Map revision 3
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_PATCHED, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 12 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (9976 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+.Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+.Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+.Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+9...10
+Compacting texture/material tables...
+Reduced 58 texinfos to 48
+Reduced 12 texdatas to 12 (230 bytes to 230)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt
+  22 portalclusters
+  59 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 484
+Average clusters visible: 22
+Building PAS...
+Average clusters audible: 22
+visdatasize:312  compressed from 352
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+170 faces
+198392 square feet [28568572.00 square inches]
+12 Displacements
+32783 Square Feet [4720793.50 Square Inches]
+170 patches before subdivision
+3844 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 43899, max 142
+transfer lists:   0.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(3575, 3625, 3030)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(297, 299, 245)
+Build Patch/Sample Hash Table(s).....Done<0.0023 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/4096          192/196608   ( 0.1%) 
+brushes                 25/32768         300/393216   ( 0.1%) 
+brushsides             150/65536        1200/524288   ( 0.2%) 
+planes                 158/65536        3160/1310720  ( 0.2%) 
+vertexes               254/65536        3048/786432   ( 0.4%) 
+nodes                   96/65536        3072/2097152  ( 0.1%) 
+texinfos                48/12288        3456/884736   ( 0.4%) 
+texdata                 12/2048          384/65536    ( 0.6%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples       92688/0           92688/0        ( 0.0%) 
+faces                  170/65536        9520/3670016  ( 0.3%) 
+hdr faces              170/65536        9520/3670016  ( 0.3%) 
+origfaces              108/65536        6048/3670016  ( 0.2%) 
+leaves                 101/65536        3232/2097152  ( 0.2%) 
+leaffaces              176/65536         352/131072   ( 0.3%) 
+leafbrushes             66/65536         132/131072   ( 0.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             1280/512000       5120/2048000  ( 0.3%) 
+edges                  728/256000       2912/1024000  ( 0.3%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          2/16384         176/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             30/131072        300/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           483/131072        966/262144   ( 0.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      128532/0        ( 0.0%) 
+visdata               [variable]         312/16777216 ( 0.0%) 
+entdata               [variable]        3113/393216   ( 0.8%) 
+LDR ambient table      101/65536         404/262144   ( 0.2%) 
+HDR ambient table      101/65536         404/262144   ( 0.2%) 
+LDR leaf ambient       101/65536        2828/1835008  ( 0.2%) 
+HDR leaf ambient       467/65536       13076/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1316     ( 0.1%) 
+pakfile               [variable]      190022/0        ( 0.0%) 
+physics               [variable]        9976/4194304  ( 0.2%) 
+physics terrain       [variable]        3274/1048576  ( 0.3%) 
+
+Level flags = 2
+
+Total triangle count: 508
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.vmf
+Map revision 4
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_PATCHED, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (9976 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+.Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+.Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+.Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+9...10
+Compacting texture/material tables...
+Reduced 61 texinfos to 48
+Reduced 13 texdatas to 13 (252 bytes to 252)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt
+  22 portalclusters
+  59 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 484
+Average clusters visible: 22
+Building PAS...
+Average clusters audible: 22
+visdatasize:312  compressed from 352
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+164 faces
+198390 square feet [28568204.00 square inches]
+12 Displacements
+32783 Square Feet [4720793.50 Square Inches]
+164 patches before subdivision
+3754 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 43812, max 142
+transfer lists:   0.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(3349, 3358, 2774)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(273, 270, 218)
+Build Patch/Sample Hash Table(s).....Done<0.0019 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/4096          192/196608   ( 0.1%) 
+brushes                 28/32768         336/393216   ( 0.1%) 
+brushsides             168/65536        1344/524288   ( 0.3%) 
+planes                 186/65536        3720/1310720  ( 0.3%) 
+vertexes               272/65536        3264/786432   ( 0.4%) 
+nodes                   96/65536        3072/2097152  ( 0.1%) 
+texinfos                48/12288        3456/884736   ( 0.4%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples       92688/0           92688/0        ( 0.0%) 
+faces                  164/65536        9184/3670016  ( 0.3%) 
+hdr faces              164/65536        9184/3670016  ( 0.3%) 
+origfaces              107/65536        5992/3670016  ( 0.2%) 
+leaves                 101/65536        3232/2097152  ( 0.2%) 
+leaffaces              170/65536         340/131072   ( 0.3%) 
+leafbrushes             75/65536         150/131072   ( 0.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             1240/512000       4960/2048000  ( 0.2%) 
+edges                  712/256000       2848/1024000  ( 0.3%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          2/16384         176/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             29/131072        290/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           447/131072        894/262144   ( 0.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      119388/0        ( 0.0%) 
+visdata               [variable]         312/16777216 ( 0.0%) 
+entdata               [variable]        3472/393216   ( 0.9%) 
+LDR ambient table      101/65536         404/262144   ( 0.2%) 
+HDR ambient table      101/65536         404/262144   ( 0.2%) 
+LDR leaf ambient       101/65536        2828/1835008  ( 0.2%) 
+HDR leaf ambient       467/65536       13076/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1316     ( 0.1%) 
+pakfile               [variable]      190022/0        ( 0.0%) 
+physics               [variable]        9976/4194304  ( 0.2%) 
+physics terrain       [variable]        3274/1048576  ( 0.3%) 
+
+Level flags = 2
+
+Total triangle count: 484
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.vmf
+Map revision 5
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_PATCHED, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (18280 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+.Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+..10
+Compacting texture/material tables...
+Reduced 116 texinfos to 73
+Reduced 16 texdatas to 16 (334 bytes to 334)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt
+  32 portalclusters
+  75 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 534
+Average clusters visible: 16
+Building PAS...
+Average clusters audible: 16
+visdatasize:550  compressed from 512
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+630 faces
+203040 square feet [29237846.00 square inches]
+12 Displacements
+32783 Square Feet [4720793.50 Square Inches]
+630 patches before subdivision
+50800 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 6906669, max 376
+transfer lists:  52.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(52652, 9494, 3744)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(8610, 1235, 241)
+Build Patch/Sample Hash Table(s).....Done<0.0209 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  10/4096          480/196608   ( 0.2%) 
+brushes                 48/32768         576/393216   ( 0.1%) 
+brushsides             288/65536        2304/524288   ( 0.4%) 
+planes                 312/65536        6240/1310720  ( 0.5%) 
+vertexes               876/65536       10512/786432   ( 1.3%) 
+nodes                  157/65536        5024/2097152  ( 0.2%) 
+texinfos                73/12288        5256/884736   ( 0.6%) 
+texdata                 16/2048          512/65536    ( 0.8%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples      172424/0          172424/0        ( 0.0%) 
+faces                  630/65536       35280/3670016  ( 1.0%) 
+hdr faces              630/65536       35280/3670016  ( 1.0%) 
+origfaces              153/65536        8568/3670016  ( 0.2%) 
+leaves                 168/65536        5376/2097152  ( 0.3%) 
+leaffaces             1252/65536        2504/131072   ( 1.9%) 
+leafbrushes             98/65536         196/131072   ( 0.1%) 
+areas                    4/1024           32/8192     ( 0.4%) 
+surfedges             3444/512000      13776/2048000  ( 0.7%) 
+edges                 1842/256000       7368/1024000  ( 0.7%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          8/16384         704/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             35/131072        350/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           525/131072       1050/262144   ( 0.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     3834964/0        ( 0.0%) 
+visdata               [variable]         550/16777216 ( 0.0%) 
+entdata               [variable]       11062/393216   ( 2.8%) 
+LDR ambient table      168/65536         672/262144   ( 0.3%) 
+HDR ambient table      168/65536         672/262144   ( 0.3%) 
+LDR leaf ambient       168/65536        4704/1835008  ( 0.3%) 
+HDR leaf ambient       676/65536       18928/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1316     ( 0.1%) 
+pakfile               [variable]      190022/0        ( 0.0%) 
+physics               [variable]       18280/4194304  ( 0.4%) 
+physics terrain       [variable]        3274/1048576  ( 0.3%) 
+
+Level flags = 2
+
+Total triangle count: 1572
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+9 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.vmf
+Map revision 6
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_PATCHED, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (18280 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+.Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+..10
+Compacting texture/material tables...
+Reduced 116 texinfos to 73
+Reduced 16 texdatas to 16 (334 bytes to 334)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt
+  32 portalclusters
+  75 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 534
+Average clusters visible: 16
+Building PAS...
+Average clusters audible: 16
+visdatasize:550  compressed from 512
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+630 faces
+203040 square feet [29237846.00 square inches]
+12 Displacements
+32783 Square Feet [4720793.50 Square Inches]
+630 patches before subdivision
+50800 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 6906669, max 376
+transfer lists:  52.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(52652, 9494, 3744)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(8610, 1235, 241)
+Build Patch/Sample Hash Table(s).....Done<0.0216 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  10/4096          480/196608   ( 0.2%) 
+brushes                 48/32768         576/393216   ( 0.1%) 
+brushsides             288/65536        2304/524288   ( 0.4%) 
+planes                 312/65536        6240/1310720  ( 0.5%) 
+vertexes               876/65536       10512/786432   ( 1.3%) 
+nodes                  157/65536        5024/2097152  ( 0.2%) 
+texinfos                73/12288        5256/884736   ( 0.6%) 
+texdata                 16/2048          512/65536    ( 0.8%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples      172424/0          172424/0        ( 0.0%) 
+faces                  630/65536       35280/3670016  ( 1.0%) 
+hdr faces              630/65536       35280/3670016  ( 1.0%) 
+origfaces              153/65536        8568/3670016  ( 0.2%) 
+leaves                 168/65536        5376/2097152  ( 0.3%) 
+leaffaces             1252/65536        2504/131072   ( 1.9%) 
+leafbrushes             98/65536         196/131072   ( 0.1%) 
+areas                    4/1024           32/8192     ( 0.4%) 
+surfedges             3444/512000      13776/2048000  ( 0.7%) 
+edges                 1842/256000       7368/1024000  ( 0.7%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          8/16384         704/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             35/131072        350/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           525/131072       1050/262144   ( 0.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     3834964/0        ( 0.0%) 
+visdata               [variable]         550/16777216 ( 0.0%) 
+entdata               [variable]       10683/393216   ( 2.7%) 
+LDR ambient table      168/65536         672/262144   ( 0.3%) 
+HDR ambient table      168/65536         672/262144   ( 0.3%) 
+LDR leaf ambient       168/65536        4704/1835008  ( 0.3%) 
+HDR leaf ambient       676/65536       18928/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1316     ( 0.1%) 
+pakfile               [variable]      190022/0        ( 0.0%) 
+physics               [variable]       18280/4194304  ( 0.4%) 
+physics terrain       [variable]        3274/1048576  ( 0.3%) 
+
+Level flags = 2
+
+Total triangle count: 1572
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+9 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.vmf
+Map revision 7
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_PATCHED, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (18280 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+.Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+..10
+Compacting texture/material tables...
+Reduced 116 texinfos to 73
+Reduced 16 texdatas to 16 (334 bytes to 334)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt
+  32 portalclusters
+  75 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 534
+Average clusters visible: 16
+Building PAS...
+Average clusters audible: 16
+visdatasize:550  compressed from 512
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+630 faces
+203040 square feet [29237846.00 square inches]
+12 Displacements
+32783 Square Feet [4720793.50 Square Inches]
+630 patches before subdivision
+50800 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 6906669, max 376
+transfer lists:  52.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(52652, 9494, 3744)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(8610, 1235, 241)
+Build Patch/Sample Hash Table(s).....Done<0.0216 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  10/4096          480/196608   ( 0.2%) 
+brushes                 48/32768         576/393216   ( 0.1%) 
+brushsides             288/65536        2304/524288   ( 0.4%) 
+planes                 312/65536        6240/1310720  ( 0.5%) 
+vertexes               876/65536       10512/786432   ( 1.3%) 
+nodes                  157/65536        5024/2097152  ( 0.2%) 
+texinfos                73/12288        5256/884736   ( 0.6%) 
+texdata                 16/2048          512/65536    ( 0.8%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples      172424/0          172424/0        ( 0.0%) 
+faces                  630/65536       35280/3670016  ( 1.0%) 
+hdr faces              630/65536       35280/3670016  ( 1.0%) 
+origfaces              153/65536        8568/3670016  ( 0.2%) 
+leaves                 168/65536        5376/2097152  ( 0.3%) 
+leaffaces             1252/65536        2504/131072   ( 1.9%) 
+leafbrushes             98/65536         196/131072   ( 0.1%) 
+areas                    4/1024           32/8192     ( 0.4%) 
+surfedges             3444/512000      13776/2048000  ( 0.7%) 
+edges                 1842/256000       7368/1024000  ( 0.7%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          8/16384         704/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             35/131072        350/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           525/131072       1050/262144   ( 0.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     3834964/0        ( 0.0%) 
+visdata               [variable]         550/16777216 ( 0.0%) 
+entdata               [variable]       10684/393216   ( 2.7%) 
+LDR ambient table      168/65536         672/262144   ( 0.3%) 
+HDR ambient table      168/65536         672/262144   ( 0.3%) 
+LDR leaf ambient       168/65536        4704/1835008  ( 0.3%) 
+HDR leaf ambient       676/65536       18928/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1316     ( 0.1%) 
+pakfile               [variable]      190022/0        ( 0.0%) 
+physics               [variable]       18280/4194304  ( 0.4%) 
+physics terrain       [variable]        3274/1048576  ( 0.3%) 
+
+Level flags = 2
+
+Total triangle count: 1572
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+9 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.vmf
+Map revision 8
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_PATCHED, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (22425 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+.Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+..10
+Compacting texture/material tables...
+Reduced 132 texinfos to 81
+Reduced 16 texdatas to 16 (334 bytes to 334)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt
+  37 portalclusters
+  83 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 559
+Average clusters visible: 15
+Building PAS...
+Average clusters audible: 15
+visdatasize:684  compressed from 592
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+863 faces
+205365 square feet [29572664.00 square inches]
+12 Displacements
+32783 Square Feet [4720793.50 Square Inches]
+863 patches before subdivision
+73811 patches after subdivision
+11 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10329070, max 376
+transfer lists:  78.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(76653, 11949, 3737)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(12753, 1699, 240)
+Build Patch/Sample Hash Table(s).....Done<0.0310 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/4096          624/196608   ( 0.3%) 
+brushes                 58/32768         696/393216   ( 0.2%) 
+brushsides             348/65536        2784/524288   ( 0.5%) 
+planes                 330/65536        6600/1310720  ( 0.5%) 
+vertexes              1178/65536       14136/786432   ( 1.8%) 
+nodes                  186/65536        5952/2097152  ( 0.3%) 
+texinfos                81/12288        5832/884736   ( 0.7%) 
+texdata                 16/2048          512/65536    ( 0.8%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples      172424/0          172424/0        ( 0.0%) 
+faces                  863/65536       48328/3670016  ( 1.3%) 
+hdr faces              863/65536       48328/3670016  ( 1.3%) 
+origfaces              176/65536        9856/3670016  ( 0.3%) 
+leaves                 200/65536        6400/2097152  ( 0.3%) 
+leaffaces             1793/65536        3586/131072   ( 2.7%) 
+leafbrushes            108/65536         216/131072   ( 0.2%) 
+areas                    5/1024           40/8192     ( 0.5%) 
+surfedges             4546/512000      18184/2048000  ( 0.9%) 
+edges                 2407/256000       9628/1024000  ( 0.9%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights         11/16384         968/1441792  ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             38/131072        380/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           564/131072       1128/262144   ( 0.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     5631784/0        ( 0.0%) 
+visdata               [variable]         684/16777216 ( 0.0%) 
+entdata               [variable]       14979/393216   ( 3.8%) 
+LDR ambient table      200/65536         800/262144   ( 0.3%) 
+HDR ambient table      200/65536         800/262144   ( 0.3%) 
+LDR leaf ambient       200/65536        5600/1835008  ( 0.3%) 
+HDR leaf ambient       780/65536       21840/1835008  ( 1.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1316     ( 0.1%) 
+pakfile               [variable]      190022/0        ( 0.0%) 
+physics               [variable]       22425/4194304  ( 0.5%) 
+physics terrain       [variable]        3274/1048576  ( 0.3%) 
+
+Level flags = 2
+
+Total triangle count: 2116
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+11 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.vmf
+Map revision 10
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_PATCHED, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (22425 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+.Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+..10
+Compacting texture/material tables...
+Reduced 132 texinfos to 81
+Reduced 16 texdatas to 16 (334 bytes to 334)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt
+  37 portalclusters
+  83 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 559
+Average clusters visible: 15
+Building PAS...
+Average clusters audible: 15
+visdatasize:684  compressed from 592
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+863 faces
+205365 square feet [29572664.00 square inches]
+12 Displacements
+32783 Square Feet [4720793.50 Square Inches]
+863 patches before subdivision
+73811 patches after subdivision
+11 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10329070, max 376
+transfer lists:  78.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(76653, 11949, 3737)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(12753, 1699, 240)
+Build Patch/Sample Hash Table(s).....Done<0.0304 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/4096          624/196608   ( 0.3%) 
+brushes                 58/32768         696/393216   ( 0.2%) 
+brushsides             348/65536        2784/524288   ( 0.5%) 
+planes                 330/65536        6600/1310720  ( 0.5%) 
+vertexes              1178/65536       14136/786432   ( 1.8%) 
+nodes                  186/65536        5952/2097152  ( 0.3%) 
+texinfos                81/12288        5832/884736   ( 0.7%) 
+texdata                 16/2048          512/65536    ( 0.8%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples      172424/0          172424/0        ( 0.0%) 
+faces                  863/65536       48328/3670016  ( 1.3%) 
+hdr faces              863/65536       48328/3670016  ( 1.3%) 
+origfaces              176/65536        9856/3670016  ( 0.3%) 
+leaves                 200/65536        6400/2097152  ( 0.3%) 
+leaffaces             1793/65536        3586/131072   ( 2.7%) 
+leafbrushes            108/65536         216/131072   ( 0.2%) 
+areas                    5/1024           40/8192     ( 0.5%) 
+surfedges             4546/512000      18184/2048000  ( 0.9%) 
+edges                 2407/256000       9628/1024000  ( 0.9%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights         11/16384         968/1441792  ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             38/131072        380/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           564/131072       1128/262144   ( 0.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     5631784/0        ( 0.0%) 
+visdata               [variable]         684/16777216 ( 0.0%) 
+entdata               [variable]       14980/393216   ( 3.8%) 
+LDR ambient table      200/65536         800/262144   ( 0.3%) 
+HDR ambient table      200/65536         800/262144   ( 0.3%) 
+LDR leaf ambient       200/65536        5600/1835008  ( 0.3%) 
+HDR leaf ambient       780/65536       21840/1835008  ( 1.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1316     ( 0.1%) 
+pakfile               [variable]      190022/0        ( 0.0%) 
+physics               [variable]       22425/4194304  ( 0.5%) 
+physics terrain       [variable]        3274/1048576  ( 0.3%) 
+
+Level flags = 2
+
+Total triangle count: 2116
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+11 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.vmf
+Map revision 11
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_PATCHED, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (21870 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9.Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+..10
+Compacting texture/material tables...
+Reduced 130 texinfos to 79
+Reduced 16 texdatas to 16 (334 bytes to 334)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt
+  37 portalclusters
+  83 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 559
+Average clusters visible: 15
+Building PAS...
+Average clusters audible: 15
+visdatasize:684  compressed from 592
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+857 faces
+203723 square feet [29336120.00 square inches]
+12 Displacements
+32783 Square Feet [4720793.50 Square Inches]
+857 patches before subdivision
+73805 patches after subdivision
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10329070, max 376
+transfer lists:  78.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(71731, 9484, 3737)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11843, 1234, 240)
+Build Patch/Sample Hash Table(s).....Done<0.0298 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  12/4096          576/196608   ( 0.3%) 
+brushes                 57/32768         684/393216   ( 0.2%) 
+brushsides             342/65536        2736/524288   ( 0.5%) 
+planes                 342/65536        6840/1310720  ( 0.5%) 
+vertexes              1170/65536       14040/786432   ( 1.8%) 
+nodes                  180/65536        5760/2097152  ( 0.3%) 
+texinfos                79/12288        5688/884736   ( 0.6%) 
+texdata                 16/2048          512/65536    ( 0.8%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples      172424/0          172424/0        ( 0.0%) 
+faces                  857/65536       47992/3670016  ( 1.3%) 
+hdr faces              857/65536       47992/3670016  ( 1.3%) 
+origfaces              170/65536        9520/3670016  ( 0.3%) 
+leaves                 193/65536        6176/2097152  ( 0.3%) 
+leaffaces             1787/65536        3574/131072   ( 2.7%) 
+leafbrushes            107/65536         214/131072   ( 0.2%) 
+areas                    5/1024           40/8192     ( 0.5%) 
+surfedges             4498/512000      17992/2048000  ( 0.9%) 
+edges                 2383/256000       9532/1024000  ( 0.9%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          9/16384         792/1441792  ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             38/131072        380/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           564/131072       1128/262144   ( 0.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     5631784/0        ( 0.0%) 
+visdata               [variable]         684/16777216 ( 0.0%) 
+entdata               [variable]       13764/393216   ( 3.5%) 
+LDR ambient table      193/65536         772/262144   ( 0.3%) 
+HDR ambient table      193/65536         772/262144   ( 0.3%) 
+LDR leaf ambient       193/65536        5404/1835008  ( 0.3%) 
+HDR leaf ambient       713/65536       19964/1835008  ( 1.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1316     ( 0.1%) 
+pakfile               [variable]      190022/0        ( 0.0%) 
+physics               [variable]       21870/4194304  ( 0.5%) 
+physics terrain       [variable]        3274/1048576  ( 0.3%) 
+
+Level flags = 2
+
+Total triangle count: 2104
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+11 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.vmf
+Map revision 12
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_PATCHED, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (21870 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9.Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+..10
+Compacting texture/material tables...
+Reduced 130 texinfos to 79
+Reduced 16 texdatas to 16 (334 bytes to 334)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt
+  37 portalclusters
+  83 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 559
+Average clusters visible: 15
+Building PAS...
+Average clusters audible: 15
+visdatasize:684  compressed from 592
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+857 faces
+203723 square feet [29336120.00 square inches]
+12 Displacements
+32783 Square Feet [4720793.50 Square Inches]
+857 patches before subdivision
+73805 patches after subdivision
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10329070, max 376
+transfer lists:  78.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(71731, 9484, 3737)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11843, 1234, 240)
+Build Patch/Sample Hash Table(s).....Done<0.0363 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  12/4096          576/196608   ( 0.3%) 
+brushes                 57/32768         684/393216   ( 0.2%) 
+brushsides             342/65536        2736/524288   ( 0.5%) 
+planes                 342/65536        6840/1310720  ( 0.5%) 
+vertexes              1170/65536       14040/786432   ( 1.8%) 
+nodes                  180/65536        5760/2097152  ( 0.3%) 
+texinfos                79/12288        5688/884736   ( 0.6%) 
+texdata                 16/2048          512/65536    ( 0.8%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples      172424/0          172424/0        ( 0.0%) 
+faces                  857/65536       47992/3670016  ( 1.3%) 
+hdr faces              857/65536       47992/3670016  ( 1.3%) 
+origfaces              170/65536        9520/3670016  ( 0.3%) 
+leaves                 193/65536        6176/2097152  ( 0.3%) 
+leaffaces             1787/65536        3574/131072   ( 2.7%) 
+leafbrushes            107/65536         214/131072   ( 0.2%) 
+areas                    5/1024           40/8192     ( 0.5%) 
+surfedges             4498/512000      17992/2048000  ( 0.9%) 
+edges                 2383/256000       9532/1024000  ( 0.9%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          9/16384         792/1441792  ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             38/131072        380/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           564/131072       1128/262144   ( 0.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     5631784/0        ( 0.0%) 
+visdata               [variable]         684/16777216 ( 0.0%) 
+entdata               [variable]       13764/393216   ( 3.5%) 
+LDR ambient table      193/65536         772/262144   ( 0.3%) 
+HDR ambient table      193/65536         772/262144   ( 0.3%) 
+LDR leaf ambient       193/65536        5404/1835008  ( 0.3%) 
+HDR leaf ambient       713/65536       19964/1835008  ( 1.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1316     ( 0.1%) 
+pakfile               [variable]      190022/0        ( 0.0%) 
+physics               [variable]       21870/4194304  ( 0.5%) 
+physics terrain       [variable]        3274/1048576  ( 0.3%) 
+
+Level flags = 2
+
+Total triangle count: 2104
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+11 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.vmf
+Map revision 13
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_PATCHED, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (23878 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9.Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+..10
+Compacting texture/material tables...
+Reduced 171 texinfos to 79
+Reduced 21 texdatas to 18 (551 bytes to 476)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt
+  37 portalclusters
+  83 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 559
+Average clusters visible: 15
+Building PAS...
+Average clusters audible: 15
+visdatasize:684  compressed from 592
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.vmf
+Map revision 13
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_PATCHED, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (23878 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9.Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+..10
+Compacting texture/material tables...
+Reduced 171 texinfos to 79
+Reduced 21 texdatas to 18 (551 bytes to 476)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt
+  37 portalclusters
+  83 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 559
+Average clusters visible: 15
+Building PAS...
+Average clusters audible: 15
+visdatasize:684  compressed from 592
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+857 faces
+203723 square feet [29336120.00 square inches]
+12 Displacements
+32783 Square Feet [4720793.50 Square Inches]
+857 patches before subdivision
+73805 patches after subdivision
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10329070, max 376
+transfer lists:  78.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(71348, 9350, 3615)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11794, 1224, 230)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2022, 202, 29)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(342, 34, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(58, 6, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(10, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0308 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/4096          624/196608   ( 0.3%) 
+brushes                 61/32768         732/393216   ( 0.2%) 
+brushsides             368/65536        2944/524288   ( 0.6%) 
+planes                 360/65536        7200/1310720  ( 0.5%) 
+vertexes              1170/65536       14040/786432   ( 1.8%) 
+nodes                  192/65536        6144/2097152  ( 0.3%) 
+texinfos                79/12288        5688/884736   ( 0.6%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples      172424/0          172424/0        ( 0.0%) 
+faces                  857/65536       47992/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              170/65536        9520/3670016  ( 0.3%) 
+leaves                 206/65536        6592/2097152  ( 0.3%) 
+leaffaces             1787/65536        3574/131072   ( 2.7%) 
+leafbrushes            112/65536         224/131072   ( 0.2%) 
+areas                    5/1024           40/8192     ( 0.5%) 
+surfedges             4498/512000      17992/2048000  ( 0.9%) 
+edges                 2383/256000       9532/1024000  ( 0.9%) 
+LDR worldlights          9/16384         792/1441792  ( 0.1%) 
+HDR worldlights          0/16384           0/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             38/131072        380/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           564/131072       1128/262144   ( 0.4%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     5631784/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         684/16777216 ( 0.0%) 
+entdata               [variable]       14309/393216   ( 3.6%) 
+LDR ambient table      206/65536         824/262144   ( 0.3%) 
+HDR ambient table      206/65536         824/262144   ( 0.3%) 
+LDR leaf ambient       882/65536       24696/1835008  ( 1.3%) 
+HDR leaf ambient       206/65536        5768/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1316     ( 0.1%) 
+pakfile               [variable]      364611/0        ( 0.0%) 
+physics               [variable]       23878/4194304  ( 0.6%) 
+physics terrain       [variable]        3274/1048576  ( 0.3%) 
+
+Level flags = 1
+
+Total triangle count: 2104
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+37 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+857 faces
+203723 square feet [29336120.00 square inches]
+12 Displacements
+32783 Square Feet [4720793.50 Square Inches]
+857 patches before subdivision
+73805 patches after subdivision
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10329070, max 376
+transfer lists:  78.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(71347, 9351, 3615)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11794, 1224, 230)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2022, 202, 29)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(342, 34, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(58, 6, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(10, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0370 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/4096          624/196608   ( 0.3%) 
+brushes                 61/32768         732/393216   ( 0.2%) 
+brushsides             368/65536        2944/524288   ( 0.6%) 
+planes                 360/65536        7200/1310720  ( 0.5%) 
+vertexes              1170/65536       14040/786432   ( 1.8%) 
+nodes                  192/65536        6144/2097152  ( 0.3%) 
+texinfos                79/12288        5688/884736   ( 0.6%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples      172424/0          172424/0        ( 0.0%) 
+faces                  857/65536       47992/3670016  ( 1.3%) 
+hdr faces              857/65536       47992/3670016  ( 1.3%) 
+origfaces              170/65536        9520/3670016  ( 0.3%) 
+leaves                 206/65536        6592/2097152  ( 0.3%) 
+leaffaces             1787/65536        3574/131072   ( 2.7%) 
+leafbrushes            112/65536         224/131072   ( 0.2%) 
+areas                    5/1024           40/8192     ( 0.5%) 
+surfedges             4498/512000      17992/2048000  ( 0.9%) 
+edges                 2383/256000       9532/1024000  ( 0.9%) 
+LDR worldlights          9/16384         792/1441792  ( 0.1%) 
+HDR worldlights          9/16384         792/1441792  ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             38/131072        380/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           564/131072       1128/262144   ( 0.4%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     5631784/0        ( 0.0%) 
+HDR lightdata         [variable]     5631784/0        ( 0.0%) 
+visdata               [variable]         684/16777216 ( 0.0%) 
+entdata               [variable]       14309/393216   ( 3.6%) 
+LDR ambient table      206/65536         824/262144   ( 0.3%) 
+HDR ambient table      206/65536         824/262144   ( 0.3%) 
+LDR leaf ambient       882/65536       24696/1835008  ( 1.3%) 
+HDR leaf ambient       882/65536       24696/1835008  ( 1.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1316     ( 0.1%) 
+pakfile               [variable]      467911/0        ( 0.0%) 
+physics               [variable]       23878/4194304  ( 0.6%) 
+physics terrain       [variable]        3274/1048576  ( 0.3%) 
+
+Level flags = 3
+
+Total triangle count: 2104
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+36 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.vmf
+Map revision 14
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_PATCHED, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (23878 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9.Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+..10
+Compacting texture/material tables...
+Reduced 187 texinfos to 80
+Reduced 24 texdatas to 20 (683 bytes to 565)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt
+  37 portalclusters
+  83 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 559
+Average clusters visible: 15
+Building PAS...
+Average clusters audible: 15
+visdatasize:684  compressed from 592
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+857 faces
+203723 square feet [29336120.00 square inches]
+12 Displacements
+32783 Square Feet [4720793.50 Square Inches]
+857 patches before subdivision
+73805 patches after subdivision
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10329070, max 376
+transfer lists:  78.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(71348, 9351, 3615)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11794, 1224, 230)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2022, 202, 29)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(342, 34, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(58, 6, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(10, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0296 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/4096          624/196608   ( 0.3%) 
+brushes                 61/32768         732/393216   ( 0.2%) 
+brushsides             368/65536        2944/524288   ( 0.6%) 
+planes                 360/65536        7200/1310720  ( 0.5%) 
+vertexes              1170/65536       14040/786432   ( 1.8%) 
+nodes                  192/65536        6144/2097152  ( 0.3%) 
+texinfos                80/12288        5760/884736   ( 0.7%) 
+texdata                 20/2048          640/65536    ( 1.0%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples      172424/0          172424/0        ( 0.0%) 
+faces                  857/65536       47992/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              170/65536        9520/3670016  ( 0.3%) 
+leaves                 206/65536        6592/2097152  ( 0.3%) 
+leaffaces             1787/65536        3574/131072   ( 2.7%) 
+leafbrushes            112/65536         224/131072   ( 0.2%) 
+areas                    5/1024           40/8192     ( 0.5%) 
+surfedges             4498/512000      17992/2048000  ( 0.9%) 
+edges                 2383/256000       9532/1024000  ( 0.9%) 
+LDR worldlights          9/16384         792/1441792  ( 0.1%) 
+HDR worldlights          0/16384           0/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             38/131072        380/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           564/131072       1128/262144   ( 0.4%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     5631784/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         684/16777216 ( 0.0%) 
+entdata               [variable]       14309/393216   ( 3.6%) 
+LDR ambient table      206/65536         824/262144   ( 0.3%) 
+HDR ambient table      206/65536         824/262144   ( 0.3%) 
+LDR leaf ambient       882/65536       24696/1835008  ( 1.3%) 
+HDR leaf ambient       206/65536        5768/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1316     ( 0.1%) 
+pakfile               [variable]      452208/0        ( 0.0%) 
+physics               [variable]       23878/4194304  ( 0.6%) 
+physics terrain       [variable]        3274/1048576  ( 0.3%) 
+
+Level flags = 1
+
+Total triangle count: 2104
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+36 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+857 faces
+203723 square feet [29336120.00 square inches]
+12 Displacements
+32783 Square Feet [4720793.50 Square Inches]
+857 patches before subdivision
+73805 patches after subdivision
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10329070, max 376
+transfer lists:  78.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(71347, 9350, 3615)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11794, 1224, 230)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2022, 202, 29)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(342, 34, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(58, 6, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(10, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0303 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/4096          624/196608   ( 0.3%) 
+brushes                 61/32768         732/393216   ( 0.2%) 
+brushsides             368/65536        2944/524288   ( 0.6%) 
+planes                 360/65536        7200/1310720  ( 0.5%) 
+vertexes              1170/65536       14040/786432   ( 1.8%) 
+nodes                  192/65536        6144/2097152  ( 0.3%) 
+texinfos                80/12288        5760/884736   ( 0.7%) 
+texdata                 20/2048          640/65536    ( 1.0%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples      172424/0          172424/0        ( 0.0%) 
+faces                  857/65536       47992/3670016  ( 1.3%) 
+hdr faces              857/65536       47992/3670016  ( 1.3%) 
+origfaces              170/65536        9520/3670016  ( 0.3%) 
+leaves                 206/65536        6592/2097152  ( 0.3%) 
+leaffaces             1787/65536        3574/131072   ( 2.7%) 
+leafbrushes            112/65536         224/131072   ( 0.2%) 
+areas                    5/1024           40/8192     ( 0.5%) 
+surfedges             4498/512000      17992/2048000  ( 0.9%) 
+edges                 2383/256000       9532/1024000  ( 0.9%) 
+LDR worldlights          9/16384         792/1441792  ( 0.1%) 
+HDR worldlights          9/16384         792/1441792  ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             38/131072        380/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           564/131072       1128/262144   ( 0.4%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     5631784/0        ( 0.0%) 
+HDR lightdata         [variable]     5631784/0        ( 0.0%) 
+visdata               [variable]         684/16777216 ( 0.0%) 
+entdata               [variable]       14309/393216   ( 3.6%) 
+LDR ambient table      206/65536         824/262144   ( 0.3%) 
+HDR ambient table      206/65536         824/262144   ( 0.3%) 
+LDR leaf ambient       882/65536       24696/1835008  ( 1.3%) 
+HDR leaf ambient       882/65536       24696/1835008  ( 1.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1316     ( 0.1%) 
+pakfile               [variable]      555508/0        ( 0.0%) 
+physics               [variable]       23878/4194304  ( 0.6%) 
+physics terrain       [variable]        3274/1048576  ( 0.3%) 
+
+Level flags = 3
+
+Total triangle count: 2104
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+35 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.vmf
+Map revision 16
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_PATCHED, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (23878 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9.Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+..10
+Compacting texture/material tables...
+Reduced 187 texinfos to 80
+Reduced 24 texdatas to 20 (683 bytes to 565)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt
+  37 portalclusters
+  83 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 559
+Average clusters visible: 15
+Building PAS...
+Average clusters audible: 15
+visdatasize:684  compressed from 592
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+857 faces
+203723 square feet [29336120.00 square inches]
+12 Displacements
+32783 Square Feet [4720793.50 Square Inches]
+857 patches before subdivision
+73805 patches after subdivision
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10329070, max 376
+transfer lists:  78.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(71347, 9350, 3615)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11794, 1224, 230)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2022, 202, 29)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(342, 34, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(58, 6, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(10, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0305 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/4096          624/196608   ( 0.3%) 
+brushes                 61/32768         732/393216   ( 0.2%) 
+brushsides             368/65536        2944/524288   ( 0.6%) 
+planes                 360/65536        7200/1310720  ( 0.5%) 
+vertexes              1170/65536       14040/786432   ( 1.8%) 
+nodes                  192/65536        6144/2097152  ( 0.3%) 
+texinfos                80/12288        5760/884736   ( 0.7%) 
+texdata                 20/2048          640/65536    ( 1.0%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples      172424/0          172424/0        ( 0.0%) 
+faces                  857/65536       47992/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              170/65536        9520/3670016  ( 0.3%) 
+leaves                 206/65536        6592/2097152  ( 0.3%) 
+leaffaces             1787/65536        3574/131072   ( 2.7%) 
+leafbrushes            112/65536         224/131072   ( 0.2%) 
+areas                    5/1024           40/8192     ( 0.5%) 
+surfedges             4498/512000      17992/2048000  ( 0.9%) 
+edges                 2383/256000       9532/1024000  ( 0.9%) 
+LDR worldlights          9/16384         792/1441792  ( 0.1%) 
+HDR worldlights          0/16384           0/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             38/131072        380/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           564/131072       1128/262144   ( 0.4%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     5631784/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         684/16777216 ( 0.0%) 
+entdata               [variable]       14306/393216   ( 3.6%) 
+LDR ambient table      206/65536         824/262144   ( 0.3%) 
+HDR ambient table      206/65536         824/262144   ( 0.3%) 
+LDR leaf ambient       882/65536       24696/1835008  ( 1.3%) 
+HDR leaf ambient       206/65536        5768/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1316     ( 0.1%) 
+pakfile               [variable]      452208/0        ( 0.0%) 
+physics               [variable]       23878/4194304  ( 0.6%) 
+physics terrain       [variable]        3274/1048576  ( 0.3%) 
+
+Level flags = 1
+
+Total triangle count: 2104
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+34 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+857 faces
+203723 square feet [29336120.00 square inches]
+12 Displacements
+32783 Square Feet [4720793.50 Square Inches]
+857 patches before subdivision
+73805 patches after subdivision
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10329070, max 376
+transfer lists:  78.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(71347, 9350, 3615)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11794, 1224, 230)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2022, 202, 29)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(342, 34, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(58, 6, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(10, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0295 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/4096          624/196608   ( 0.3%) 
+brushes                 61/32768         732/393216   ( 0.2%) 
+brushsides             368/65536        2944/524288   ( 0.6%) 
+planes                 360/65536        7200/1310720  ( 0.5%) 
+vertexes              1170/65536       14040/786432   ( 1.8%) 
+nodes                  192/65536        6144/2097152  ( 0.3%) 
+texinfos                80/12288        5760/884736   ( 0.7%) 
+texdata                 20/2048          640/65536    ( 1.0%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples      172424/0          172424/0        ( 0.0%) 
+faces                  857/65536       47992/3670016  ( 1.3%) 
+hdr faces              857/65536       47992/3670016  ( 1.3%) 
+origfaces              170/65536        9520/3670016  ( 0.3%) 
+leaves                 206/65536        6592/2097152  ( 0.3%) 
+leaffaces             1787/65536        3574/131072   ( 2.7%) 
+leafbrushes            112/65536         224/131072   ( 0.2%) 
+areas                    5/1024           40/8192     ( 0.5%) 
+surfedges             4498/512000      17992/2048000  ( 0.9%) 
+edges                 2383/256000       9532/1024000  ( 0.9%) 
+LDR worldlights          9/16384         792/1441792  ( 0.1%) 
+HDR worldlights          9/16384         792/1441792  ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             38/131072        380/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           564/131072       1128/262144   ( 0.4%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     5631784/0        ( 0.0%) 
+HDR lightdata         [variable]     5631784/0        ( 0.0%) 
+visdata               [variable]         684/16777216 ( 0.0%) 
+entdata               [variable]       14306/393216   ( 3.6%) 
+LDR ambient table      206/65536         824/262144   ( 0.3%) 
+HDR ambient table      206/65536         824/262144   ( 0.3%) 
+LDR leaf ambient       882/65536       24696/1835008  ( 1.3%) 
+HDR leaf ambient       882/65536       24696/1835008  ( 1.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1316     ( 0.1%) 
+pakfile               [variable]      555508/0        ( 0.0%) 
+physics               [variable]       23878/4194304  ( 0.6%) 
+physics terrain       [variable]        3274/1048576  ( 0.3%) 
+
+Level flags = 3
+
+Total triangle count: 2104
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+33 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.vmf
+Map revision 18
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_PATCHED, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (23878 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9.Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+..10
+Compacting texture/material tables...
+Reduced 187 texinfos to 80
+Reduced 24 texdatas to 20 (683 bytes to 565)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt
+  37 portalclusters
+  83 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 559
+Average clusters visible: 15
+Building PAS...
+Average clusters audible: 15
+visdatasize:684  compressed from 592
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+857 faces
+203723 square feet [29336120.00 square inches]
+12 Displacements
+32783 Square Feet [4720793.50 Square Inches]
+857 patches before subdivision
+73805 patches after subdivision
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10329070, max 376
+transfer lists:  78.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(71731, 9484, 3737)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11843, 1234, 240)
+Build Patch/Sample Hash Table(s).....Done<0.0334 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/4096          624/196608   ( 0.3%) 
+brushes                 61/32768         732/393216   ( 0.2%) 
+brushsides             368/65536        2944/524288   ( 0.6%) 
+planes                 360/65536        7200/1310720  ( 0.5%) 
+vertexes              1170/65536       14040/786432   ( 1.8%) 
+nodes                  192/65536        6144/2097152  ( 0.3%) 
+texinfos                80/12288        5760/884736   ( 0.7%) 
+texdata                 20/2048          640/65536    ( 1.0%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples      172424/0          172424/0        ( 0.0%) 
+faces                  857/65536       47992/3670016  ( 1.3%) 
+hdr faces              857/65536       47992/3670016  ( 1.3%) 
+origfaces              170/65536        9520/3670016  ( 0.3%) 
+leaves                 206/65536        6592/2097152  ( 0.3%) 
+leaffaces             1787/65536        3574/131072   ( 2.7%) 
+leafbrushes            112/65536         224/131072   ( 0.2%) 
+areas                    5/1024           40/8192     ( 0.5%) 
+surfedges             4498/512000      17992/2048000  ( 0.9%) 
+edges                 2383/256000       9532/1024000  ( 0.9%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          9/16384         792/1441792  ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             38/131072        380/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           564/131072       1128/262144   ( 0.4%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     5631784/0        ( 0.0%) 
+visdata               [variable]         684/16777216 ( 0.0%) 
+entdata               [variable]       15856/393216   ( 4.0%) 
+LDR ambient table      206/65536         824/262144   ( 0.3%) 
+HDR ambient table      206/65536         824/262144   ( 0.3%) 
+LDR leaf ambient       206/65536        5768/1835008  ( 0.3%) 
+HDR leaf ambient       883/65536       24724/1835008  ( 1.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1316     ( 0.1%) 
+pakfile               [variable]      452280/0        ( 0.0%) 
+physics               [variable]       23878/4194304  ( 0.6%) 
+physics terrain       [variable]        3274/1048576  ( 0.3%) 
+
+Level flags = 2
+
+Total triangle count: 2104
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+11 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.vmf
+Map revision 19
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_PATCHED, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (23878 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9.Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+..10
+Compacting texture/material tables...
+Reduced 187 texinfos to 80
+Reduced 24 texdatas to 20 (683 bytes to 565)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt
+  37 portalclusters
+  83 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 559
+Average clusters visible: 15
+Building PAS...
+Average clusters audible: 15
+visdatasize:684  compressed from 592
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+857 faces
+203723 square feet [29336120.00 square inches]
+12 Displacements
+32783 Square Feet [4720793.50 Square Inches]
+857 patches before subdivision
+73805 patches after subdivision
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10329070, max 376
+transfer lists:  78.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(71731, 9484, 3737)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11843, 1234, 240)
+Build Patch/Sample Hash Table(s).....Done<0.0376 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/4096          624/196608   ( 0.3%) 
+brushes                 61/32768         732/393216   ( 0.2%) 
+brushsides             368/65536        2944/524288   ( 0.6%) 
+planes                 360/65536        7200/1310720  ( 0.5%) 
+vertexes              1170/65536       14040/786432   ( 1.8%) 
+nodes                  192/65536        6144/2097152  ( 0.3%) 
+texinfos                80/12288        5760/884736   ( 0.7%) 
+texdata                 20/2048          640/65536    ( 1.0%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples      172424/0          172424/0        ( 0.0%) 
+faces                  857/65536       47992/3670016  ( 1.3%) 
+hdr faces              857/65536       47992/3670016  ( 1.3%) 
+origfaces              170/65536        9520/3670016  ( 0.3%) 
+leaves                 206/65536        6592/2097152  ( 0.3%) 
+leaffaces             1787/65536        3574/131072   ( 2.7%) 
+leafbrushes            112/65536         224/131072   ( 0.2%) 
+areas                    5/1024           40/8192     ( 0.5%) 
+surfedges             4498/512000      17992/2048000  ( 0.9%) 
+edges                 2383/256000       9532/1024000  ( 0.9%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          9/16384         792/1441792  ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             38/131072        380/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           564/131072       1128/262144   ( 0.4%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     5631784/0        ( 0.0%) 
+visdata               [variable]         684/16777216 ( 0.0%) 
+entdata               [variable]       15852/393216   ( 4.0%) 
+LDR ambient table      206/65536         824/262144   ( 0.3%) 
+HDR ambient table      206/65536         824/262144   ( 0.3%) 
+LDR leaf ambient       206/65536        5768/1835008  ( 0.3%) 
+HDR leaf ambient       883/65536       24724/1835008  ( 1.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1316     ( 0.1%) 
+pakfile               [variable]      452280/0        ( 0.0%) 
+physics               [variable]       23878/4194304  ( 0.6%) 
+physics terrain       [variable]        3274/1048576  ( 0.3%) 
+
+Level flags = 2
+
+Total triangle count: 2104
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+11 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.vmf
+Map revision 20
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_PATCHED, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (23878 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9.Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+..10
+Compacting texture/material tables...
+Reduced 187 texinfos to 80
+Reduced 24 texdatas to 20 (683 bytes to 565)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt
+  37 portalclusters
+  83 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 559
+Average clusters visible: 15
+Building PAS...
+Average clusters audible: 15
+visdatasize:684  compressed from 592
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+857 faces
+203723 square feet [29336120.00 square inches]
+12 Displacements
+32783 Square Feet [4720793.50 Square Inches]
+857 patches before subdivision
+73805 patches after subdivision
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10329070, max 376
+transfer lists:  78.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(71731, 9484, 3737)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11843, 1234, 240)
+Build Patch/Sample Hash Table(s).....Done<0.0307 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/4096          624/196608   ( 0.3%) 
+brushes                 61/32768         732/393216   ( 0.2%) 
+brushsides             368/65536        2944/524288   ( 0.6%) 
+planes                 360/65536        7200/1310720  ( 0.5%) 
+vertexes              1170/65536       14040/786432   ( 1.8%) 
+nodes                  192/65536        6144/2097152  ( 0.3%) 
+texinfos                80/12288        5760/884736   ( 0.7%) 
+texdata                 20/2048          640/65536    ( 1.0%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples      172424/0          172424/0        ( 0.0%) 
+faces                  857/65536       47992/3670016  ( 1.3%) 
+hdr faces              857/65536       47992/3670016  ( 1.3%) 
+origfaces              170/65536        9520/3670016  ( 0.3%) 
+leaves                 206/65536        6592/2097152  ( 0.3%) 
+leaffaces             1787/65536        3574/131072   ( 2.7%) 
+leafbrushes            112/65536         224/131072   ( 0.2%) 
+areas                    5/1024           40/8192     ( 0.5%) 
+surfedges             4498/512000      17992/2048000  ( 0.9%) 
+edges                 2383/256000       9532/1024000  ( 0.9%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          9/16384         792/1441792  ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             38/131072        380/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           564/131072       1128/262144   ( 0.4%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     5631784/0        ( 0.0%) 
+visdata               [variable]         684/16777216 ( 0.0%) 
+entdata               [variable]       15829/393216   ( 4.0%) 
+LDR ambient table      206/65536         824/262144   ( 0.3%) 
+HDR ambient table      206/65536         824/262144   ( 0.3%) 
+LDR leaf ambient       206/65536        5768/1835008  ( 0.3%) 
+HDR leaf ambient       883/65536       24724/1835008  ( 1.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1316     ( 0.1%) 
+pakfile               [variable]      452280/0        ( 0.0%) 
+physics               [variable]       23878/4194304  ( 0.6%) 
+physics terrain       [variable]        3274/1048576  ( 0.3%) 
+
+Level flags = 2
+
+Total triangle count: 2104
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+11 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.vmf
+Map revision 21
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_PATCHED, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (23878 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9.Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+..10
+Compacting texture/material tables...
+Reduced 187 texinfos to 80
+Reduced 24 texdatas to 20 (683 bytes to 565)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt
+  37 portalclusters
+  83 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 559
+Average clusters visible: 15
+Building PAS...
+Average clusters audible: 15
+visdatasize:684  compressed from 592
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+857 faces
+203723 square feet [29336120.00 square inches]
+12 Displacements
+32783 Square Feet [4720793.50 Square Inches]
+857 patches before subdivision
+73805 patches after subdivision
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10329070, max 376
+transfer lists:  78.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(71731, 9484, 3737)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11843, 1234, 240)
+Build Patch/Sample Hash Table(s).....Done<0.0299 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/4096          624/196608   ( 0.3%) 
+brushes                 61/32768         732/393216   ( 0.2%) 
+brushsides             368/65536        2944/524288   ( 0.6%) 
+planes                 360/65536        7200/1310720  ( 0.5%) 
+vertexes              1170/65536       14040/786432   ( 1.8%) 
+nodes                  192/65536        6144/2097152  ( 0.3%) 
+texinfos                80/12288        5760/884736   ( 0.7%) 
+texdata                 20/2048          640/65536    ( 1.0%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples      172424/0          172424/0        ( 0.0%) 
+faces                  857/65536       47992/3670016  ( 1.3%) 
+hdr faces              857/65536       47992/3670016  ( 1.3%) 
+origfaces              170/65536        9520/3670016  ( 0.3%) 
+leaves                 206/65536        6592/2097152  ( 0.3%) 
+leaffaces             1787/65536        3574/131072   ( 2.7%) 
+leafbrushes            112/65536         224/131072   ( 0.2%) 
+areas                    5/1024           40/8192     ( 0.5%) 
+surfedges             4498/512000      17992/2048000  ( 0.9%) 
+edges                 2383/256000       9532/1024000  ( 0.9%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          9/16384         792/1441792  ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             38/131072        380/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           564/131072       1128/262144   ( 0.4%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     5631784/0        ( 0.0%) 
+visdata               [variable]         684/16777216 ( 0.0%) 
+entdata               [variable]       16681/393216   ( 4.2%) 
+LDR ambient table      206/65536         824/262144   ( 0.3%) 
+HDR ambient table      206/65536         824/262144   ( 0.3%) 
+LDR leaf ambient       206/65536        5768/1835008  ( 0.3%) 
+HDR leaf ambient       883/65536       24724/1835008  ( 1.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1316     ( 0.1%) 
+pakfile               [variable]      452280/0        ( 0.0%) 
+physics               [variable]       23878/4194304  ( 0.6%) 
+physics terrain       [variable]        3274/1048576  ( 0.3%) 
+
+Level flags = 2
+
+Total triangle count: 2104
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+11 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.vmf
+Map revision 22
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_PATCHED, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (23878 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9.Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+..10
+Compacting texture/material tables...
+Reduced 187 texinfos to 80
+Reduced 24 texdatas to 20 (683 bytes to 565)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt
+  37 portalclusters
+  83 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 559
+Average clusters visible: 15
+Building PAS...
+Average clusters audible: 15
+visdatasize:684  compressed from 592
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\maps\nw2.vmf
+Map revision 22
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_PATCHED, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (23878 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9.Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+..10
+Compacting texture/material tables...
+Reduced 187 texinfos to 80
+Reduced 24 texdatas to 20 (683 bytes to 565)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt
+  37 portalclusters
+  83 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 559
+Average clusters visible: 15
+Building PAS...
+Average clusters audible: 15
+visdatasize:684  compressed from 592
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\maps\nw2.vmf
+Map revision 24
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_PATCHED, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (23878 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9.Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+..10
+Compacting texture/material tables...
+Reduced 187 texinfos to 80
+Reduced 24 texdatas to 20 (683 bytes to 565)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt
+  37 portalclusters
+  83 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 559
+Average clusters visible: 15
+Building PAS...
+Average clusters audible: 15
+visdatasize:684  compressed from 592
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.vmf
+Map revision 24
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_PATCHED, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 10 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (23878 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9.Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+Material NATURE/BLENDDIRTMUD01 uses unknown detail object type canal_reeds!
+..10
+Compacting texture/material tables...
+Reduced 187 texinfos to 80
+Reduced 24 texdatas to 20 (683 bytes to 565)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.prt
+  37 portalclusters
+  83 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 559
+Average clusters visible: 15
+Building PAS...
+Average clusters audible: 15
+visdatasize:684  compressed from 592
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+857 faces
+203723 square feet [29336120.00 square inches]
+12 Displacements
+32783 Square Feet [4720793.50 Square Inches]
+857 patches before subdivision
+73805 patches after subdivision
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10329070, max 376
+transfer lists:  78.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(71347, 9350, 3615)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11794, 1224, 230)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2022, 202, 29)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(342, 34, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(58, 6, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(10, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0306 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/4096          624/196608   ( 0.3%) 
+brushes                 61/32768         732/393216   ( 0.2%) 
+brushsides             368/65536        2944/524288   ( 0.6%) 
+planes                 360/65536        7200/1310720  ( 0.5%) 
+vertexes              1170/65536       14040/786432   ( 1.8%) 
+nodes                  192/65536        6144/2097152  ( 0.3%) 
+texinfos                80/12288        5760/884736   ( 0.7%) 
+texdata                 20/2048          640/65536    ( 1.0%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples      172424/0          172424/0        ( 0.0%) 
+faces                  857/65536       47992/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              170/65536        9520/3670016  ( 0.3%) 
+leaves                 206/65536        6592/2097152  ( 0.3%) 
+leaffaces             1787/65536        3574/131072   ( 2.7%) 
+leafbrushes            112/65536         224/131072   ( 0.2%) 
+areas                    5/1024           40/8192     ( 0.5%) 
+surfedges             4498/512000      17992/2048000  ( 0.9%) 
+edges                 2383/256000       9532/1024000  ( 0.9%) 
+LDR worldlights          9/16384         792/1441792  ( 0.1%) 
+HDR worldlights          0/16384           0/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             38/131072        380/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           564/131072       1128/262144   ( 0.4%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     5631784/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         684/16777216 ( 0.0%) 
+entdata               [variable]       16518/393216   ( 4.2%) 
+LDR ambient table      206/65536         824/262144   ( 0.3%) 
+HDR ambient table      206/65536         824/262144   ( 0.3%) 
+LDR leaf ambient       882/65536       24696/1835008  ( 1.3%) 
+HDR leaf ambient       206/65536        5768/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1316     ( 0.1%) 
+pakfile               [variable]      452208/0        ( 0.0%) 
+physics               [variable]       23878/4194304  ( 0.6%) 
+physics terrain       [variable]        3274/1048576  ( 0.3%) 
+
+Level flags = 1
+
+Total triangle count: 2104
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+34 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+857 faces
+203723 square feet [29336120.00 square inches]
+12 Displacements
+32783 Square Feet [4720793.50 Square Inches]
+857 patches before subdivision
+73805 patches after subdivision
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10329070, max 376
+transfer lists:  78.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(71347, 9350, 3615)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11794, 1224, 230)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2022, 202, 29)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(342, 34, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(58, 6, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(10, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0397 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/4096          624/196608   ( 0.3%) 
+brushes                 61/32768         732/393216   ( 0.2%) 
+brushsides             368/65536        2944/524288   ( 0.6%) 
+planes                 360/65536        7200/1310720  ( 0.5%) 
+vertexes              1170/65536       14040/786432   ( 1.8%) 
+nodes                  192/65536        6144/2097152  ( 0.3%) 
+texinfos                80/12288        5760/884736   ( 0.7%) 
+texdata                 20/2048          640/65536    ( 1.0%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples      172424/0          172424/0        ( 0.0%) 
+faces                  857/65536       47992/3670016  ( 1.3%) 
+hdr faces              857/65536       47992/3670016  ( 1.3%) 
+origfaces              170/65536        9520/3670016  ( 0.3%) 
+leaves                 206/65536        6592/2097152  ( 0.3%) 
+leaffaces             1787/65536        3574/131072   ( 2.7%) 
+leafbrushes            112/65536         224/131072   ( 0.2%) 
+areas                    5/1024           40/8192     ( 0.5%) 
+surfedges             4498/512000      17992/2048000  ( 0.9%) 
+edges                 2383/256000       9532/1024000  ( 0.9%) 
+LDR worldlights          9/16384         792/1441792  ( 0.1%) 
+HDR worldlights          9/16384         792/1441792  ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             38/131072        380/1310720  ( 0.0%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices           564/131072       1128/262144   ( 0.4%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     5631784/0        ( 0.0%) 
+HDR lightdata         [variable]     5631784/0        ( 0.0%) 
+visdata               [variable]         684/16777216 ( 0.0%) 
+entdata               [variable]       16518/393216   ( 4.2%) 
+LDR ambient table      206/65536         824/262144   ( 0.3%) 
+HDR ambient table      206/65536         824/262144   ( 0.3%) 
+LDR leaf ambient       882/65536       24696/1835008  ( 1.3%) 
+HDR leaf ambient       882/65536       24696/1835008  ( 1.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1316     ( 0.1%) 
+pakfile               [variable]      555508/0        ( 0.0%) 
+physics               [variable]       23878/4194304  ( 0.6%) 
+physics terrain       [variable]        3274/1048576  ( 0.3%) 
+
+Level flags = 3
+
+Total triangle count: 2104
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nw2.bsp
+35 seconds elapsed
