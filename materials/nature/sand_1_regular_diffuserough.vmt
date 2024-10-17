@@ -2,5 +2,4 @@
 {
 	"$basetexture" "nature/sand_1_regular_diffuserough"
 	"$bumpmap" "nature/sand_1_regular_height"
-	"$normalmap" "nature/sand_1_regular_normal"
 }
