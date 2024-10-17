@@ -1,0 +1,21 @@
+14:45:19.240 INFO  Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\maps\sanddemo122.bsp
+14:45:19.343 INFO  Using 'DStaticPropV6' for sprp version 6
+14:45:19.833 WARN  Lump LUMP_CUBEMAPS is empty
+14:45:19.842 WARN  Lump LUMP_CLIPPORTALVERTS is empty
+14:45:19.849 WARN  Lump LUMP_OVERLAY_SYSTEM_LEVELS is empty
+14:45:19.859 INFO  BSP version: 20
+14:45:19.860 INFO  Game: Black Mesa
+14:45:19.905 INFO  No areaportals to reallocate...
+14:45:19.913 INFO  No occluders to reallocate...
+14:45:20.035 INFO  155 (63.0%) exact brushside->origface matches
+14:45:20.038 INFO  0/6 (nondisp/disp) original faces left after exact brushside->origface matching
+14:45:20.050 INFO  0 (0.0%) partial brushside->origface matches
+14:45:20.051 INFO  Writing brushes and planes
+14:45:20.135 INFO  Writing displacements
+14:45:20.157 INFO  Writing entities
+14:45:20.170 INFO  Writing func_details
+14:45:20.184 INFO  Writing info_overlays
+14:45:20.185 INFO  Writing prop_statics
+14:45:20.188 INFO  Writing env_cubemaps
+14:45:20.188 INFO  Writing func_ladders
+14:45:20.190 INFO  Finished decompiling C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\maps\sanddemo122.bsp.
