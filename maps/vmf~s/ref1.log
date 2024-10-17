@@ -1,0 +1,2531 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.vmf
+Map revision 6
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "metal/black_wall_metal_001d" not found.
+Material not found!: METAL/BLACK_WALL_METAL_001D
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_BASE, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+Patching WVT material: maps/ref1/warzone/sand00_blend_wvt_patch
+Patching WVT material: maps/ref1/nature/blendsandgrass008a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_door (2928.00 -461.00 -201.00) leaked!
+--- MAP LEAKED ---
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.vmf
+Map revision 7
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "metal/black_wall_metal_001d" not found.
+Material not found!: METAL/BLACK_WALL_METAL_001D
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_BASE, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+Patching WVT material: maps/ref1/warzone/sand00_blend_wvt_patch
+Patching WVT material: maps/ref1/nature/blendsandgrass008a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 1162 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (868285 bytes)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2234.00, -349.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5252.00, -2314.00, -221.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5236.00, -2298.00, -221.03)
+Static prop models/props_parable/museum/pillar_156_topb.mdl outside the map (5324.00, -2314.00, -301.00)
+Static prop models/props_parable/museum/pillar_156_topb.mdl outside the map (5236.00, -2314.00, -301.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5236.00, -2314.00, -348.98)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5208.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2298.00, -349.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5324.00, -2314.00, -348.98)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5264.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5296.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2266.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2202.00, -349.00)
+Static prop models/props_parable/museum/wall_32bot.mdl outside the map (4336.00, -1142.00, -253.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5340.00, -2314.00, -221.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5324.00, -2298.00, -221.03)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4816.00, -1750.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4816.00, -1622.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4944.00, -1622.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4944.00, -1750.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4512.00, -1238.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4512.00, -1366.00, -253.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5204.00, -2146.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2146.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2114.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2082.00, -325.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2050.00, -301.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2018.00, -277.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -1986.00, -253.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5204.00, -1986.00, -253.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2050.00, -301.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2018.00, -277.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2114.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2082.00, -325.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5204.00, -2174.00, -349.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5324.00, -2174.00, -348.98)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+.10
+Compacting texture/material tables...
+Reduced 3084 texinfos to 2088
+Reduced 122 texdatas to 108 (2994 bytes to 2646)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+8 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.prt
+1358 portalclusters
+4292 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 52653 visible clusters (0.00%)
+Total clusters visible: 980935
+Average clusters visible: 722
+Building PAS...
+Average clusters audible: 830
+visdatasize:420031  compressed from 478016
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+13257 faces
+17 degenerate faces
+1074417 square feet [154716160.00 square inches]
+7 Displacements
+250 Square Feet [36056.38 Square Inches]
+13240 patches before subdivision
+231134 patches after subdivision
+light has _fifty_percent_distance of 326.000000 but _zero_percent_distance of 51.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 326.000000 but _zero_percent_distance of 51.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+397 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 23722873, max 1266
+transfer lists: 181.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(319359, 354922, 406025)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(188739, 210247, 241696)
+Build Patch/Sample Hash Table(s).....Done<0.0832 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 48 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  55/4096         2640/196608   ( 1.3%) 
+brushes               2354/32768       28248/393216   ( 7.2%) 
+brushsides           23997/65536      191976/524288   (36.6%) 
+planes               25064/65536      501280/1310720  (38.2%) 
+vertexes             18334/65536      220008/786432   (28.0%) 
+nodes                 3052/65536       97664/2097152  ( 4.7%) 
+texinfos              2088/12288      150336/884736   (17.0%) 
+texdata                108/2048         3456/65536    ( 5.3%) 
+dispinfos                7/0            1232/0        ( 0.0%) 
+disp_verts            2023/0           40460/0        ( 0.0%) 
+disp_tris             3584/0            7168/0        ( 0.0%) 
+disp_lmsamples        7741/0            7741/0        ( 0.0%) 
+faces                13257/65536      742392/3670016  (20.2%) 
+hdr faces            13257/65536      742392/3670016  (20.2%) 
+origfaces             9850/65536      551600/3670016  (15.0%) 
+leaves                3108/65536       99456/2097152  ( 4.7%) 
+leaffaces            15509/65536       31018/131072   (23.7%) 
+leafbrushes           3363/65536        6726/131072   ( 5.1%) 
+areas                    6/1024           48/8192     ( 0.6%) 
+surfedges           105010/512000     420040/2048000  (20.5%) 
+edges                58038/256000     232152/1024000  (22.7%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        397/16384       34936/1441792  ( 2.4%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1632/131072      16320/1310720  ( 1.2%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         29022/131072      58044/262144   (22.1%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                28/1024         9856/360448   ( 2.7%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]    13711936/0        ( 0.0%) 
+visdata               [variable]      420031/16777216 ( 2.5%) 
+entdata               [variable]      141955/393216   (36.1%) 
+LDR ambient table     3108/65536       12432/262144   ( 4.7%) 
+HDR ambient table     3108/65536       12432/262144   ( 4.7%) 
+LDR leaf ambient      3108/65536       87024/1835008  ( 4.7%) 
+HDR leaf ambient     10735/65536      300580/1835008  (16.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/80390    ( 0.0%) 
+pakfile               [variable]     5217785/0        ( 0.0%) 
+physics               [variable]      868285/4194304  (20.7%) 
+physics terrain       [variable]        4782/1048576  ( 0.5%) 
+
+Level flags = 2
+
+Total triangle count: 38672
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+1 minute, 44 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.vmf
+Map revision 8
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "metal/black_wall_metal_001d" not found.
+Material not found!: METAL/BLACK_WALL_METAL_001D
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_BASE, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+Patching WVT material: maps/ref1/warzone/sand00_blend_wvt_patch
+Patching WVT material: maps/ref1/nature/blendsandgrass008a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1162 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (868285 bytes)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2234.00, -349.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5252.00, -2314.00, -221.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5236.00, -2298.00, -221.03)
+Static prop models/props_parable/museum/pillar_156_topb.mdl outside the map (5324.00, -2314.00, -301.00)
+Static prop models/props_parable/museum/pillar_156_topb.mdl outside the map (5236.00, -2314.00, -301.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5236.00, -2314.00, -348.98)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5208.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2298.00, -349.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5324.00, -2314.00, -348.98)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5264.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5296.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2266.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2202.00, -349.00)
+Static prop models/props_parable/museum/wall_32bot.mdl outside the map (4336.00, -1142.00, -253.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5340.00, -2314.00, -221.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5324.00, -2298.00, -221.03)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4816.00, -1750.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4816.00, -1622.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4944.00, -1622.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4944.00, -1750.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4512.00, -1238.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4512.00, -1366.00, -253.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5204.00, -2146.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2146.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2114.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2082.00, -325.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2050.00, -301.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2018.00, -277.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -1986.00, -253.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5204.00, -1986.00, -253.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2050.00, -301.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2018.00, -277.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2114.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2082.00, -325.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5204.00, -2174.00, -349.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5324.00, -2174.00, -348.98)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+.10
+Compacting texture/material tables...
+Reduced 3084 texinfos to 2088
+Reduced 122 texdatas to 108 (2994 bytes to 2646)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+8 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.prt
+1358 portalclusters
+4297 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 52882 visible clusters (0.00%)
+Total clusters visible: 980924
+Average clusters visible: 722
+Building PAS...
+Average clusters audible: 830
+visdatasize:419945  compressed from 478016
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+13257 faces
+17 degenerate faces
+1074417 square feet [154716128.00 square inches]
+7 Displacements
+250 Square Feet [36056.38 Square Inches]
+13240 patches before subdivision
+231114 patches after subdivision
+light has _fifty_percent_distance of 326.000000 but _zero_percent_distance of 51.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 326.000000 but _zero_percent_distance of 51.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+397 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 23721686, max 1266
+transfer lists: 181.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(319358, 354922, 406025)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(188739, 210247, 241696)
+Build Patch/Sample Hash Table(s).....Done<0.0823 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 48 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  55/4096         2640/196608   ( 1.3%) 
+brushes               2354/32768       28248/393216   ( 7.2%) 
+brushsides           23997/65536      191976/524288   (36.6%) 
+planes               25064/65536      501280/1310720  (38.2%) 
+vertexes             18336/65536      220032/786432   (28.0%) 
+nodes                 3052/65536       97664/2097152  ( 4.7%) 
+texinfos              2088/12288      150336/884736   (17.0%) 
+texdata                108/2048         3456/65536    ( 5.3%) 
+dispinfos                7/0            1232/0        ( 0.0%) 
+disp_verts            2023/0           40460/0        ( 0.0%) 
+disp_tris             3584/0            7168/0        ( 0.0%) 
+disp_lmsamples        7741/0            7741/0        ( 0.0%) 
+faces                13257/65536      742392/3670016  (20.2%) 
+hdr faces            13257/65536      742392/3670016  (20.2%) 
+origfaces             9850/65536      551600/3670016  (15.0%) 
+leaves                3108/65536       99456/2097152  ( 4.7%) 
+leaffaces            15502/65536       31004/131072   (23.7%) 
+leafbrushes           3363/65536        6726/131072   ( 5.1%) 
+areas                    6/1024           48/8192     ( 0.6%) 
+surfedges           105014/512000     420056/2048000  (20.5%) 
+edges                58040/256000     232160/1024000  (22.7%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        397/16384       34936/1441792  ( 2.4%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1633/131072      16330/1310720  ( 1.2%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         29022/131072      58044/262144   (22.1%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                28/1024         9856/360448   ( 2.7%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]    13712000/0        ( 0.0%) 
+visdata               [variable]      419945/16777216 ( 2.5%) 
+entdata               [variable]      141595/393216   (36.0%) 
+LDR ambient table     3108/65536       12432/262144   ( 4.7%) 
+HDR ambient table     3108/65536       12432/262144   ( 4.7%) 
+LDR leaf ambient      3108/65536       87024/1835008  ( 4.7%) 
+HDR leaf ambient     10737/65536      300636/1835008  (16.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/80390    ( 0.0%) 
+pakfile               [variable]     5217785/0        ( 0.0%) 
+physics               [variable]      868285/4194304  (20.7%) 
+physics terrain       [variable]        4782/1048576  ( 0.5%) 
+
+Level flags = 2
+
+Total triangle count: 38676
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+1 minute, 44 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.vmf
+Map revision 10
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "metal/black_wall_metal_001d" not found.
+Material not found!: METAL/BLACK_WALL_METAL_001D
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_BASE, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+Patching WVT material: maps/ref1/warzone/sand00_blend_wvt_patch
+Patching WVT material: maps/ref1/nature/blendsandgrass008a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1162 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (868285 bytes)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2234.00, -349.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5252.00, -2314.00, -221.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5236.00, -2298.00, -221.03)
+Static prop models/props_parable/museum/pillar_156_topb.mdl outside the map (5324.00, -2314.00, -301.00)
+Static prop models/props_parable/museum/pillar_156_topb.mdl outside the map (5236.00, -2314.00, -301.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5236.00, -2314.00, -348.98)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5208.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2298.00, -349.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5324.00, -2314.00, -348.98)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5264.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5296.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2266.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2202.00, -349.00)
+Static prop models/props_parable/museum/wall_32bot.mdl outside the map (4336.00, -1142.00, -253.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5340.00, -2314.00, -221.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5324.00, -2298.00, -221.03)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4816.00, -1750.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4816.00, -1622.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4944.00, -1622.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4944.00, -1750.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4512.00, -1238.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4512.00, -1366.00, -253.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5204.00, -2146.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2146.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2114.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2082.00, -325.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2050.00, -301.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2018.00, -277.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -1986.00, -253.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5204.00, -1986.00, -253.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2050.00, -301.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2018.00, -277.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2114.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2082.00, -325.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5204.00, -2174.00, -349.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5324.00, -2174.00, -348.98)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+.10
+Compacting texture/material tables...
+Reduced 3084 texinfos to 2088
+Reduced 122 texdatas to 108 (2994 bytes to 2646)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+8 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.prt
+1358 portalclusters
+4297 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 52882 visible clusters (0.00%)
+Total clusters visible: 980924
+Average clusters visible: 722
+Building PAS...
+Average clusters audible: 830
+visdatasize:419945  compressed from 478016
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+13257 faces
+17 degenerate faces
+1074417 square feet [154716128.00 square inches]
+7 Displacements
+250 Square Feet [36056.38 Square Inches]
+13240 patches before subdivision
+231114 patches after subdivision
+light has _fifty_percent_distance of 326.000000 but _zero_percent_distance of 51.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 326.000000 but _zero_percent_distance of 51.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+397 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 23832739, max 1266
+transfer lists: 181.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(319385, 354958, 406085)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(188775, 210296, 241777)
+Build Patch/Sample Hash Table(s).....Done<0.0851 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 48 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  55/4096         2640/196608   ( 1.3%) 
+brushes               2353/32768       28236/393216   ( 7.2%) 
+brushsides           23991/65536      191928/524288   (36.6%) 
+planes               25056/65536      501120/1310720  (38.2%) 
+vertexes             18328/65536      219936/786432   (28.0%) 
+nodes                 3052/65536       97664/2097152  ( 4.7%) 
+texinfos              2088/12288      150336/884736   (17.0%) 
+texdata                108/2048         3456/65536    ( 5.3%) 
+dispinfos                7/0            1232/0        ( 0.0%) 
+disp_verts            2023/0           40460/0        ( 0.0%) 
+disp_tris             3584/0            7168/0        ( 0.0%) 
+disp_lmsamples        7741/0            7741/0        ( 0.0%) 
+faces                13257/65536      742392/3670016  (20.2%) 
+hdr faces            13257/65536      742392/3670016  (20.2%) 
+origfaces             9850/65536      551600/3670016  (15.0%) 
+leaves                3108/65536       99456/2097152  ( 4.7%) 
+leaffaces            15502/65536       31004/131072   (23.7%) 
+leafbrushes           3356/65536        6712/131072   ( 5.1%) 
+areas                    6/1024           48/8192     ( 0.6%) 
+surfedges           105014/512000     420056/2048000  (20.5%) 
+edges                58040/256000     232160/1024000  (22.7%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        397/16384       34936/1441792  ( 2.4%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1632/131072      16320/1310720  ( 1.2%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         29004/131072      58008/262144   (22.1%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                28/1024         9856/360448   ( 2.7%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]    13712000/0        ( 0.0%) 
+visdata               [variable]      419945/16777216 ( 2.5%) 
+entdata               [variable]      142261/393216   (36.2%) 
+LDR ambient table     3108/65536       12432/262144   ( 4.7%) 
+HDR ambient table     3108/65536       12432/262144   ( 4.7%) 
+LDR leaf ambient      3108/65536       87024/1835008  ( 4.7%) 
+HDR leaf ambient     10740/65536      300720/1835008  (16.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/80390    ( 0.0%) 
+pakfile               [variable]     5217783/0        ( 0.0%) 
+physics               [variable]      868285/4194304  (20.7%) 
+physics terrain       [variable]        4782/1048576  ( 0.5%) 
+
+Level flags = 2
+
+Total triangle count: 38676
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+1 minute, 36 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.vmf
+Map revision 11
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "metal/black_wall_metal_001d" not found.
+Material not found!: METAL/BLACK_WALL_METAL_001D
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_BASE, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+Patching WVT material: maps/ref1/warzone/sand00_blend_wvt_patch
+Patching WVT material: maps/ref1/nature/blendsandgrass008a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1162 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (866581 bytes)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2234.00, -349.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5252.00, -2314.00, -221.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5236.00, -2298.00, -221.03)
+Static prop models/props_parable/museum/pillar_156_topb.mdl outside the map (5324.00, -2314.00, -301.00)
+Static prop models/props_parable/museum/pillar_156_topb.mdl outside the map (5236.00, -2314.00, -301.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5236.00, -2314.00, -348.98)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5208.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2298.00, -349.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5324.00, -2314.00, -348.98)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5264.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5296.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2266.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2202.00, -349.00)
+Static prop models/props_parable/museum/wall_32bot.mdl outside the map (4336.00, -1142.00, -253.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5340.00, -2314.00, -221.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5324.00, -2298.00, -221.03)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4816.00, -1750.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4816.00, -1622.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4944.00, -1622.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4944.00, -1750.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4512.00, -1238.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4512.00, -1366.00, -253.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5204.00, -2146.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2146.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2114.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2082.00, -325.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2050.00, -301.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2018.00, -277.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -1986.00, -253.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5204.00, -1986.00, -253.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2050.00, -301.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2018.00, -277.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2114.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2082.00, -325.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5204.00, -2174.00, -349.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5324.00, -2174.00, -348.98)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+.10
+Compacting texture/material tables...
+Reduced 3081 texinfos to 2085
+Reduced 122 texdatas to 108 (2994 bytes to 2646)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+8 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.prt
+1350 portalclusters
+4279 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 48363 visible clusters (0.00%)
+Total clusters visible: 979933
+Average clusters visible: 725
+Building PAS...
+Average clusters audible: 823
+visdatasize:415724  compressed from 475200
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+13219 faces
+17 degenerate faces
+1060035 square feet [152645120.00 square inches]
+7 Displacements
+250 Square Feet [36056.38 Square Inches]
+13202 patches before subdivision
+231382 patches after subdivision
+light has _fifty_percent_distance of 326.000000 but _zero_percent_distance of 51.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 326.000000 but _zero_percent_distance of 51.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+397 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 24053677, max 1263
+transfer lists: 183.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(321059, 356805, 408135)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(184075, 205085, 236112)
+Build Patch/Sample Hash Table(s).....Done<0.0827 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 48 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  55/4096         2640/196608   ( 1.3%) 
+brushes               2348/32768       28176/393216   ( 7.2%) 
+brushsides           23961/65536      191688/524288   (36.6%) 
+planes               25050/65536      501000/1310720  (38.2%) 
+vertexes             18260/65536      219120/786432   (27.9%) 
+nodes                 3023/65536       96736/2097152  ( 4.6%) 
+texinfos              2085/12288      150120/884736   (17.0%) 
+texdata                108/2048         3456/65536    ( 5.3%) 
+dispinfos                7/0            1232/0        ( 0.0%) 
+disp_verts            2023/0           40460/0        ( 0.0%) 
+disp_tris             3584/0            7168/0        ( 0.0%) 
+disp_lmsamples        7741/0            7741/0        ( 0.0%) 
+faces                13219/65536      740264/3670016  (20.2%) 
+hdr faces            13219/65536      740264/3670016  (20.2%) 
+origfaces             9837/65536      550872/3670016  (15.0%) 
+leaves                3079/65536       98528/2097152  ( 4.7%) 
+leaffaces            15579/65536       31158/131072   (23.8%) 
+leafbrushes           3348/65536        6696/131072   ( 5.1%) 
+areas                    6/1024           48/8192     ( 0.6%) 
+surfedges           104772/512000     419088/2048000  (20.5%) 
+edges                57905/256000     231620/1024000  (22.6%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        397/16384       34936/1441792  ( 2.4%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1633/131072      16330/1310720  ( 1.2%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         29001/131072      58002/262144   (22.1%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                28/1024         9856/360448   ( 2.7%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]    13715364/0        ( 0.0%) 
+visdata               [variable]      415724/16777216 ( 2.5%) 
+entdata               [variable]      142260/393216   (36.2%) 
+LDR ambient table     3079/65536       12316/262144   ( 4.7%) 
+HDR ambient table     3079/65536       12316/262144   ( 4.7%) 
+LDR leaf ambient      3079/65536       86212/1835008  ( 4.7%) 
+HDR leaf ambient     10713/65536      299964/1835008  (16.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/80388    ( 0.0%) 
+pakfile               [variable]     5217783/0        ( 0.0%) 
+physics               [variable]      866581/4194304  (20.7%) 
+physics terrain       [variable]        4782/1048576  ( 0.5%) 
+
+Level flags = 2
+
+Total triangle count: 38562
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+1 minute, 37 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.vmf
+Map revision 13
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "metal/black_wall_metal_001d" not found.
+Material not found!: METAL/BLACK_WALL_METAL_001D
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_BASE, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+Patching WVT material: maps/ref1/warzone/sand00_blend_wvt_patch
+Patching WVT material: maps/ref1/nature/blendsandgrass008a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1162 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (864079 bytes)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2234.00, -349.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5252.00, -2314.00, -221.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5236.00, -2298.00, -221.03)
+Static prop models/props_parable/museum/pillar_156_topb.mdl outside the map (5324.00, -2314.00, -301.00)
+Static prop models/props_parable/museum/pillar_156_topb.mdl outside the map (5236.00, -2314.00, -301.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5236.00, -2314.00, -348.98)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5208.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2298.00, -349.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5324.00, -2314.00, -348.98)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5264.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5296.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2266.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2202.00, -349.00)
+Static prop models/props_parable/museum/wall_32bot.mdl outside the map (4336.00, -1142.00, -253.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5340.00, -2314.00, -221.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5324.00, -2298.00, -221.03)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4816.00, -1750.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4816.00, -1622.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4944.00, -1622.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4944.00, -1750.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4512.00, -1238.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4512.00, -1366.00, -253.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5204.00, -2146.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2146.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2114.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2082.00, -325.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2050.00, -301.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2018.00, -277.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -1986.00, -253.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5204.00, -1986.00, -253.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2050.00, -301.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2018.00, -277.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2114.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2082.00, -325.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5204.00, -2174.00, -349.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5324.00, -2174.00, -348.98)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+.10
+Compacting texture/material tables...
+Reduced 3062 texinfos to 2080
+Reduced 121 texdatas to 107 (2981 bytes to 2633)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+8 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.prt
+1347 portalclusters
+4267 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 48330 visible clusters (0.00%)
+Total clusters visible: 979059
+Average clusters visible: 726
+Building PAS...
+Average clusters audible: 824
+visdatasize:413068  compressed from 474144
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+13197 faces
+17 degenerate faces
+1059943 square feet [152631872.00 square inches]
+7 Displacements
+250 Square Feet [36056.38 Square Inches]
+13180 patches before subdivision
+231360 patches after subdivision
+light has _fifty_percent_distance of 326.000000 but _zero_percent_distance of 51.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 326.000000 but _zero_percent_distance of 51.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+399 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 24046168, max 1263
+transfer lists: 183.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(321060, 356805, 408136)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(184076, 205085, 236113)
+Build Patch/Sample Hash Table(s).....Done<0.0786 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 48 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  54/4096         2592/196608   ( 1.3%) 
+brushes               2343/32768       28116/393216   ( 7.2%) 
+brushsides           23909/65536      191272/524288   (36.5%) 
+planes               24954/65536      499080/1310720  (38.1%) 
+vertexes             18220/65536      218640/786432   (27.8%) 
+nodes                 3008/65536       96256/2097152  ( 4.6%) 
+texinfos              2080/12288      149760/884736   (16.9%) 
+texdata                107/2048         3424/65536    ( 5.2%) 
+dispinfos                7/0            1232/0        ( 0.0%) 
+disp_verts            2023/0           40460/0        ( 0.0%) 
+disp_tris             3584/0            7168/0        ( 0.0%) 
+disp_lmsamples        7741/0            7741/0        ( 0.0%) 
+faces                13197/65536      739032/3670016  (20.1%) 
+hdr faces            13197/65536      739032/3670016  (20.1%) 
+origfaces             9815/65536      549640/3670016  (15.0%) 
+leaves                3063/65536       98016/2097152  ( 4.7%) 
+leaffaces            15566/65536       31132/131072   (23.8%) 
+leafbrushes           3344/65536        6688/131072   ( 5.1%) 
+areas                    6/1024           48/8192     ( 0.6%) 
+surfedges           104564/512000     418256/2048000  (20.4%) 
+edges                57793/256000     231172/1024000  (22.6%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        399/16384       35112/1441792  ( 2.4%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1625/131072      16250/1310720  ( 1.2%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         28863/131072      57726/262144   (22.0%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                28/1024         9856/360448   ( 2.7%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]    13715364/0        ( 0.0%) 
+visdata               [variable]      413068/16777216 ( 2.5%) 
+entdata               [variable]      142252/393216   (36.2%) 
+LDR ambient table     3063/65536       12252/262144   ( 4.7%) 
+HDR ambient table     3063/65536       12252/262144   ( 4.7%) 
+LDR leaf ambient      3063/65536       85764/1835008  ( 4.7%) 
+HDR leaf ambient     10689/65536      299292/1835008  (16.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/80388    ( 0.0%) 
+pakfile               [variable]     5217783/0        ( 0.0%) 
+physics               [variable]      864079/4194304  (20.6%) 
+physics terrain       [variable]        4782/1048576  ( 0.5%) 
+
+Level flags = 2
+
+Total triangle count: 38486
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+1 minute, 40 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.vmf
+Map revision 15
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "metal/black_wall_metal_001d" not found.
+Material not found!: METAL/BLACK_WALL_METAL_001D
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_BASE, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+Patching WVT material: maps/ref1/warzone/sand00_blend_wvt_patch
+Patching WVT material: maps/ref1/nature/blendsandgrass008a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1162 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (865005 bytes)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2234.00, -349.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5252.00, -2314.00, -221.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5236.00, -2298.00, -221.03)
+Static prop models/props_parable/museum/pillar_156_topb.mdl outside the map (5324.00, -2314.00, -301.00)
+Static prop models/props_parable/museum/pillar_156_topb.mdl outside the map (5236.00, -2314.00, -301.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5236.00, -2314.00, -348.98)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5208.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2298.00, -349.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5324.00, -2314.00, -348.98)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5264.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5296.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2266.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2202.00, -349.00)
+Static prop models/props_parable/museum/wall_32bot.mdl outside the map (4336.00, -1142.00, -253.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5340.00, -2314.00, -221.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5324.00, -2298.00, -221.03)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4816.00, -1750.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4816.00, -1622.00, -253.00)
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.vmf
+Map revision 15
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "metal/black_wall_metal_001d" not found.
+Material not found!: METAL/BLACK_WALL_METAL_001D
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_BASE, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+Patching WVT material: maps/ref1/warzone/sand00_blend_wvt_patch
+Patching WVT material: maps/ref1/nature/blendsandgrass008a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1162 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (865005 bytes)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2234.00, -349.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5252.00, -2314.00, -221.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5236.00, -2298.00, -221.03)
+Static prop models/props_parable/museum/pillar_156_topb.mdl outside the map (5324.00, -2314.00, -301.00)
+Static prop models/props_parable/museum/pillar_156_topb.mdl outside the map (5236.00, -2314.00, -301.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5236.00, -2314.00, -348.98)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5208.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2298.00, -349.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5324.00, -2314.00, -348.98)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5264.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5296.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2266.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2202.00, -349.00)
+Static prop models/props_parable/museum/wall_32bot.mdl outside the map (4336.00, -1142.00, -253.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5340.00, -2314.00, -221.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5324.00, -2298.00, -221.03)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4816.00, -1750.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4816.00, -1622.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4944.00, -1622.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4944.00, -1750.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4512.00, -1238.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4512.00, -1366.00, -253.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5204.00, -2146.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2146.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2114.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2082.00, -325.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2050.00, -301.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2018.00, -277.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -1986.00, -253.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5204.00, -1986.00, -253.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2050.00, -301.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2018.00, -277.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2114.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2082.00, -325.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5204.00, -2174.00, -349.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5324.00, -2174.00, -348.98)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+.10
+Compacting texture/material tables...
+Reduced 3087 texinfos to 2101
+Reduced 122 texdatas to 107 (3050 bytes to 2680)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+8 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.prt
+1353 portalclusters
+4287 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 3897 visible clusters (0.00%)
+Total clusters visible: 458726
+Average clusters visible: 339
+Building PAS...
+Average clusters audible: 808
+visdatasize:372584  compressed from 476256
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+11 minutes, 18 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+13209 faces
+17 degenerate faces
+1061280 square feet [152824384.00 square inches]
+7 Displacements
+250 Square Feet [36056.38 Square Inches]
+13192 patches before subdivision
+231488 patches after subdivision
+light has _fifty_percent_distance of 326.000000 but _zero_percent_distance of 51.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 326.000000 but _zero_percent_distance of 51.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+399 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 24093625, max 1263
+transfer lists: 183.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(317774, 353217, 404276)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(181664, 202388, 233062)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(95627, 107133, 124919)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(54582, 61515, 72545)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(30738, 34870, 41633)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(17746, 20258, 24459)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(10283, 11813, 14418)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(6024, 6961, 8578)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3556, 4132, 5137)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2113, 2467, 3092)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1266, 1485, 1874)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(762, 897, 1139)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(463, 547, 698)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(282, 334, 428)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(173, 206, 265)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(107, 127, 164)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(66, 79, 102)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(41, 49, 64)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(26, 31, 40)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(16, 20, 25)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(10, 12, 16)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(7, 8, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(4, 5, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(3, 3, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(2, 2, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(1, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(0, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0873 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 48 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  55/4096         2640/196608   ( 1.3%) 
+brushes               2345/32768       28140/393216   ( 7.2%) 
+brushsides           23921/65536      191368/524288   (36.5%) 
+planes               24966/65536      499320/1310720  (38.1%) 
+vertexes             18234/65536      218808/786432   (27.8%) 
+nodes                 3020/65536       96640/2097152  ( 4.6%) 
+texinfos              2101/12288      151272/884736   (17.1%) 
+texdata                107/2048         3424/65536    ( 5.2%) 
+dispinfos                7/0            1232/0        ( 0.0%) 
+disp_verts            2023/0           40460/0        ( 0.0%) 
+disp_tris             3584/0            7168/0        ( 0.0%) 
+disp_lmsamples        7741/0            7741/0        ( 0.0%) 
+faces                13209/65536      739704/3670016  (20.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             9830/65536      550480/3670016  (15.0%) 
+leaves                3076/65536       98432/2097152  ( 4.7%) 
+leaffaces            15623/65536       31246/131072   (23.8%) 
+leafbrushes           3350/65536        6700/131072   ( 5.1%) 
+areas                    6/1024           48/8192     ( 0.6%) 
+surfedges           104698/512000     418792/2048000  (20.4%) 
+edges                57861/256000     231444/1024000  (22.6%) 
+LDR worldlights        399/16384       35112/1441792  ( 2.4%) 
+HDR worldlights          0/16384           0/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1626/131072      16260/1310720  ( 1.2%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         28908/131072      57816/262144   (22.1%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                28/1024         9856/360448   ( 2.7%) 
+LDR lightdata         [variable]    13718076/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      372584/16777216 ( 2.2%) 
+entdata               [variable]      142495/393216   (36.2%) 
+LDR ambient table     3076/65536       12304/262144   ( 4.7%) 
+HDR ambient table     3076/65536       12304/262144   ( 4.7%) 
+LDR leaf ambient     10944/65536      306432/1835008  (16.7%) 
+HDR leaf ambient      3076/65536       86128/1835008  ( 4.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/80396    ( 0.0%) 
+pakfile               [variable]     5210132/0        ( 0.0%) 
+physics               [variable]      865005/4194304  (20.6%) 
+physics terrain       [variable]        4782/1048576  ( 0.5%) 
+
+Level flags = 1
+
+Total triangle count: 38536
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+1 minute, 58 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+13209 faces
+17 degenerate faces
+1061280 square feet [152824384.00 square inches]
+7 Displacements
+250 Square Feet [36056.38 Square Inches]
+13192 patches before subdivision
+231488 patches after subdivision
+light has _fifty_percent_distance of 326.000000 but _zero_percent_distance of 51.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 326.000000 but _zero_percent_distance of 51.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+399 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 24093625, max 1263
+transfer lists: 183.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(317774, 353218, 404277)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(181664, 202388, 233063)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(95627, 107133, 124919)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(54582, 61515, 72545)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(30739, 34870, 41633)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(17746, 20258, 24459)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(10283, 11813, 14418)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(6024, 6961, 8578)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3556, 4132, 5137)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2113, 2467, 3092)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1266, 1485, 1874)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(762, 897, 1139)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(463, 547, 698)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(282, 334, 428)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(173, 206, 265)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(107, 127, 164)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(66, 79, 102)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(41, 49, 64)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(26, 31, 40)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(16, 20, 25)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(10, 12, 16)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(7, 8, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(4, 5, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(3, 3, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(2, 2, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(1, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(0, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0957 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 48 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  55/4096         2640/196608   ( 1.3%) 
+brushes               2345/32768       28140/393216   ( 7.2%) 
+brushsides           23921/65536      191368/524288   (36.5%) 
+planes               24966/65536      499320/1310720  (38.1%) 
+vertexes             18234/65536      218808/786432   (27.8%) 
+nodes                 3020/65536       96640/2097152  ( 4.6%) 
+texinfos              2101/12288      151272/884736   (17.1%) 
+texdata                107/2048         3424/65536    ( 5.2%) 
+dispinfos                7/0            1232/0        ( 0.0%) 
+disp_verts            2023/0           40460/0        ( 0.0%) 
+disp_tris             3584/0            7168/0        ( 0.0%) 
+disp_lmsamples        7741/0            7741/0        ( 0.0%) 
+faces                13209/65536      739704/3670016  (20.2%) 
+hdr faces            13209/65536      739704/3670016  (20.2%) 
+origfaces             9830/65536      550480/3670016  (15.0%) 
+leaves                3076/65536       98432/2097152  ( 4.7%) 
+leaffaces            15623/65536       31246/131072   (23.8%) 
+leafbrushes           3350/65536        6700/131072   ( 5.1%) 
+areas                    6/1024           48/8192     ( 0.6%) 
+surfedges           104698/512000     418792/2048000  (20.4%) 
+edges                57861/256000     231444/1024000  (22.6%) 
+LDR worldlights        399/16384       35112/1441792  ( 2.4%) 
+HDR worldlights        399/16384       35112/1441792  ( 2.4%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1626/131072      16260/1310720  ( 1.2%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         28908/131072      57816/262144   (22.1%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                28/1024         9856/360448   ( 2.7%) 
+LDR lightdata         [variable]    13718076/0        ( 0.0%) 
+HDR lightdata         [variable]    13718076/0        ( 0.0%) 
+visdata               [variable]      372584/16777216 ( 2.2%) 
+entdata               [variable]      142495/393216   (36.2%) 
+LDR ambient table     3076/65536       12304/262144   ( 4.7%) 
+HDR ambient table     3076/65536       12304/262144   ( 4.7%) 
+LDR leaf ambient     10944/65536      306432/1835008  (16.7%) 
+HDR leaf ambient     10944/65536      306432/1835008  (16.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/80396    ( 0.0%) 
+pakfile               [variable]    10162970/0        ( 0.0%) 
+physics               [variable]      865005/4194304  (20.6%) 
+physics terrain       [variable]        4782/1048576  ( 0.5%) 
+
+Level flags = 3
+
+Total triangle count: 38536
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+2 minutes, 3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.vmf
+Map revision 16
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "metal/black_wall_metal_001d" not found.
+Material not found!: METAL/BLACK_WALL_METAL_001D
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_BASE, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+Patching WVT material: maps/ref1/warzone/sand00_blend_wvt_patch
+Patching WVT material: maps/ref1/nature/blendsandgrass008a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1162 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (865005 bytes)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2234.00, -349.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5252.00, -2314.00, -221.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5236.00, -2298.00, -221.03)
+Static prop models/props_parable/museum/pillar_156_topb.mdl outside the map (5324.00, -2314.00, -301.00)
+Static prop models/props_parable/museum/pillar_156_topb.mdl outside the map (5236.00, -2314.00, -301.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5236.00, -2314.00, -348.98)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5208.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2298.00, -349.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5324.00, -2314.00, -348.98)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5264.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5296.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2266.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2202.00, -349.00)
+Static prop models/props_parable/museum/wall_32bot.mdl outside the map (4336.00, -1142.00, -253.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5340.00, -2314.00, -221.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5324.00, -2298.00, -221.03)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4816.00, -1750.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4816.00, -1622.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4944.00, -1622.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4944.00, -1750.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4512.00, -1238.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4512.00, -1366.00, -253.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5204.00, -2146.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2146.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2114.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2082.00, -325.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2050.00, -301.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2018.00, -277.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -1986.00, -253.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5204.00, -1986.00, -253.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2050.00, -301.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2018.00, -277.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2114.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2082.00, -325.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5204.00, -2174.00, -349.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5324.00, -2174.00, -348.98)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+.10
+Compacting texture/material tables...
+Reduced 3087 texinfos to 2101
+Reduced 122 texdatas to 107 (3050 bytes to 2680)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+8 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.prt
+1353 portalclusters
+4287 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 3891 visible clusters (0.00%)
+Total clusters visible: 458720
+Average clusters visible: 339
+Building PAS...
+Average clusters audible: 808
+visdatasize:372584  compressed from 476256
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+11 minutes, 35 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+13209 faces
+17 degenerate faces
+1061280 square feet [152824384.00 square inches]
+7 Displacements
+250 Square Feet [36056.38 Square Inches]
+13192 patches before subdivision
+231488 patches after subdivision
+light has _fifty_percent_distance of 326.000000 but _zero_percent_distance of 51.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 326.000000 but _zero_percent_distance of 51.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+399 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 24093625, max 1263
+transfer lists: 183.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(317772, 353215, 404274)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(181663, 202387, 233062)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(95627, 107132, 124918)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(54582, 61515, 72544)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(30738, 34870, 41632)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(17746, 20258, 24459)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(10283, 11813, 14418)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(6024, 6961, 8578)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3556, 4132, 5137)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2113, 2467, 3092)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1266, 1485, 1874)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(762, 897, 1139)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(463, 547, 698)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(282, 334, 428)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(173, 206, 265)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(107, 127, 164)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(66, 79, 102)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(41, 49, 64)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(26, 31, 40)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(16, 20, 25)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(10, 12, 16)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(7, 8, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(4, 5, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(3, 3, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(2, 2, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(1, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(0, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0865 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 48 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  55/4096         2640/196608   ( 1.3%) 
+brushes               2345/32768       28140/393216   ( 7.2%) 
+brushsides           23921/65536      191368/524288   (36.5%) 
+planes               24966/65536      499320/1310720  (38.1%) 
+vertexes             18234/65536      218808/786432   (27.8%) 
+nodes                 3020/65536       96640/2097152  ( 4.6%) 
+texinfos              2101/12288      151272/884736   (17.1%) 
+texdata                107/2048         3424/65536    ( 5.2%) 
+dispinfos                7/0            1232/0        ( 0.0%) 
+disp_verts            2023/0           40460/0        ( 0.0%) 
+disp_tris             3584/0            7168/0        ( 0.0%) 
+disp_lmsamples        7741/0            7741/0        ( 0.0%) 
+faces                13209/65536      739704/3670016  (20.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             9830/65536      550480/3670016  (15.0%) 
+leaves                3076/65536       98432/2097152  ( 4.7%) 
+leaffaces            15623/65536       31246/131072   (23.8%) 
+leafbrushes           3350/65536        6700/131072   ( 5.1%) 
+areas                    6/1024           48/8192     ( 0.6%) 
+surfedges           104698/512000     418792/2048000  (20.4%) 
+edges                57861/256000     231444/1024000  (22.6%) 
+LDR worldlights        399/16384       35112/1441792  ( 2.4%) 
+HDR worldlights          0/16384           0/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1626/131072      16260/1310720  ( 1.2%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         28908/131072      57816/262144   (22.1%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                28/1024         9856/360448   ( 2.7%) 
+LDR lightdata         [variable]    13718076/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      372584/16777216 ( 2.2%) 
+entdata               [variable]      142505/393216   (36.2%) 
+LDR ambient table     3076/65536       12304/262144   ( 4.7%) 
+HDR ambient table     3076/65536       12304/262144   ( 4.7%) 
+LDR leaf ambient     10944/65536      306432/1835008  (16.7%) 
+HDR leaf ambient      3076/65536       86128/1835008  ( 4.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/80396    ( 0.0%) 
+pakfile               [variable]     5210132/0        ( 0.0%) 
+physics               [variable]      865005/4194304  (20.6%) 
+physics terrain       [variable]        4782/1048576  ( 0.5%) 
+
+Level flags = 1
+
+Total triangle count: 38536
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+2 minutes, 0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+13209 faces
+17 degenerate faces
+1061280 square feet [152824384.00 square inches]
+7 Displacements
+250 Square Feet [36056.38 Square Inches]
+13192 patches before subdivision
+231488 patches after subdivision
+light has _fifty_percent_distance of 326.000000 but _zero_percent_distance of 51.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 326.000000 but _zero_percent_distance of 51.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+399 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 24093625, max 1263
+transfer lists: 183.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(317766, 353209, 404267)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(181659, 202382, 233056)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(95624, 107129, 124915)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(54581, 61513, 72543)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(30738, 34869, 41631)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(17746, 20258, 24458)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(10283, 11813, 14417)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(6024, 6960, 8578)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3556, 4132, 5137)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2113, 2467, 3092)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1266, 1485, 1874)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(762, 897, 1139)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(463, 547, 698)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(282, 334, 428)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(173, 206, 265)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(107, 127, 164)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(66, 79, 102)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(41, 49, 64)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(26, 31, 40)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(16, 20, 25)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(10, 12, 16)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(7, 8, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(4, 5, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(3, 3, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(2, 2, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(1, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(0, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0915 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 48 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  55/4096         2640/196608   ( 1.3%) 
+brushes               2345/32768       28140/393216   ( 7.2%) 
+brushsides           23921/65536      191368/524288   (36.5%) 
+planes               24966/65536      499320/1310720  (38.1%) 
+vertexes             18234/65536      218808/786432   (27.8%) 
+nodes                 3020/65536       96640/2097152  ( 4.6%) 
+texinfos              2101/12288      151272/884736   (17.1%) 
+texdata                107/2048         3424/65536    ( 5.2%) 
+dispinfos                7/0            1232/0        ( 0.0%) 
+disp_verts            2023/0           40460/0        ( 0.0%) 
+disp_tris             3584/0            7168/0        ( 0.0%) 
+disp_lmsamples        7741/0            7741/0        ( 0.0%) 
+faces                13209/65536      739704/3670016  (20.2%) 
+hdr faces            13209/65536      739704/3670016  (20.2%) 
+origfaces             9830/65536      550480/3670016  (15.0%) 
+leaves                3076/65536       98432/2097152  ( 4.7%) 
+leaffaces            15623/65536       31246/131072   (23.8%) 
+leafbrushes           3350/65536        6700/131072   ( 5.1%) 
+areas                    6/1024           48/8192     ( 0.6%) 
+surfedges           104698/512000     418792/2048000  (20.4%) 
+edges                57861/256000     231444/1024000  (22.6%) 
+LDR worldlights        399/16384       35112/1441792  ( 2.4%) 
+HDR worldlights        399/16384       35112/1441792  ( 2.4%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1626/131072      16260/1310720  ( 1.2%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         28908/131072      57816/262144   (22.1%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                28/1024         9856/360448   ( 2.7%) 
+LDR lightdata         [variable]    13718076/0        ( 0.0%) 
+HDR lightdata         [variable]    13718076/0        ( 0.0%) 
+visdata               [variable]      372584/16777216 ( 2.2%) 
+entdata               [variable]      142505/393216   (36.2%) 
+LDR ambient table     3076/65536       12304/262144   ( 4.7%) 
+HDR ambient table     3076/65536       12304/262144   ( 4.7%) 
+LDR leaf ambient     10944/65536      306432/1835008  (16.7%) 
+HDR leaf ambient     10944/65536      306432/1835008  (16.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/80396    ( 0.0%) 
+pakfile               [variable]    10162970/0        ( 0.0%) 
+physics               [variable]      865005/4194304  (20.6%) 
+physics terrain       [variable]        4782/1048576  ( 0.5%) 
+
+Level flags = 3
+
+Total triangle count: 38536
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+1 minute, 54 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.vmf
+Map revision 16
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "metal/black_wall_metal_001d" not found.
+Material not found!: METAL/BLACK_WALL_METAL_001D
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_BASE, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+Patching WVT material: maps/ref1/warzone/sand00_blend_wvt_patch
+Patching WVT material: maps/ref1/nature/blendsandgrass008a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1162 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (865005 bytes)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2234.00, -349.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5252.00, -2314.00, -221.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5236.00, -2298.00, -221.03)
+Static prop models/props_parable/museum/pillar_156_topb.mdl outside the map (5324.00, -2314.00, -301.00)
+Static prop models/props_parable/museum/pillar_156_topb.mdl outside the map (5236.00, -2314.00, -301.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5236.00, -2314.00, -348.98)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5208.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2298.00, -349.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5324.00, -2314.00, -348.98)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5264.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5296.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2266.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2202.00, -349.00)
+Static prop models/props_parable/museum/wall_32bot.mdl outside the map (4336.00, -1142.00, -253.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5340.00, -2314.00, -221.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5324.00, -2298.00, -221.03)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4816.00, -1750.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4816.00, -1622.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4944.00, -1622.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4944.00, -1750.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4512.00, -1238.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4512.00, -1366.00, -253.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5204.00, -2146.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2146.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2114.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2082.00, -325.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2050.00, -301.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2018.00, -277.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -1986.00, -253.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5204.00, -1986.00, -253.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2050.00, -301.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2018.00, -277.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2114.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2082.00, -325.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5204.00, -2174.00, -349.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5324.00, -2174.00, -348.98)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+.10
+Compacting texture/material tables...
+Reduced 3087 texinfos to 2101
+Reduced 122 texdatas to 107 (3050 bytes to 2680)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+7 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.prt
+1353 portalclusters
+4287 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 3891 visible clusters (0.00%)
+Total clusters visible: 458718
+Average clusters visible: 339
+Building PAS...
+Average clusters audible: 808
+visdatasize:372585  compressed from 476256
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+10 minutes, 43 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+13209 faces
+17 degenerate faces
+1061280 square feet [152824384.00 square inches]
+7 Displacements
+250 Square Feet [36056.38 Square Inches]
+13192 patches before subdivision
+231488 patches after subdivision
+light has _fifty_percent_distance of 326.000000 but _zero_percent_distance of 51.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 326.000000 but _zero_percent_distance of 51.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+399 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 24093625, max 1263
+transfer lists: 183.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(317771, 353214, 404273)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(181662, 202387, 233061)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(95626, 107132, 124918)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(54582, 61515, 72544)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(30738, 34870, 41632)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(17746, 20258, 24459)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(10283, 11813, 14418)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(6024, 6961, 8578)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3556, 4132, 5137)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2113, 2467, 3092)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1266, 1485, 1874)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(762, 897, 1139)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(463, 547, 698)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(282, 334, 428)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(173, 206, 265)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(107, 127, 164)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(66, 79, 102)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(41, 49, 64)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(26, 31, 40)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(16, 20, 25)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(10, 12, 16)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(7, 8, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(4, 5, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(3, 3, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(2, 2, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(1, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(0, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0850 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 48 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  55/4096         2640/196608   ( 1.3%) 
+brushes               2345/32768       28140/393216   ( 7.2%) 
+brushsides           23921/65536      191368/524288   (36.5%) 
+planes               24966/65536      499320/1310720  (38.1%) 
+vertexes             18234/65536      218808/786432   (27.8%) 
+nodes                 3020/65536       96640/2097152  ( 4.6%) 
+texinfos              2101/12288      151272/884736   (17.1%) 
+texdata                107/2048         3424/65536    ( 5.2%) 
+dispinfos                7/0            1232/0        ( 0.0%) 
+disp_verts            2023/0           40460/0        ( 0.0%) 
+disp_tris             3584/0            7168/0        ( 0.0%) 
+disp_lmsamples        7741/0            7741/0        ( 0.0%) 
+faces                13209/65536      739704/3670016  (20.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             9830/65536      550480/3670016  (15.0%) 
+leaves                3076/65536       98432/2097152  ( 4.7%) 
+leaffaces            15623/65536       31246/131072   (23.8%) 
+leafbrushes           3350/65536        6700/131072   ( 5.1%) 
+areas                    6/1024           48/8192     ( 0.6%) 
+surfedges           104698/512000     418792/2048000  (20.4%) 
+edges                57861/256000     231444/1024000  (22.6%) 
+LDR worldlights        399/16384       35112/1441792  ( 2.4%) 
+HDR worldlights          0/16384           0/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1626/131072      16260/1310720  ( 1.2%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         28908/131072      57816/262144   (22.1%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                28/1024         9856/360448   ( 2.7%) 
+LDR lightdata         [variable]    13718076/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      372585/16777216 ( 2.2%) 
+entdata               [variable]      142505/393216   (36.2%) 
+LDR ambient table     3076/65536       12304/262144   ( 4.7%) 
+HDR ambient table     3076/65536       12304/262144   ( 4.7%) 
+LDR leaf ambient     10944/65536      306432/1835008  (16.7%) 
+HDR leaf ambient      3076/65536       86128/1835008  ( 4.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/80396    ( 0.0%) 
+pakfile               [variable]     5210132/0        ( 0.0%) 
+physics               [variable]      865005/4194304  (20.6%) 
+physics terrain       [variable]        4782/1048576  ( 0.5%) 
+
+Level flags = 1
+
+Total triangle count: 38536
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+1 minute, 48 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+13209 faces
+17 degenerate faces
+1061280 square feet [152824384.00 square inches]
+7 Displacements
+250 Square Feet [36056.38 Square Inches]
+13192 patches before subdivision
+231488 patches after subdivision
+light has _fifty_percent_distance of 326.000000 but _zero_percent_distance of 51.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 326.000000 but _zero_percent_distance of 51.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+399 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 24093625, max 1263
+transfer lists: 183.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(317754, 353195, 404252)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(181649, 202371, 233045)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(95619, 107124, 124909)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(54578, 61510, 72539)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(30736, 34867, 41629)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(17745, 20257, 24457)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(10283, 11812, 14417)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(6024, 6960, 8577)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3556, 4132, 5137)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2113, 2467, 3091)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1266, 1485, 1874)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(762, 897, 1139)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(463, 547, 698)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(282, 334, 428)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(173, 206, 265)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(107, 127, 164)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(66, 79, 102)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(41, 49, 64)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(26, 31, 40)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(16, 20, 25)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(10, 12, 16)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(7, 8, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(4, 5, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(3, 3, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(2, 2, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(1, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(0, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0908 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 48 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  55/4096         2640/196608   ( 1.3%) 
+brushes               2345/32768       28140/393216   ( 7.2%) 
+brushsides           23921/65536      191368/524288   (36.5%) 
+planes               24966/65536      499320/1310720  (38.1%) 
+vertexes             18234/65536      218808/786432   (27.8%) 
+nodes                 3020/65536       96640/2097152  ( 4.6%) 
+texinfos              2101/12288      151272/884736   (17.1%) 
+texdata                107/2048         3424/65536    ( 5.2%) 
+dispinfos                7/0            1232/0        ( 0.0%) 
+disp_verts            2023/0           40460/0        ( 0.0%) 
+disp_tris             3584/0            7168/0        ( 0.0%) 
+disp_lmsamples        7741/0            7741/0        ( 0.0%) 
+faces                13209/65536      739704/3670016  (20.2%) 
+hdr faces            13209/65536      739704/3670016  (20.2%) 
+origfaces             9830/65536      550480/3670016  (15.0%) 
+leaves                3076/65536       98432/2097152  ( 4.7%) 
+leaffaces            15623/65536       31246/131072   (23.8%) 
+leafbrushes           3350/65536        6700/131072   ( 5.1%) 
+areas                    6/1024           48/8192     ( 0.6%) 
+surfedges           104698/512000     418792/2048000  (20.4%) 
+edges                57861/256000     231444/1024000  (22.6%) 
+LDR worldlights        399/16384       35112/1441792  ( 2.4%) 
+HDR worldlights        399/16384       35112/1441792  ( 2.4%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1626/131072      16260/1310720  ( 1.2%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         28908/131072      57816/262144   (22.1%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                28/1024         9856/360448   ( 2.7%) 
+LDR lightdata         [variable]    13718076/0        ( 0.0%) 
+HDR lightdata         [variable]    13718076/0        ( 0.0%) 
+visdata               [variable]      372585/16777216 ( 2.2%) 
+entdata               [variable]      142505/393216   (36.2%) 
+LDR ambient table     3076/65536       12304/262144   ( 4.7%) 
+HDR ambient table     3076/65536       12304/262144   ( 4.7%) 
+LDR leaf ambient     10944/65536      306432/1835008  (16.7%) 
+HDR leaf ambient     10945/65536      306460/1835008  (16.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/80396    ( 0.0%) 
+pakfile               [variable]    10162970/0        ( 0.0%) 
+physics               [variable]      865005/4194304  (20.6%) 
+physics terrain       [variable]        4782/1048576  ( 0.5%) 
+
+Level flags = 3
+
+Total triangle count: 38536
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+1 minute, 49 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.vmf
+Map revision 21
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "metal/black_wall_metal_001d" not found.
+Material not found!: METAL/BLACK_WALL_METAL_001D
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_BASE, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+Patching WVT material: maps/ref1/warzone/sand00_blend_wvt_patch
+Patching WVT material: maps/ref1/nature/blendsandgrass008a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1162 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (863131 bytes)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2234.00, -349.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5252.00, -2314.00, -221.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5236.00, -2298.00, -221.03)
+Static prop models/props_parable/museum/pillar_156_topb.mdl outside the map (5324.00, -2314.00, -301.00)
+Static prop models/props_parable/museum/pillar_156_topb.mdl outside the map (5236.00, -2314.00, -301.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5236.00, -2314.00, -348.98)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5208.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2298.00, -349.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5324.00, -2314.00, -348.98)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5264.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5296.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2266.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2202.00, -349.00)
+Static prop models/props_parable/museum/wall_32bot.mdl outside the map (4336.00, -1142.00, -253.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5340.00, -2314.00, -221.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5324.00, -2298.00, -221.03)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4816.00, -1750.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4816.00, -1622.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4944.00, -1622.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4944.00, -1750.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4512.00, -1238.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4512.00, -1366.00, -253.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5204.00, -2146.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2146.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2114.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2082.00, -325.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2050.00, -301.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2018.00, -277.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -1986.00, -253.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5204.00, -1986.00, -253.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2050.00, -301.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2018.00, -277.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2114.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2082.00, -325.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5204.00, -2174.00, -349.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5324.00, -2174.00, -348.98)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+.10
+Compacting texture/material tables...
+Reduced 3060 texinfos to 2096
+Reduced 121 texdatas to 106 (3027 bytes to 2657)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+8 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.prt
+1353 portalclusters
+4287 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 48542 visible clusters (0.00%)
+Total clusters visible: 980319
+Average clusters visible: 724
+Building PAS...
+Average clusters audible: 822
+visdatasize:420291  compressed from 476256
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+13195 faces
+17 degenerate faces
+1061280 square feet [152824384.00 square inches]
+7 Displacements
+250 Square Feet [36056.38 Square Inches]
+13178 patches before subdivision
+231474 patches after subdivision
+light has _fifty_percent_distance of 326.000000 but _zero_percent_distance of 51.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 326.000000 but _zero_percent_distance of 51.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+400 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 24061796, max 1263
+transfer lists: 183.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(320255, 355872, 406987)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(182986, 203815, 234551)
+Build Patch/Sample Hash Table(s).....Done<0.0904 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 48 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  53/4096         2544/196608   ( 1.3%) 
+brushes               2341/32768       28092/393216   ( 7.1%) 
+brushsides           23760/65536      190080/524288   (36.3%) 
+planes               24504/65536      490080/1310720  (37.4%) 
+vertexes             18206/65536      218472/786432   (27.8%) 
+nodes                 3008/65536       96256/2097152  ( 4.6%) 
+texinfos              2096/12288      150912/884736   (17.1%) 
+texdata                106/2048         3392/65536    ( 5.2%) 
+dispinfos                7/0            1232/0        ( 0.0%) 
+disp_verts            2023/0           40460/0        ( 0.0%) 
+disp_tris             3584/0            7168/0        ( 0.0%) 
+disp_lmsamples        7741/0            7741/0        ( 0.0%) 
+faces                13195/65536      738920/3670016  (20.1%) 
+hdr faces            13195/65536      738920/3670016  (20.1%) 
+origfaces             9816/65536      549696/3670016  (15.0%) 
+leaves                3062/65536       97984/2097152  ( 4.7%) 
+leaffaces            15609/65536       31218/131072   (23.8%) 
+leafbrushes           3346/65536        6692/131072   ( 5.1%) 
+areas                    6/1024           48/8192     ( 0.6%) 
+surfedges           104586/512000     418344/2048000  (20.4%) 
+edges                57797/256000     231188/1024000  (22.6%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        400/16384       35200/1441792  ( 2.4%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1626/131072      16260/1310720  ( 1.2%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         28908/131072      57816/262144   (22.1%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                28/1024         9856/360448   ( 2.7%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]    13717836/0        ( 0.0%) 
+visdata               [variable]      420291/16777216 ( 2.5%) 
+entdata               [variable]      142767/393216   (36.3%) 
+LDR ambient table     3062/65536       12248/262144   ( 4.7%) 
+HDR ambient table     3062/65536       12248/262144   ( 4.7%) 
+LDR leaf ambient      3062/65536       85736/1835008  ( 4.7%) 
+HDR leaf ambient     10762/65536      301336/1835008  (16.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/80396    ( 0.0%) 
+pakfile               [variable]     5218428/0        ( 0.0%) 
+physics               [variable]      863131/4194304  (20.6%) 
+physics terrain       [variable]        4782/1048576  ( 0.5%) 
+
+Level flags = 2
+
+Total triangle count: 38508
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+1 minute, 46 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.vmf
+Map revision 21
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "metal/black_wall_metal_001d" not found.
+Material not found!: METAL/BLACK_WALL_METAL_001D
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_BASE, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+Patching WVT material: maps/ref1/warzone/sand00_blend_wvt_patch
+Patching WVT material: maps/ref1/nature/blendsandgrass008a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1162 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (863131 bytes)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2234.00, -349.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5252.00, -2314.00, -221.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5236.00, -2298.00, -221.03)
+Static prop models/props_parable/museum/pillar_156_topb.mdl outside the map (5324.00, -2314.00, -301.00)
+Static prop models/props_parable/museum/pillar_156_topb.mdl outside the map (5236.00, -2314.00, -301.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5236.00, -2314.00, -348.98)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5208.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2298.00, -349.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5324.00, -2314.00, -348.98)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5264.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5296.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2266.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2202.00, -349.00)
+Static prop models/props_parable/museum/wall_32bot.mdl outside the map (4336.00, -1142.00, -253.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5340.00, -2314.00, -221.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5324.00, -2298.00, -221.03)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4816.00, -1750.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4816.00, -1622.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4944.00, -1622.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4944.00, -1750.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4512.00, -1238.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4512.00, -1366.00, -253.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5204.00, -2146.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2146.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2114.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2082.00, -325.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2050.00, -301.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2018.00, -277.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -1986.00, -253.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5204.00, -1986.00, -253.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2050.00, -301.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2018.00, -277.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2114.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2082.00, -325.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5204.00, -2174.00, -349.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5324.00, -2174.00, -348.98)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+.10
+Compacting texture/material tables...
+Reduced 3060 texinfos to 2096
+Reduced 121 texdatas to 106 (3027 bytes to 2657)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+8 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.prt
+1353 portalclusters
+4287 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.vmf
+Map revision 22
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "metal/black_wall_metal_001d" not found.
+Material not found!: METAL/BLACK_WALL_METAL_001D
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_BASE, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+Patching WVT material: maps/ref1/warzone/sand00_blend_wvt_patch
+Patching WVT material: maps/ref1/nature/blendsandgrass008a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.vmf
+Map revision 22
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "metal/black_wall_metal_001d" not found.
+Material not found!: METAL/BLACK_WALL_METAL_001D
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_BASE, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+Patching WVT material: maps/ref1/warzone/sand00_blend_wvt_patch
+Patching WVT material: maps/ref1/nature/blendsandgrass008a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1162 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (862970 bytes)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2234.00, -349.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5252.00, -2314.00, -221.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5236.00, -2298.00, -221.03)
+Static prop models/props_parable/museum/pillar_156_topb.mdl outside the map (5324.00, -2314.00, -301.00)
+Static prop models/props_parable/museum/pillar_156_topb.mdl outside the map (5236.00, -2314.00, -301.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5236.00, -2314.00, -348.98)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5208.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2298.00, -349.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5324.00, -2314.00, -348.98)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5264.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5296.00, -2314.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2266.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2202.00, -349.00)
+Static prop models/props_parable/museum/wall_32bot.mdl outside the map (4336.00, -1142.00, -253.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5340.00, -2314.00, -221.00)
+Static prop models/props_parable/museum/wall_cornertop.mdl outside the map (5324.00, -2298.00, -221.03)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4816.00, -1750.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4816.00, -1622.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4944.00, -1622.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4944.00, -1750.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4512.00, -1238.00, -253.00)
+Static prop models/props_parable/museum/wall_128bot.mdl outside the map (4512.00, -1366.00, -253.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5204.00, -2146.00, -349.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -2146.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2114.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2082.00, -325.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2050.00, -301.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5324.00, -2018.00, -277.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5324.00, -1986.00, -253.00)
+Static prop models/props_parable/museum/museumrailing.mdl outside the map (5204.00, -1986.00, -253.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2050.00, -301.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2018.00, -277.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2114.00, -349.00)
+Static prop models/props_parable/museum/museumrailingstairs.mdl outside the map (5204.00, -2082.00, -325.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5204.00, -2174.00, -349.00)
+Static prop models/props_parable/museum/museumsmallpillar.mdl outside the map (5324.00, -2174.00, -348.98)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+.10
+Compacting texture/material tables...
+Reduced 3054 texinfos to 2096
+Reduced 121 texdatas to 106 (3027 bytes to 2657)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+9 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.prt
+1353 portalclusters
+4287 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 3900 visible clusters (0.00%)
+Total clusters visible: 458727
+Average clusters visible: 339
+Building PAS...
+Average clusters audible: 808
+visdatasize:372585  compressed from 476256
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+13 minutes, 14 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+13195 faces
+17 degenerate faces
+1061280 square feet [152824384.00 square inches]
+7 Displacements
+250 Square Feet [36056.38 Square Inches]
+13178 patches before subdivision
+231474 patches after subdivision
+light has _fifty_percent_distance of 326.000000 but _zero_percent_distance of 51.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 326.000000 but _zero_percent_distance of 51.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+400 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 24053332, max 1265
+transfer lists: 183.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(317430, 352830, 403875)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(181448, 202131, 232803)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(95507, 106986, 124774)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(54517, 61432, 72464)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(30702, 34823, 41587)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(17726, 20232, 24433)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(10272, 11798, 14403)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(6018, 6952, 8569)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3553, 4127, 5132)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2111, 2464, 3089)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1265, 1483, 1872)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(761, 896, 1138)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(462, 546, 697)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(282, 334, 428)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(173, 206, 265)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(107, 127, 164)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(66, 79, 102)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(41, 49, 64)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(26, 31, 40)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(16, 20, 25)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(10, 12, 16)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(7, 8, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(4, 5, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(3, 3, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(2, 2, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(1, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(0, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0955 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 48 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  52/4096         2496/196608   ( 1.3%) 
+brushes               2341/32768       28092/393216   ( 7.1%) 
+brushsides           23760/65536      190080/524288   (36.3%) 
+planes               24496/65536      489920/1310720  (37.4%) 
+vertexes             18206/65536      218472/786432   (27.8%) 
+nodes                 3002/65536       96064/2097152  ( 4.6%) 
+texinfos              2096/12288      150912/884736   (17.1%) 
+texdata                106/2048         3392/65536    ( 5.2%) 
+dispinfos                7/0            1232/0        ( 0.0%) 
+disp_verts            2023/0           40460/0        ( 0.0%) 
+disp_tris             3584/0            7168/0        ( 0.0%) 
+disp_lmsamples        7741/0            7741/0        ( 0.0%) 
+faces                13195/65536      738920/3670016  (20.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             9816/65536      549696/3670016  (15.0%) 
+leaves                3055/65536       97760/2097152  ( 4.7%) 
+leaffaces            15613/65536       31226/131072   (23.8%) 
+leafbrushes           3347/65536        6694/131072   ( 5.1%) 
+areas                    6/1024           48/8192     ( 0.6%) 
+surfedges           104586/512000     418344/2048000  (20.4%) 
+edges                57797/256000     231188/1024000  (22.6%) 
+LDR worldlights        400/16384       35200/1441792  ( 2.4%) 
+HDR worldlights          0/16384           0/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1626/131072      16260/1310720  ( 1.2%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         28908/131072      57816/262144   (22.1%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                28/1024         9856/360448   ( 2.7%) 
+LDR lightdata         [variable]    13717836/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      372585/16777216 ( 2.2%) 
+entdata               [variable]      142598/393216   (36.3%) 
+LDR ambient table     3055/65536       12220/262144   ( 4.7%) 
+HDR ambient table     3055/65536       12220/262144   ( 4.7%) 
+LDR leaf ambient     10923/65536      305844/1835008  (16.7%) 
+HDR leaf ambient      3055/65536       85540/1835008  ( 4.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/80396    ( 0.0%) 
+pakfile               [variable]     5210132/0        ( 0.0%) 
+physics               [variable]      862970/4194304  (20.6%) 
+physics terrain       [variable]        4782/1048576  ( 0.5%) 
+
+Level flags = 1
+
+Total triangle count: 38508
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+2 minutes, 8 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+13195 faces
+17 degenerate faces
+1061280 square feet [152824384.00 square inches]
+7 Displacements
+250 Square Feet [36056.38 Square Inches]
+13178 patches before subdivision
+231474 patches after subdivision
+light has _fifty_percent_distance of 326.000000 but _zero_percent_distance of 51.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+light has _fifty_percent_distance of 326.000000 but _zero_percent_distance of 51.000000
+light has _fifty_percent_distance of 243.000000 but _zero_percent_distance of 59.000000
+400 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 24053332, max 1265
+transfer lists: 183.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(317439, 352841, 403887)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(181454, 202137, 232810)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(95511, 106990, 124779)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(54519, 61434, 72466)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(30703, 34825, 41589)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(17727, 20232, 24433)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(10272, 11799, 14403)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(6018, 6952, 8569)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3553, 4127, 5132)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2111, 2464, 3089)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1265, 1483, 1872)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(761, 896, 1139)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(462, 546, 697)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(282, 334, 428)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(173, 206, 265)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(107, 127, 164)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(66, 79, 102)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(41, 49, 64)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(26, 31, 40)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(16, 20, 25)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(10, 12, 16)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(7, 8, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(4, 5, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(3, 3, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(2, 2, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(1, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(0, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0883 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 48 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  52/4096         2496/196608   ( 1.3%) 
+brushes               2341/32768       28092/393216   ( 7.1%) 
+brushsides           23760/65536      190080/524288   (36.3%) 
+planes               24496/65536      489920/1310720  (37.4%) 
+vertexes             18206/65536      218472/786432   (27.8%) 
+nodes                 3002/65536       96064/2097152  ( 4.6%) 
+texinfos              2096/12288      150912/884736   (17.1%) 
+texdata                106/2048         3392/65536    ( 5.2%) 
+dispinfos                7/0            1232/0        ( 0.0%) 
+disp_verts            2023/0           40460/0        ( 0.0%) 
+disp_tris             3584/0            7168/0        ( 0.0%) 
+disp_lmsamples        7741/0            7741/0        ( 0.0%) 
+faces                13195/65536      738920/3670016  (20.1%) 
+hdr faces            13195/65536      738920/3670016  (20.1%) 
+origfaces             9816/65536      549696/3670016  (15.0%) 
+leaves                3055/65536       97760/2097152  ( 4.7%) 
+leaffaces            15613/65536       31226/131072   (23.8%) 
+leafbrushes           3347/65536        6694/131072   ( 5.1%) 
+areas                    6/1024           48/8192     ( 0.6%) 
+surfedges           104586/512000     418344/2048000  (20.4%) 
+edges                57797/256000     231188/1024000  (22.6%) 
+LDR worldlights        400/16384       35200/1441792  ( 2.4%) 
+HDR worldlights        400/16384       35200/1441792  ( 2.4%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1626/131072      16260/1310720  ( 1.2%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         28908/131072      57816/262144   (22.1%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                28/1024         9856/360448   ( 2.7%) 
+LDR lightdata         [variable]    13717836/0        ( 0.0%) 
+HDR lightdata         [variable]    13717836/0        ( 0.0%) 
+visdata               [variable]      372585/16777216 ( 2.2%) 
+entdata               [variable]      142598/393216   (36.3%) 
+LDR ambient table     3055/65536       12220/262144   ( 4.7%) 
+HDR ambient table     3055/65536       12220/262144   ( 4.7%) 
+LDR leaf ambient     10923/65536      305844/1835008  (16.7%) 
+HDR leaf ambient     10923/65536      305844/1835008  (16.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/80396    ( 0.0%) 
+pakfile               [variable]    10162970/0        ( 0.0%) 
+physics               [variable]      862970/4194304  (20.6%) 
+physics terrain       [variable]        4782/1048576  ( 0.5%) 
+
+Level flags = 3
+
+Total triangle count: 38508
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\ref1.bsp
+2 minutes, 2 seconds elapsed
