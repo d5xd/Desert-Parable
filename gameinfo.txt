@@ -14,7 +14,11 @@
 		SearchPaths
 		{
 			Game	|gameinfo_path|.
-			Game	|All_Source_Engine_Paths|thestanleyparable	
+			Game	|All_Source_Engine_Paths|thestanleyparable
+			//for boz, comment these out on releases
+			Game	"D:\SteamLibrary\steamapps\common\The Stanley Parable\bin\HA\hammer"
+			Game	"D:\SteamLibrary\steamapps\common\The Stanley Parable\thestanleyparable"
+			platform	"D:\SteamLibrary\steamapps\common\The Stanley Parable\platform"
 					}
 	}
 }

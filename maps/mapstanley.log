@@ -30874,3 +30874,1036 @@ Level flags = 0
 Total triangle count: 20942
 Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\mapstanley.bsp
 5 minutes, 34 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\sourcemods\Desert-Parable\materials
+Loading d:\sourcemods\desert-parable\maps\mapstanley.vmf
+Material not found!: CARPET/OFFICE_CARPETBORING
+Material not found!: TOOLS/TOOLSNODRAW
+Material not found!: PLASTIC/LOUNGEWALL01
+Material not found!: TILE/TILE_CEILING_001A
+Material not found!: PLASTER/SHEETROCK02
+Material not found!: PLASTIC/OFFICEWALLTHINGIE01A
+Material not found!: PLASTER/SHEETROCK01_NOBUMP
+Material not found!: TOOLS/TOOLSBLACK
+Material not found!: TOOLS/TOOLSPLAYERCLIP
+Could not locate GameData file stanley.fgd
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\sourcemods\desert-parable\maps\mapstanley.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (30735 bytes)
+Error loading studio model "models/props_parable/papers_6.mdl"!
+Error loading studio model "models/props_parable/papers_4.mdl"!
+Error loading studio model "models/props_parable/papers_2_you_never_go_becret.mdl"!
+Error loading studio model "models/props_parable/papers_1.mdl"!
+Error loading studio model "models/props_parable/papers_2_hahaha_this_is_fun.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 63 texinfos to 45
+Reduced 13 texdatas to 13 (309 bytes to 309)
+Writing d:\sourcemods\desert-parable\maps\mapstanley.bsp
+
+nummapplanes:     (   356 / 65536 )
+nummapbrushes:    (    85 /  8192 )
+nummapbrushsides: (   548 / 65536 )
+num_map_overlays: (    15 /   512 )
+nummodels:        (     2 /  1024 )
+num_entities:     (    16 / 16384 )
+
+0 seconds elapsed
+
+
+
+20 threads
+reading d:\sourcemods\desert-parable\maps\mapstanley.bsp
+reading d:\sourcemods\desert-parable\maps\mapstanley.prt
+  28 portalclusters
+  45 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 658
+Average clusters visible: 23
+Building PAS...
+Average clusters audible: 28
+visdatasize:453  compressed from 448
+writing d:\sourcemods\desert-parable\maps\mapstanley.bsp
+0 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\SteamLibrary\steamapps\common\Portal 2\bin\lights.rad.
+Loading d:\sourcemods\desert-parable\maps\mapstanley.bsp
+198 faces
+6310 square feet [908756.25 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+198 patches before subdivision
+198 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4180, max 59
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 85/8192         1020/98304    ( 1.0%) 
+brushsides             548/65536        4384/524288   ( 0.8%) 
+planes                 356/65536        7120/1310720  ( 0.5%) 
+vertexes               322/65536        3864/786432   ( 0.5%) 
+nodes                  141/65536        4512/2097152  ( 0.2%) 
+texinfos                45/12288        3240/884736   ( 0.4%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  198/65536       11088/3670016  ( 0.3%) 
+hdr faces              198/65536       11088/3670016  ( 0.3%) 
+origfaces              168/65536        9408/3670016  ( 0.3%) 
+facebrushes             65/0             130/0        ( 0.0%) 
+facebrushlists         198/0             792/0        ( 0.0%) 
+leaves                 144/65536        4608/2097152  ( 0.2%) 
+leaffaces              214/65536         428/131072   ( 0.3%) 
+leafbrushes            113/65536         226/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1620/512000       6480/2048000  ( 0.3%) 
+edges                  944/256000       3776/1024000  ( 0.4%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          8/8192          800/819200   ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             13/32768         130/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           246/65536         492/131072   ( 0.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                15/512          5280/180224   ( 2.9%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         453/16777216 ( 0.0%) 
+entdata               [variable]        6081/393216   ( 1.5%) 
+LDR ambient table      144/65536         576/262144   ( 0.2%) 
+HDR ambient table      144/65536         576/262144   ( 0.2%) 
+LDR leaf ambient       144/65536        4032/1835008  ( 0.2%) 
+HDR leaf ambient        61/65536        1708/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1914     ( 0.1%) 
+pakfile               [variable]      120286/0        ( 0.0%) 
+physics               [variable]       30735/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 552
+Writing d:\sourcemods\desert-parable\maps\mapstanley.bsp
+0 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\sourcemods\Desert-Parable\materials
+Loading d:\sourcemods\desert-parable\maps\mapstanley.vmf
+Material not found!: CARPET/OFFICE_CARPETBORING
+Material not found!: TOOLS/TOOLSNODRAW
+Material not found!: PLASTIC/LOUNGEWALL01
+Material not found!: TILE/TILE_CEILING_001A
+Material not found!: PLASTER/SHEETROCK02
+Material not found!: PLASTIC/OFFICEWALLTHINGIE01A
+Material not found!: PLASTER/SHEETROCK01_NOBUMP
+Material not found!: TOOLS/TOOLSBLACK
+Material not found!: TOOLS/TOOLSPLAYERCLIP
+Could not locate GameData file stanley.fgd
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\sourcemods\desert-parable\maps\mapstanley.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (30735 bytes)
+Error loading studio model "models/props_parable/papers_6.mdl"!
+Error loading studio model "models/props_parable/papers_4.mdl"!
+Error loading studio model "models/props_parable/papers_2_you_never_go_becret.mdl"!
+Error loading studio model "models/props_parable/papers_1.mdl"!
+Error loading studio model "models/props_parable/papers_2_hahaha_this_is_fun.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 63 texinfos to 45
+Reduced 13 texdatas to 13 (309 bytes to 309)
+Writing d:\sourcemods\desert-parable\maps\mapstanley.bsp
+
+nummapplanes:     (   356 / 65536 )
+nummapbrushes:    (    85 /  8192 )
+nummapbrushsides: (   548 / 65536 )
+num_map_overlays: (    15 /   512 )
+nummodels:        (     2 /  1024 )
+num_entities:     (    16 / 16384 )
+
+0 seconds elapsed
+
+
+
+20 threads
+reading d:\sourcemods\desert-parable\maps\mapstanley.bsp
+reading d:\sourcemods\desert-parable\maps\mapstanley.prt
+  28 portalclusters
+  45 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 658
+Average clusters visible: 23
+Building PAS...
+Average clusters audible: 28
+visdatasize:453  compressed from 448
+writing d:\sourcemods\desert-parable\maps\mapstanley.bsp
+0 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\SteamLibrary\steamapps\common\Portal 2\bin\lights.rad.
+Loading d:\sourcemods\desert-parable\maps\mapstanley.bsp
+198 faces
+6310 square feet [908756.25 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+198 patches before subdivision
+198 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4180, max 59
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 85/8192         1020/98304    ( 1.0%) 
+brushsides             548/65536        4384/524288   ( 0.8%) 
+planes                 356/65536        7120/1310720  ( 0.5%) 
+vertexes               322/65536        3864/786432   ( 0.5%) 
+nodes                  141/65536        4512/2097152  ( 0.2%) 
+texinfos                45/12288        3240/884736   ( 0.4%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  198/65536       11088/3670016  ( 0.3%) 
+hdr faces              198/65536       11088/3670016  ( 0.3%) 
+origfaces              168/65536        9408/3670016  ( 0.3%) 
+facebrushes             65/0             130/0        ( 0.0%) 
+facebrushlists         198/0             792/0        ( 0.0%) 
+leaves                 144/65536        4608/2097152  ( 0.2%) 
+leaffaces              214/65536         428/131072   ( 0.3%) 
+leafbrushes            113/65536         226/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1620/512000       6480/2048000  ( 0.3%) 
+edges                  944/256000       3776/1024000  ( 0.4%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          8/8192          800/819200   ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             13/32768         130/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           246/65536         492/131072   ( 0.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                15/512          5280/180224   ( 2.9%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         453/16777216 ( 0.0%) 
+entdata               [variable]        6081/393216   ( 1.5%) 
+LDR ambient table      144/65536         576/262144   ( 0.2%) 
+HDR ambient table      144/65536         576/262144   ( 0.2%) 
+LDR leaf ambient       144/65536        4032/1835008  ( 0.2%) 
+HDR leaf ambient        61/65536        1708/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1914     ( 0.1%) 
+pakfile               [variable]      120286/0        ( 0.0%) 
+physics               [variable]       30735/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 552
+Writing d:\sourcemods\desert-parable\maps\mapstanley.bsp
+0 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\sourcemods\Desert-Parable\materials
+Loading d:\sourcemods\desert-parable\maps\mapstanley.vmf
+Material not found!: CARPET/OFFICE_CARPETBORING
+Material not found!: TOOLS/TOOLSNODRAW
+Material not found!: PLASTIC/LOUNGEWALL01
+Material not found!: TILE/TILE_CEILING_001A
+Material not found!: PLASTER/SHEETROCK02
+Material not found!: PLASTIC/OFFICEWALLTHINGIE01A
+Material not found!: PLASTER/SHEETROCK01_NOBUMP
+Material not found!: TOOLS/TOOLSBLACK
+Material not found!: TOOLS/TOOLSPLAYERCLIP
+Could not locate GameData file stanley.fgd
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\sourcemods\desert-parable\maps\mapstanley.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (30735 bytes)
+Error loading studio model "models/props_parable/papers_6.mdl"!
+Error loading studio model "models/props_parable/papers_4.mdl"!
+Error loading studio model "models/props_parable/papers_2_you_never_go_becret.mdl"!
+Error loading studio model "models/props_parable/papers_1.mdl"!
+Error loading studio model "models/props_parable/papers_2_hahaha_this_is_fun.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 63 texinfos to 45
+Reduced 13 texdatas to 13 (309 bytes to 309)
+Writing d:\sourcemods\desert-parable\maps\mapstanley.bsp
+
+nummapplanes:     (   356 / 65536 )
+nummapbrushes:    (    85 /  8192 )
+nummapbrushsides: (   548 / 65536 )
+num_map_overlays: (    15 /   512 )
+nummodels:        (     2 /  1024 )
+num_entities:     (    16 / 16384 )
+
+0 seconds elapsed
+
+
+
+20 threads
+reading d:\sourcemods\desert-parable\maps\mapstanley.bsp
+reading d:\sourcemods\desert-parable\maps\mapstanley.prt
+  28 portalclusters
+  45 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 658
+Average clusters visible: 23
+Building PAS...
+Average clusters audible: 28
+visdatasize:453  compressed from 448
+writing d:\sourcemods\desert-parable\maps\mapstanley.bsp
+0 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\SteamLibrary\steamapps\common\Portal 2\bin\lights.rad.
+Loading d:\sourcemods\desert-parable\maps\mapstanley.bsp
+198 faces
+6310 square feet [908756.25 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+198 patches before subdivision
+198 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4180, max 59
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 85/8192         1020/98304    ( 1.0%) 
+brushsides             548/65536        4384/524288   ( 0.8%) 
+planes                 356/65536        7120/1310720  ( 0.5%) 
+vertexes               322/65536        3864/786432   ( 0.5%) 
+nodes                  141/65536        4512/2097152  ( 0.2%) 
+texinfos                45/12288        3240/884736   ( 0.4%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  198/65536       11088/3670016  ( 0.3%) 
+hdr faces              198/65536       11088/3670016  ( 0.3%) 
+origfaces              168/65536        9408/3670016  ( 0.3%) 
+facebrushes             65/0             130/0        ( 0.0%) 
+facebrushlists         198/0             792/0        ( 0.0%) 
+leaves                 144/65536        4608/2097152  ( 0.2%) 
+leaffaces              214/65536         428/131072   ( 0.3%) 
+leafbrushes            113/65536         226/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1620/512000       6480/2048000  ( 0.3%) 
+edges                  944/256000       3776/1024000  ( 0.4%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          8/8192          800/819200   ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             13/32768         130/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           246/65536         492/131072   ( 0.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                15/512          5280/180224   ( 2.9%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         453/16777216 ( 0.0%) 
+entdata               [variable]        6081/393216   ( 1.5%) 
+LDR ambient table      144/65536         576/262144   ( 0.2%) 
+HDR ambient table      144/65536         576/262144   ( 0.2%) 
+LDR leaf ambient       144/65536        4032/1835008  ( 0.2%) 
+HDR leaf ambient        61/65536        1708/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1914     ( 0.1%) 
+pakfile               [variable]      120286/0        ( 0.0%) 
+physics               [variable]       30735/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 552
+Writing d:\sourcemods\desert-parable\maps\mapstanley.bsp
+0 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\sourcemods\Desert-Parable\materials
+Loading d:\sourcemods\desert-parable\maps\mapstanley.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK01_NOBUMP, using default
+"materials/Tools/toolsplayerclip.vtf": cached version doesn't exist
+Could not locate GameData file stanley.fgd
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\sourcemods\desert-parable\maps\mapstanley.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (30942 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 63 texinfos to 38
+Reduced 13 texdatas to 13 (309 bytes to 309)
+Writing d:\sourcemods\desert-parable\maps\mapstanley.bsp
+
+nummapplanes:     (   356 / 65536 )
+nummapbrushes:    (    85 /  8192 )
+nummapbrushsides: (   548 / 65536 )
+num_map_overlays: (    15 /   512 )
+nummodels:        (     2 /  1024 )
+num_entities:     (    16 / 16384 )
+
+0 seconds elapsed
+
+
+
+20 threads
+reading d:\sourcemods\desert-parable\maps\mapstanley.bsp
+reading d:\sourcemods\desert-parable\maps\mapstanley.prt
+  28 portalclusters
+  47 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 702
+Average clusters visible: 25
+Building PAS...
+Average clusters audible: 28
+visdatasize:453  compressed from 448
+writing d:\sourcemods\desert-parable\maps\mapstanley.bsp
+0 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\SteamLibrary\steamapps\common\Portal 2\bin\lights.rad.
+Loading d:\sourcemods\desert-parable\maps\mapstanley.bsp
+147 faces
+5349 square feet [770259.19 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+147 patches before subdivision
+1159 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 67395, max 208
+transfer lists:   0.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1304, 1532, 2049)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(550, 655, 884)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(228, 277, 381)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(97, 120, 167)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(41, 52, 74)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(17, 23, 33)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(7, 10, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(3, 4, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 2, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(0, 0, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0001 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 85/8192         1020/98304    ( 1.0%) 
+brushsides             548/65536        4384/524288   ( 0.8%) 
+planes                 356/65536        7120/1310720  ( 0.5%) 
+vertexes               297/65536        3564/786432   ( 0.5%) 
+nodes                  137/65536        4384/2097152  ( 0.2%) 
+texinfos                38/12288        2736/884736   ( 0.3%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  147/65536        8232/3670016  ( 0.2%) 
+hdr faces              147/65536        8232/3670016  ( 0.2%) 
+origfaces              123/65536        6888/3670016  ( 0.2%) 
+facebrushes             73/0             146/0        ( 0.0%) 
+facebrushlists         147/0             588/0        ( 0.0%) 
+leaves                 140/65536        4480/2097152  ( 0.2%) 
+leaffaces              163/65536         326/131072   ( 0.2%) 
+leafbrushes            113/65536         226/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1226/512000       4904/2048000  ( 0.2%) 
+edges                  789/256000       3156/1024000  ( 0.3%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          8/8192          800/819200   ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             11/32768         110/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           216/65536         432/131072   ( 0.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                15/512          5280/180224   ( 2.9%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]       34908/0        ( 0.0%) 
+visdata               [variable]         453/16777216 ( 0.0%) 
+entdata               [variable]        6081/393216   ( 1.5%) 
+LDR ambient table      140/65536         560/262144   ( 0.2%) 
+HDR ambient table      140/65536         560/262144   ( 0.2%) 
+LDR leaf ambient       140/65536        3920/1835008  ( 0.2%) 
+HDR leaf ambient       273/65536        7644/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2926     ( 0.0%) 
+pakfile               [variable]      126428/0        ( 0.0%) 
+physics               [variable]       30942/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 440
+Writing d:\sourcemods\desert-parable\maps\mapstanley.bsp
+0 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\sourcemods\Desert-Parable\materials
+Loading d:\sourcemods\desert-parable\maps\mapstanley.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK01_NOBUMP, using default
+"materials/Tools/toolsplayerclip.vtf": cached version doesn't exist
+Could not locate GameData file stanley.fgd
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\sourcemods\desert-parable\maps\mapstanley.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (30942 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 65 texinfos to 40
+Reduced 13 texdatas to 13 (309 bytes to 309)
+Writing d:\sourcemods\desert-parable\maps\mapstanley.bsp
+
+nummapplanes:     (   356 / 65536 )
+nummapbrushes:    (    85 /  8192 )
+nummapbrushsides: (   548 / 65536 )
+num_map_overlays: (    15 /   512 )
+nummodels:        (     2 /  1024 )
+num_entities:     (    16 / 16384 )
+
+0 seconds elapsed
+
+
+
+20 threads
+reading d:\sourcemods\desert-parable\maps\mapstanley.bsp
+reading d:\sourcemods\desert-parable\maps\mapstanley.prt
+  28 portalclusters
+  47 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 702
+Average clusters visible: 25
+Building PAS...
+Average clusters audible: 28
+visdatasize:453  compressed from 448
+writing d:\sourcemods\desert-parable\maps\mapstanley.bsp
+0 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\SteamLibrary\steamapps\common\Portal 2\bin\lights.rad.
+Loading d:\sourcemods\desert-parable\maps\mapstanley.bsp
+147 faces
+5349 square feet [770259.19 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+147 patches before subdivision
+2115 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 140083, max 242
+transfer lists:   1.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2155, 2640, 3772)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(845, 1054, 1527)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(344, 437, 643)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(144, 186, 277)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(61, 80, 120)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(26, 34, 53)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(11, 15, 23)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(5, 6, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 3, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(0, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0002 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 85/8192         1020/98304    ( 1.0%) 
+brushsides             548/65536        4384/524288   ( 0.8%) 
+planes                 356/65536        7120/1310720  ( 0.5%) 
+vertexes               297/65536        3564/786432   ( 0.5%) 
+nodes                  137/65536        4384/2097152  ( 0.2%) 
+texinfos                40/12288        2880/884736   ( 0.3%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  147/65536        8232/3670016  ( 0.2%) 
+hdr faces              147/65536        8232/3670016  ( 0.2%) 
+origfaces              123/65536        6888/3670016  ( 0.2%) 
+facebrushes             73/0             146/0        ( 0.0%) 
+facebrushlists         147/0             588/0        ( 0.0%) 
+leaves                 140/65536        4480/2097152  ( 0.2%) 
+leaffaces              163/65536         326/131072   ( 0.2%) 
+leafbrushes            113/65536         226/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1226/512000       4904/2048000  ( 0.2%) 
+edges                  789/256000       3156/1024000  ( 0.3%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          8/8192          800/819200   ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             11/32768         110/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           216/65536         432/131072   ( 0.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                15/512          5280/180224   ( 2.9%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]       46660/0        ( 0.0%) 
+visdata               [variable]         453/16777216 ( 0.0%) 
+entdata               [variable]        6081/393216   ( 1.5%) 
+LDR ambient table      140/65536         560/262144   ( 0.2%) 
+HDR ambient table      140/65536         560/262144   ( 0.2%) 
+LDR leaf ambient       140/65536        3920/1835008  ( 0.2%) 
+HDR leaf ambient       274/65536        7672/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2926     ( 0.0%) 
+pakfile               [variable]      126428/0        ( 0.0%) 
+physics               [variable]       30942/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 440
+Writing d:\sourcemods\desert-parable\maps\mapstanley.bsp
+0 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\sourcemods\Desert-Parable\materials
+Loading d:\sourcemods\desert-parable\maps\mapstanley.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK01_NOBUMP, using default
+"materials/Tools/toolsplayerclip.vtf": cached version doesn't exist
+Material not found!: TILE/TILE_CEILING_001A_4X
+Could not locate GameData file stanley.fgd
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\sourcemods\desert-parable\maps\mapstanley.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (51856 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 166 texinfos to 83
+Reduced 25 texdatas to 22 (677 bytes to 598)
+Writing d:\sourcemods\desert-parable\maps\mapstanley.bsp
+
+nummapplanes:     (   496 / 65536 )
+nummapbrushes:    (   144 /  8192 )
+nummapbrushsides: (   911 / 65536 )
+num_map_overlays: (    15 /   512 )
+nummodels:        (     2 /  1024 )
+num_entities:     (    35 / 16384 )
+
+0 seconds elapsed
+
+
+
+20 threads
+reading d:\sourcemods\desert-parable\maps\mapstanley.bsp
+reading d:\sourcemods\desert-parable\maps\mapstanley.prt
+  55 portalclusters
+  93 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 16 visible clusters (0.00%)
+Total clusters visible: 1761
+Average clusters visible: 32
+Building PAS...
+Average clusters audible: 53
+visdatasize:1228  compressed from 880
+writing d:\sourcemods\desert-parable\maps\mapstanley.bsp
+0 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\SteamLibrary\steamapps\common\Portal 2\bin\lights.rad.
+Loading d:\sourcemods\desert-parable\maps\mapstanley.bsp
+258 faces
+9360 square feet [1347863.25 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+258 patches before subdivision
+3126 patches after subdivision
+23 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 197876, max 241
+transfer lists:   1.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(3442, 4273, 6053)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1300, 1690, 2474)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(499, 675, 1021)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(200, 279, 433)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(81, 116, 184)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(33, 49, 79)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(14, 21, 34)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(6, 9, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 4, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 2, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(0, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 0, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0002 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                144/8192         1728/98304    ( 1.8%) 
+brushsides             911/65536        7288/524288   ( 1.4%) 
+planes                 496/65536        9920/1310720  ( 0.8%) 
+vertexes               534/65536        6408/786432   ( 0.8%) 
+nodes                  204/65536        6528/2097152  ( 0.3%) 
+texinfos                83/12288        5976/884736   ( 0.7%) 
+texdata                 22/2048          704/65536    ( 1.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  258/65536       14448/3670016  ( 0.4%) 
+hdr faces              258/65536       14448/3670016  ( 0.4%) 
+origfaces              215/65536       12040/3670016  ( 0.3%) 
+facebrushes             69/0             138/0        ( 0.0%) 
+facebrushlists         258/0            1032/0        ( 0.0%) 
+leaves                 207/65536        6624/2097152  ( 0.3%) 
+leaffaces              320/65536         640/131072   ( 0.5%) 
+leafbrushes            203/65536         406/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             2168/512000       8672/2048000  ( 0.4%) 
+edges                 1457/256000       5828/1024000  ( 0.6%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         23/8192         2300/819200   ( 0.3%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             26/32768         260/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           549/65536        1098/131072   ( 0.8%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                15/512          5280/180224   ( 2.9%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]       74740/0        ( 0.0%) 
+visdata               [variable]        1228/16777216 ( 0.0%) 
+entdata               [variable]       12309/393216   ( 3.1%) 
+LDR ambient table      207/65536         828/262144   ( 0.3%) 
+HDR ambient table      207/65536         828/262144   ( 0.3%) 
+LDR leaf ambient       207/65536        5796/1835008  ( 0.3%) 
+HDR leaf ambient       513/65536       14364/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/6940     ( 0.0%) 
+pakfile               [variable]      328554/0        ( 0.0%) 
+physics               [variable]       51856/4194304  ( 1.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 792
+Writing d:\sourcemods\desert-parable\maps\mapstanley.bsp
+1 second elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\sourcemods\Desert-Parable\materials
+Loading d:\sourcemods\desert-parable\maps\mapstanley.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK01_NOBUMP, using default
+"materials/Tools/toolsplayerclip.vtf": cached version doesn't exist
+Material not found!: TILE/TILE_CEILING_001A_4X
+Could not locate GameData file stanley.fgd
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 116 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\sourcemods\desert-parable\maps\mapstanley.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (126094 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 267 texinfos to 136
+Reduced 41 texdatas to 36 (1244 bytes to 1054)
+Writing d:\sourcemods\desert-parable\maps\mapstanley.bsp
+
+nummapplanes:     (   958 / 65536 )
+nummapbrushes:    (   360 /  8192 )
+nummapbrushsides: (  2348 / 65536 )
+num_map_overlays: (    17 /   512 )
+nummodels:        (     2 /  1024 )
+num_entities:     (    59 / 16384 )
+
+1 second elapsed
+
+
+
+20 threads
+reading d:\sourcemods\desert-parable\maps\mapstanley.bsp
+reading d:\sourcemods\desert-parable\maps\mapstanley.prt
+  93 portalclusters
+ 139 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 33 visible clusters (0.00%)
+Total clusters visible: 2690
+Average clusters visible: 28
+Building PAS...
+Average clusters audible: 61
+visdatasize:2641  compressed from 2976
+writing d:\sourcemods\desert-parable\maps\mapstanley.bsp
+0 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\SteamLibrary\steamapps\common\Portal 2\bin\lights.rad.
+Loading d:\sourcemods\desert-parable\maps\mapstanley.bsp
+629 faces
+23498 square feet [3383804.25 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+629 patches before subdivision
+6181 patches after subdivision
+40 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 404047, max 241
+transfer lists:   3.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(6675, 6914, 7666)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(2645, 2681, 2908)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1032, 1019, 1121)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(420, 405, 454)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(172, 163, 187)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(71, 66, 79)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(30, 27, 33)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(13, 11, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(5, 5, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2, 2, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 0, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0005 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                360/8192         4320/98304    ( 4.4%) 
+brushsides            2348/65536       18784/524288   ( 3.6%) 
+planes                 958/65536       19160/1310720  ( 1.5%) 
+vertexes              1404/65536       16848/786432   ( 2.1%) 
+nodes                  317/65536       10144/2097152  ( 0.5%) 
+texinfos               136/12288        9792/884736   ( 1.1%) 
+texdata                 36/2048         1152/65536    ( 1.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  629/65536       35224/3670016  ( 1.0%) 
+hdr faces              629/65536       35224/3670016  ( 1.0%) 
+origfaces              548/65536       30688/3670016  ( 0.8%) 
+facebrushes            164/0             328/0        ( 0.0%) 
+facebrushlists         629/0            2516/0        ( 0.0%) 
+leaves                 320/65536       10240/2097152  ( 0.5%) 
+leaffaces              736/65536        1472/131072   ( 1.1%) 
+leafbrushes            460/65536         920/131072   ( 0.7%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5427/512000      21708/2048000  ( 1.1%) 
+edges                 3804/256000      15216/1024000  ( 1.5%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         40/8192         4000/819200   ( 0.5%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             72/32768         720/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1542/65536        3084/131072   ( 2.4%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                17/512          5984/180224   ( 3.3%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      223944/0        ( 0.0%) 
+visdata               [variable]        2641/16777216 ( 0.0%) 
+entdata               [variable]       21698/393216   ( 5.5%) 
+LDR ambient table      320/65536        1280/262144   ( 0.5%) 
+HDR ambient table      320/65536        1280/262144   ( 0.5%) 
+LDR leaf ambient       320/65536        8960/1835008  ( 0.5%) 
+HDR leaf ambient       809/65536       22652/1835008  ( 1.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/18082    ( 0.0%) 
+pakfile               [variable]      726460/0        ( 0.0%) 
+physics               [variable]      126094/4194304  ( 3.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 1983
+Writing d:\sourcemods\desert-parable\maps\mapstanley.bsp
+3 seconds elapsed

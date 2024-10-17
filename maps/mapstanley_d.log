@@ -1,0 +1,21 @@
+12:48:37.938 INFO  Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\maps\mapstanley.bsp
+12:48:38.127 INFO  Using 'DStaticPropV6' for sprp version 6
+12:48:38.138 WARN  Lump LUMP_CLIPPORTALVERTS is empty
+12:48:38.144 WARN  Tried reading lump 'LUMP_DISP_MULTIBLEND', but it is not supported by the bsp's version
+12:48:38.156 WARN  Lump LUMP_OVERLAY_SYSTEM_LEVELS is empty
+12:48:38.158 INFO  BSP version: 20
+12:48:38.159 INFO  Game: Half-Life 2: Episode Two
+12:48:38.189 INFO  No areaportals to reallocate...
+12:48:38.196 INFO  Unequal amount of occluder faces and occluder brush faces. Falling back to 'Manual' method
+12:48:38.505 INFO  4577 (53.2%) exact brushside->origface matches
+12:48:38.507 INFO  0/1 (nondisp/disp) original faces left after exact brushside->origface matching
+12:48:38.555 INFO  488 (5.7%) partial brushside->origface matches
+12:48:38.557 INFO  Writing brushes and planes
+12:48:38.741 INFO  Writing displacements
+12:48:38.744 INFO  Writing entities
+12:48:38.761 INFO  Writing func_details
+12:48:38.791 INFO  Writing info_overlays
+12:48:38.795 INFO  Writing prop_statics
+12:48:38.805 INFO  Writing env_cubemaps
+12:48:38.806 INFO  Writing func_ladders
+12:48:38.812 INFO  Finished decompiling C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\maps\mapstanley.bsp.
