@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+    "$basetexture" "models\server_05\server_05_dirty_metal_diffuse"
+    "$bumpmap" "models\server_05\server_05_dirty_normal"
+
+    "$phongexponenttexture" "models\server_05\server_05_dirty_phongexponent"
+    "$phongalbedotint"    "1"
+
+    "$alphatest"        "1"
+    "$translucent"        "1"
+
+    "$phong" "1"
+    "$phongboost"    "19.986979"
+
+    "$phongfresnelranges"    "[0.87 0.9 1]"
+
+    "$ambientocclusion"    "0.7"
+$nocull 1
+}
