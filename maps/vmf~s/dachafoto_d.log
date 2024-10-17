@@ -1,0 +1,2229 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.vmf
+Map revision 37
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (23989 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 171 texinfos to 113
+Reduced 49 texdatas to 35 (1736 bytes to 1204)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+1 second elapsed
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.prt
+ 335 portalclusters
+ 866 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 579 visible clusters (0.00%)
+Total clusters visible: 75760
+Average clusters visible: 226
+Building PAS...
+Average clusters audible: 335
+visdatasize:30576  compressed from 32160
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_branches.vtf
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_leaves.vtf
+2122 faces
+4481510 square feet [645337408.00 square inches]
+6 Displacements
+231 Square Feet [33280.00 Square Inches]
+2122 patches before subdivision
+100444 patches after subdivision
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2109379, max 820
+transfer lists:  16.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(8648, 7468, 4851)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1429, 1062, 469)
+Build Patch/Sample Hash Table(s).....Done<0.1013 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  12/4096          576/196608   ( 0.3%) 
+brushes                 60/32768         720/393216   ( 0.2%) 
+brushsides             377/65536        3016/524288   ( 0.6%) 
+planes                 478/65536        9560/1310720  ( 0.7%) 
+vertexes              2471/65536       29652/786432   ( 3.8%) 
+nodes                  808/65536       25856/2097152  ( 1.2%) 
+texinfos               113/12288        8136/884736   ( 0.9%) 
+texdata                 35/2048         1120/65536    ( 1.7%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts            1734/0           34680/0        ( 0.0%) 
+disp_tris             3072/0            6144/0        ( 0.0%) 
+disp_lmsamples        1260/0            1260/0        ( 0.0%) 
+faces                 2122/65536      118832/3670016  ( 3.2%) 
+hdr faces             2122/65536      118832/3670016  ( 3.2%) 
+origfaces              204/65536       11424/3670016  ( 0.3%) 
+leaves                 821/65536       26272/2097152  ( 1.3%) 
+leaffaces             2243/65536        4486/131072   ( 3.4%) 
+leafbrushes            459/65536         918/131072   ( 0.7%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             9824/512000      39296/2048000  ( 1.9%) 
+edges                 5068/256000      20272/1024000  ( 2.0%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          4/16384         352/1441792  ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             94/131072        940/1310720  ( 0.1%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices          1218/131072       2436/262144   ( 0.9%) 
+cubemapsamples          10/1024          160/16384    ( 1.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     3097188/0        ( 0.0%) 
+visdata               [variable]       30576/16777216 ( 0.2%) 
+entdata               [variable]        7866/393216   ( 2.0%) 
+LDR ambient table      821/65536        3284/262144   ( 1.3%) 
+HDR ambient table      821/65536        3284/262144   ( 1.3%) 
+LDR leaf ambient       821/65536       22988/1835008  ( 1.3%) 
+HDR leaf ambient      3360/65536       94080/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2384     ( 0.0%) 
+pakfile               [variable]     1123907/0        ( 0.0%) 
+physics               [variable]       23989/4194304  ( 0.6%) 
+physics terrain       [variable]         821/1048576  ( 0.1%) 
+
+Level flags = 2
+
+Total triangle count: 4766
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+17 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.vmf
+Map revision 38
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Overlay touching too many faces (touching 690, max 64)
+Overlay decals/bloodstain_002 at 10.5 -1224.8 64.0
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.vmf
+Map revision 40
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (24543 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 175 texinfos to 115
+Reduced 53 texdatas to 40 (1937 bytes to 1458)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+1 second elapsed
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.prt
+ 335 portalclusters
+ 866 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 579 visible clusters (0.00%)
+Total clusters visible: 75760
+Average clusters visible: 226
+Building PAS...
+Average clusters audible: 335
+visdatasize:30576  compressed from 32160
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_branches.vtf
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_leaves.vtf
+2122 faces
+4481510 square feet [645337408.00 square inches]
+6 Displacements
+231 Square Feet [33280.00 Square Inches]
+2122 patches before subdivision
+100444 patches after subdivision
+4 direct lights
+0...1...2...3...4...
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.vmf
+Map revision 41
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (24543 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 175 texinfos to 115
+Reduced 53 texdatas to 40 (1937 bytes to 1458)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+1 second elapsed
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.prt
+ 335 portalclusters
+ 866 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 579 visible clusters (0.00%)
+Total clusters visible: 75760
+Average clusters visible: 226
+Building PAS...
+Average clusters audible: 335
+visdatasize:30576  compressed from 32160
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_branches.vtf
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_leaves.vtf
+2122 faces
+4481510 square feet [645337408.00 square inches]
+6 Displacements
+231 Square Feet [33280.00 Square Inches]
+2122 patches before subdivision
+100444 patches after subdivision
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2109379, max 820
+transfer lists:  16.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(8648, 7468, 4851)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1429, 1062, 469)
+Build Patch/Sample Hash Table(s).....Done<0.0715 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/4096          624/196608   ( 0.3%) 
+brushes                 61/32768         732/393216   ( 0.2%) 
+brushsides             385/65536        3080/524288   ( 0.6%) 
+planes                 492/65536        9840/1310720  ( 0.8%) 
+vertexes              2471/65536       29652/786432   ( 3.8%) 
+nodes                  814/65536       26048/2097152  ( 1.2%) 
+texinfos               115/12288        8280/884736   ( 0.9%) 
+texdata                 40/2048         1280/65536    ( 2.0%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts            1734/0           34680/0        ( 0.0%) 
+disp_tris             3072/0            6144/0        ( 0.0%) 
+disp_lmsamples        1260/0            1260/0        ( 0.0%) 
+faces                 2122/65536      118832/3670016  ( 3.2%) 
+hdr faces             2122/65536      118832/3670016  ( 3.2%) 
+origfaces              204/65536       11424/3670016  ( 0.3%) 
+leaves                 828/65536       26496/2097152  ( 1.3%) 
+leaffaces             2243/65536        4486/131072   ( 3.4%) 
+leafbrushes            460/65536         920/131072   ( 0.7%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             9824/512000      39296/2048000  ( 1.9%) 
+edges                 5068/256000      20272/1024000  ( 2.0%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          4/16384         352/1441792  ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             94/131072        940/1310720  ( 0.1%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices          1218/131072       2436/262144   ( 0.9%) 
+cubemapsamples          11/1024          176/16384    ( 1.1%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     3097188/0        ( 0.0%) 
+visdata               [variable]       30576/16777216 ( 0.2%) 
+entdata               [variable]        8435/393216   ( 2.1%) 
+LDR ambient table      828/65536        3312/262144   ( 1.3%) 
+HDR ambient table      828/65536        3312/262144   ( 1.3%) 
+LDR leaf ambient       828/65536       23184/1835008  ( 1.3%) 
+HDR leaf ambient      3367/65536       94276/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2384     ( 0.0%) 
+pakfile               [variable]     1211697/0        ( 0.0%) 
+physics               [variable]       24543/4194304  ( 0.6%) 
+physics terrain       [variable]         821/1048576  ( 0.1%) 
+
+Level flags = 2
+
+Total triangle count: 4766
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+17 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.vmf
+Map revision 47
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+Patching WVT material: maps/dachafoto_d/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (34856 bytes)
+Error! To use model "models/props_wasteland/plasterwall029g_window01a_bars.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_wasteland/plasterwall029g_window01a_bars.mdl"!
+Error! To use model "models/props_wasteland/woodwall030b_window03a_bars.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_wasteland/woodwall030b_window03a_bars.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 331 texinfos to 203
+Reduced 82 texdatas to 60 (3021 bytes to 2243)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+1 second elapsed
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.prt
+ 285 portalclusters
+ 969 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1004 visible clusters (0.00%)
+Total clusters visible: 71567
+Average clusters visible: 251
+Building PAS...
+Average clusters audible: 260
+visdatasize:22140  compressed from 22800
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_branches.vtf
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_leaves.vtf
+853 faces
+2359889 square feet [339824128.00 square inches]
+12 Displacements
+638910 Square Feet [92003048.00 Square Inches]
+853 patches before subdivision
+14487 patches after subdivision
+7 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 450532, max 269
+transfer lists:   3.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(9954, 7616, 4398)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1873, 1158, 527)
+Build Patch/Sample Hash Table(s).....Done<0.0077 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/4096          624/196608   ( 0.3%) 
+brushes                 91/32768        1092/393216   ( 0.3%) 
+brushsides             570/65536        4560/524288   ( 0.9%) 
+planes                 568/65536       11360/1310720  ( 0.9%) 
+vertexes              1187/65536       14244/786432   ( 1.8%) 
+nodes                  669/65536       21408/2097152  ( 1.0%) 
+texinfos               203/12288       14616/884736   ( 1.7%) 
+texdata                 60/2048         1920/65536    ( 2.9%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples       83880/0           83880/0        ( 0.0%) 
+faces                  853/65536       47768/3670016  ( 1.3%) 
+hdr faces              853/65536       47768/3670016  ( 1.3%) 
+origfaces              327/65536       18312/3670016  ( 0.5%) 
+leaves                 683/65536       21856/2097152  ( 1.0%) 
+leaffaces              968/65536        1936/131072   ( 1.5%) 
+leafbrushes            379/65536         758/131072   ( 0.6%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges             5164/512000      20656/2048000  ( 1.0%) 
+edges                 2839/256000      11356/1024000  ( 1.1%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          7/16384         616/1441792  ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             81/131072        810/1310720  ( 0.1%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices          1143/131072       2286/262144   ( 0.9%) 
+cubemapsamples          12/1024          192/16384    ( 1.2%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      542752/0        ( 0.0%) 
+visdata               [variable]       22140/16777216 ( 0.1%) 
+entdata               [variable]       10215/393216   ( 2.6%) 
+LDR ambient table      683/65536        2732/262144   ( 1.0%) 
+HDR ambient table      683/65536        2732/262144   ( 1.0%) 
+LDR leaf ambient       683/65536       19124/1835008  ( 1.0%) 
+HDR leaf ambient      3065/65536       85820/1835008  ( 4.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4740     ( 0.0%) 
+pakfile               [variable]     1344480/0        ( 0.0%) 
+physics               [variable]       34856/4194304  ( 0.8%) 
+physics terrain       [variable]        1603/1048576  ( 0.2%) 
+
+Level flags = 2
+
+Total triangle count: 2152
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+8 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.vmf
+Map revision 48
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+Patching WVT material: maps/dachafoto_d/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (34305 bytes)
+Error! To use model "models/props_wasteland/plasterwall029g_window01a_bars.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_wasteland/plasterwall029g_window01a_bars.mdl"!
+Error! To use model "models/props_wasteland/woodwall030b_window03a_bars.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_wasteland/woodwall030b_window03a_bars.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 325 texinfos to 203
+Reduced 82 texdatas to 60 (3021 bytes to 2243)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+1 second elapsed
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.prt
+ 285 portalclusters
+ 969 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1004 visible clusters (0.00%)
+Total clusters visible: 71567
+Average clusters visible: 251
+Building PAS...
+Average clusters audible: 260
+visdatasize:22140  compressed from 22800
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_branches.vtf
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_leaves.vtf
+853 faces
+2359889 square feet [339824128.00 square inches]
+12 Displacements
+638910 Square Feet [92003048.00 Square Inches]
+853 patches before subdivision
+14487 patches after subdivision
+7 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 450156, max 269
+transfer lists:   3.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(9912, 7585, 4378)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1864, 1153, 525)
+Build Patch/Sample Hash Table(s).....Done<0.0091 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  12/4096          576/196608   ( 0.3%) 
+brushes                 90/32768        1080/393216   ( 0.3%) 
+brushsides             564/65536        4512/524288   ( 0.9%) 
+planes                 560/65536       11200/1310720  ( 0.9%) 
+vertexes              1179/65536       14148/786432   ( 1.8%) 
+nodes                  663/65536       21216/2097152  ( 1.0%) 
+texinfos               203/12288       14616/884736   ( 1.7%) 
+texdata                 60/2048         1920/65536    ( 2.9%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples       83880/0           83880/0        ( 0.0%) 
+faces                  853/65536       47768/3670016  ( 1.3%) 
+hdr faces              853/65536       47768/3670016  ( 1.3%) 
+origfaces              327/65536       18312/3670016  ( 0.5%) 
+leaves                 676/65536       21632/2097152  ( 1.0%) 
+leaffaces              968/65536        1936/131072   ( 1.5%) 
+leafbrushes            378/65536         756/131072   ( 0.6%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges             5164/512000      20656/2048000  ( 1.0%) 
+edges                 2839/256000      11356/1024000  ( 1.1%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          7/16384         616/1441792  ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             81/131072        810/1310720  ( 0.1%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices          1143/131072       2286/262144   ( 0.9%) 
+cubemapsamples          12/1024          192/16384    ( 1.2%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      542752/0        ( 0.0%) 
+visdata               [variable]       22140/16777216 ( 0.1%) 
+entdata               [variable]        9934/393216   ( 2.5%) 
+LDR ambient table      676/65536        2704/262144   ( 1.0%) 
+HDR ambient table      676/65536        2704/262144   ( 1.0%) 
+LDR leaf ambient       676/65536       18928/1835008  ( 1.0%) 
+HDR leaf ambient      3059/65536       85652/1835008  ( 4.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4740     ( 0.0%) 
+pakfile               [variable]     1344480/0        ( 0.0%) 
+physics               [variable]       34305/4194304  ( 0.8%) 
+physics terrain       [variable]        1603/1048576  ( 0.2%) 
+
+Level flags = 2
+
+Total triangle count: 2152
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+8 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.vmf
+Map revision 52
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+Patching WVT material: maps/dachafoto_d/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (34321 bytes)
+Error! To use model "models/props_wasteland/plasterwall029g_window01a_bars.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_wasteland/plasterwall029g_window01a_bars.mdl"!
+Error! To use model "models/props_wasteland/woodwall030b_window03a_bars.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_wasteland/woodwall030b_window03a_bars.mdl"!
+Error! To use model "models/dinus/tv.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/dinus/tv.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 343 texinfos to 209
+Reduced 88 texdatas to 65 (3288 bytes to 2445)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+2 seconds elapsed
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.prt
+ 285 portalclusters
+ 956 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1125 visible clusters (0.00%)
+Total clusters visible: 69036
+Average clusters visible: 242
+Building PAS...
+Average clusters audible: 253
+visdatasize:21887  compressed from 22800
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_branches.vtf
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_leaves.vtf
+852 faces
+2359816 square feet [339813504.00 square inches]
+12 Displacements
+638910 Square Feet [92003048.00 Square Inches]
+852 patches before subdivision
+14406 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 442631, max 271
+transfer lists:   3.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(9554, 7222, 4119)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1667, 1023, 465)
+Build Patch/Sample Hash Table(s).....Done<0.0095 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  12/4096          576/196608   ( 0.3%) 
+brushes                 92/32768        1104/393216   ( 0.3%) 
+brushsides             577/65536        4616/524288   ( 0.9%) 
+planes                 568/65536       11360/1310720  ( 0.9%) 
+vertexes              1180/65536       14160/786432   ( 1.8%) 
+nodes                  661/65536       21152/2097152  ( 1.0%) 
+texinfos               209/12288       15048/884736   ( 1.7%) 
+texdata                 65/2048         2080/65536    ( 3.2%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples       83880/0           83880/0        ( 0.0%) 
+faces                  852/65536       47712/3670016  ( 1.3%) 
+hdr faces              852/65536       47712/3670016  ( 1.3%) 
+origfaces              328/65536       18368/3670016  ( 0.5%) 
+leaves                 674/65536       21568/2097152  ( 1.0%) 
+leaffaces              980/65536        1960/131072   ( 1.5%) 
+leafbrushes            379/65536         758/131072   ( 0.6%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges             5171/512000      20684/2048000  ( 1.0%) 
+edges                 2843/256000      11372/1024000  ( 1.1%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          8/16384         704/1441792  ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             81/131072        810/1310720  ( 0.1%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices          1137/131072       2274/262144   ( 0.9%) 
+cubemapsamples          14/1024          224/16384    ( 1.4%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      542152/0        ( 0.0%) 
+visdata               [variable]       21887/16777216 ( 0.1%) 
+entdata               [variable]       10252/393216   ( 2.6%) 
+LDR ambient table      674/65536        2696/262144   ( 1.0%) 
+HDR ambient table      674/65536        2696/262144   ( 1.0%) 
+LDR leaf ambient       674/65536       18872/1835008  ( 1.0%) 
+HDR leaf ambient      3100/65536       86800/1835008  ( 4.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5404     ( 0.0%) 
+pakfile               [variable]     1539701/0        ( 0.0%) 
+physics               [variable]       34321/4194304  ( 0.8%) 
+physics terrain       [variable]        1603/1048576  ( 0.2%) 
+
+Level flags = 2
+
+Total triangle count: 2157
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+10 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.vmf
+Map revision 53
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+Patching WVT material: maps/dachafoto_d/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (34878 bytes)
+Error! To use model "models/props_wasteland/plasterwall029g_window01a_bars.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_wasteland/plasterwall029g_window01a_bars.mdl"!
+Error! To use model "models/props_wasteland/woodwall030b_window03a_bars.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_wasteland/woodwall030b_window03a_bars.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 351 texinfos to 213
+Reduced 90 texdatas to 66 (3362 bytes to 2465)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+1 second elapsed
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.prt
+ 287 portalclusters
+ 978 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 983 visible clusters (0.00%)
+Total clusters visible: 72122
+Average clusters visible: 251
+Building PAS...
+Average clusters audible: 260
+visdatasize:22230  compressed from 22960
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_branches.vtf
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_leaves.vtf
+859 faces
+2374123 square feet [341873792.00 square inches]
+12 Displacements
+638910 Square Feet [92003048.00 Square Inches]
+859 patches before subdivision
+14495 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 447404, max 269
+transfer lists:   3.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(9887, 7398, 4204)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1750, 1060, 479)
+Build Patch/Sample Hash Table(s).....Done<0.0089 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/4096          624/196608   ( 0.3%) 
+brushes                 93/32768        1116/393216   ( 0.3%) 
+brushsides             582/65536        4656/524288   ( 0.9%) 
+planes                 576/65536       11520/1310720  ( 0.9%) 
+vertexes              1197/65536       14364/786432   ( 1.8%) 
+nodes                  669/65536       21408/2097152  ( 1.0%) 
+texinfos               213/12288       15336/884736   ( 1.7%) 
+texdata                 66/2048         2112/65536    ( 3.2%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples       83880/0           83880/0        ( 0.0%) 
+faces                  859/65536       48104/3670016  ( 1.3%) 
+hdr faces              859/65536       48104/3670016  ( 1.3%) 
+origfaces              333/65536       18648/3670016  ( 0.5%) 
+leaves                 683/65536       21856/2097152  ( 1.0%) 
+leaffaces              978/65536        1956/131072   ( 1.5%) 
+leafbrushes            375/65536         750/131072   ( 0.6%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges             5215/512000      20860/2048000  ( 1.0%) 
+edges                 2865/256000      11460/1024000  ( 1.1%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          8/16384         704/1441792  ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             80/131072        800/1310720  ( 0.1%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices          1131/131072       2262/262144   ( 0.9%) 
+cubemapsamples          14/1024          224/16384    ( 1.4%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      542408/0        ( 0.0%) 
+visdata               [variable]       22230/16777216 ( 0.1%) 
+entdata               [variable]       11228/393216   ( 2.9%) 
+LDR ambient table      683/65536        2732/262144   ( 1.0%) 
+HDR ambient table      683/65536        2732/262144   ( 1.0%) 
+LDR leaf ambient       683/65536       19124/1835008  ( 1.0%) 
+HDR leaf ambient      3118/65536       87304/1835008  ( 4.8%) 
+occluders                1/0              40/0        ( 0.0%) 
+occluder polygons        6/0              72/0        ( 0.0%) 
+occluder vert ind       24/0              96/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5392     ( 0.0%) 
+pakfile               [variable]     1540046/0        ( 0.0%) 
+physics               [variable]       34878/4194304  ( 0.8%) 
+physics terrain       [variable]        1603/1048576  ( 0.2%) 
+
+Level flags = 2
+
+Total triangle count: 2167
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+9 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.vmf
+Map revision 54
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+Patching WVT material: maps/dachafoto_d/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (32646 bytes)
+Error! To use model "models/props_wasteland/plasterwall029g_window01a_bars.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_wasteland/plasterwall029g_window01a_bars.mdl"!
+Error! To use model "models/props_wasteland/woodwall030b_window03a_bars.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_wasteland/woodwall030b_window03a_bars.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 341 texinfos to 202
+Reduced 90 texdatas to 66 (3362 bytes to 2465)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+1 second elapsed
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.prt
+ 287 portalclusters
+ 978 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 983 visible clusters (0.00%)
+Total clusters visible: 72122
+Average clusters visible: 251
+Building PAS...
+Average clusters audible: 260
+visdatasize:22230  compressed from 22960
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_branches.vtf
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_leaves.vtf
+835 faces
+1497254 square feet [215604704.00 square inches]
+12 Displacements
+638910 Square Feet [92003048.00 Square Inches]
+835 patches before subdivision
+14471 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 446018, max 269
+transfer lists:   3.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(9873, 7385, 4197)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1748, 1058, 478)
+Build Patch/Sample Hash Table(s).....Done<0.0126 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/4096          432/196608   ( 0.2%) 
+brushes                 89/32768        1068/393216   ( 0.3%) 
+brushsides             558/65536        4464/524288   ( 0.9%) 
+planes                 534/65536       10680/1310720  ( 0.8%) 
+vertexes              1165/65536       13980/786432   ( 1.8%) 
+nodes                  645/65536       20640/2097152  ( 1.0%) 
+texinfos               202/12288       14544/884736   ( 1.6%) 
+texdata                 66/2048         2112/65536    ( 3.2%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples       83880/0           83880/0        ( 0.0%) 
+faces                  835/65536       46760/3670016  ( 1.3%) 
+hdr faces              835/65536       46760/3670016  ( 1.3%) 
+origfaces              309/65536       17304/3670016  ( 0.5%) 
+leaves                 655/65536       20960/2097152  ( 1.0%) 
+leaffaces              954/65536        1908/131072   ( 1.5%) 
+leafbrushes            371/65536         742/131072   ( 0.6%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges             5023/512000      20092/2048000  ( 1.0%) 
+edges                 2769/256000      11076/1024000  ( 1.1%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          8/16384         704/1441792  ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             80/131072        800/1310720  ( 0.1%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices          1131/131072       2262/262144   ( 0.9%) 
+cubemapsamples          14/1024          224/16384    ( 1.4%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      542408/0        ( 0.0%) 
+visdata               [variable]       22230/16777216 ( 0.1%) 
+entdata               [variable]       10701/393216   ( 2.7%) 
+LDR ambient table      655/65536        2620/262144   ( 1.0%) 
+HDR ambient table      655/65536        2620/262144   ( 1.0%) 
+LDR leaf ambient       655/65536       18340/1835008  ( 1.0%) 
+HDR leaf ambient      2885/65536       80780/1835008  ( 4.4%) 
+occluders                1/0              40/0        ( 0.0%) 
+occluder polygons        6/0              72/0        ( 0.0%) 
+occluder vert ind       24/0              96/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5392     ( 0.0%) 
+pakfile               [variable]     1540046/0        ( 0.0%) 
+physics               [variable]       32646/4194304  ( 0.8%) 
+physics terrain       [variable]        1603/1048576  ( 0.2%) 
+
+Level flags = 2
+
+Total triangle count: 2119
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+8 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.vmf
+Map revision 55
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+Patching WVT material: maps/dachafoto_d/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (33198 bytes)
+Error! To use model "models/props_wasteland/plasterwall029g_window01a_bars.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_wasteland/plasterwall029g_window01a_bars.mdl"!
+Error! To use model "models/props_wasteland/woodwall030b_window03a_bars.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_wasteland/woodwall030b_window03a_bars.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 346 texinfos to 205
+Reduced 90 texdatas to 66 (3362 bytes to 2465)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+1 second elapsed
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.prt
+ 287 portalclusters
+ 978 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 983 visible clusters (0.00%)
+Total clusters visible: 72122
+Average clusters visible: 251
+Building PAS...
+Average clusters audible: 260
+visdatasize:22230  compressed from 22960
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_branches.vtf
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_leaves.vtf
+841 faces
+1497330 square feet [215615648.00 square inches]
+12 Displacements
+638910 Square Feet [92003048.00 Square Inches]
+841 patches before subdivision
+14477 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 446682, max 269
+transfer lists:   3.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(9982, 7465, 4243)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1768, 1070, 483)
+Build Patch/Sample Hash Table(s).....Done<0.0103 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  10/4096          480/196608   ( 0.2%) 
+brushes                 90/32768        1080/393216   ( 0.3%) 
+brushsides             564/65536        4512/524288   ( 0.9%) 
+planes                 548/65536       10960/1310720  ( 0.8%) 
+vertexes              1173/65536       14076/786432   ( 1.8%) 
+nodes                  651/65536       20832/2097152  ( 1.0%) 
+texinfos               205/12288       14760/884736   ( 1.7%) 
+texdata                 66/2048         2112/65536    ( 3.2%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples       83880/0           83880/0        ( 0.0%) 
+faces                  841/65536       47096/3670016  ( 1.3%) 
+hdr faces              841/65536       47096/3670016  ( 1.3%) 
+origfaces              315/65536       17640/3670016  ( 0.5%) 
+leaves                 662/65536       21184/2097152  ( 1.0%) 
+leaffaces              960/65536        1920/131072   ( 1.5%) 
+leafbrushes            372/65536         744/131072   ( 0.6%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges             5071/512000      20284/2048000  ( 1.0%) 
+edges                 2793/256000      11172/1024000  ( 1.1%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          8/16384         704/1441792  ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             80/131072        800/1310720  ( 0.1%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices          1131/131072       2262/262144   ( 0.9%) 
+cubemapsamples          14/1024          224/16384    ( 1.4%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      542408/0        ( 0.0%) 
+visdata               [variable]       22230/16777216 ( 0.1%) 
+entdata               [variable]       11304/393216   ( 2.9%) 
+LDR ambient table      662/65536        2648/262144   ( 1.0%) 
+HDR ambient table      662/65536        2648/262144   ( 1.0%) 
+LDR leaf ambient       662/65536       18536/1835008  ( 1.0%) 
+HDR leaf ambient      2891/65536       80948/1835008  ( 4.4%) 
+occluders                1/0              40/0        ( 0.0%) 
+occluder polygons        6/0              72/0        ( 0.0%) 
+occluder vert ind       24/0              96/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5392     ( 0.0%) 
+pakfile               [variable]     1540046/0        ( 0.0%) 
+physics               [variable]       33198/4194304  ( 0.8%) 
+physics terrain       [variable]        1603/1048576  ( 0.2%) 
+
+Level flags = 2
+
+Total triangle count: 2131
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+8 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.vmf
+Map revision 57
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+Patching WVT material: maps/dachafoto_d/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (33198 bytes)
+Error! To use model "models/props_wasteland/plasterwall029g_window01a_bars.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_wasteland/plasterwall029g_window01a_bars.mdl"!
+Error! To use model "models/props_wasteland/woodwall030b_window03a_bars.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_wasteland/woodwall030b_window03a_bars.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 346 texinfos to 205
+Reduced 90 texdatas to 66 (3362 bytes to 2465)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+1 second elapsed
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.prt
+ 287 portalclusters
+ 978 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 247 visible clusters (0.00%)
+Total clusters visible: 62660
+Average clusters visible: 218
+Building PAS...
+Average clusters audible: 260
+visdatasize:22174  compressed from 22960
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+52 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_branches.vtf
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_leaves.vtf
+841 faces
+1497330 square feet [215615648.00 square inches]
+12 Displacements
+638910 Square Feet [92003048.00 Square Inches]
+841 patches before subdivision
+14477 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 446621, max 269
+transfer lists:   3.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(9507, 7128, 4086)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1689, 1024, 467)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(354, 183, 67)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(85, 40, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(23, 10, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(7, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0082 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  10/4096          480/196608   ( 0.2%) 
+brushes                 90/32768        1080/393216   ( 0.3%) 
+brushsides             564/65536        4512/524288   ( 0.9%) 
+planes                 548/65536       10960/1310720  ( 0.8%) 
+vertexes              1173/65536       14076/786432   ( 1.8%) 
+nodes                  651/65536       20832/2097152  ( 1.0%) 
+texinfos               205/12288       14760/884736   ( 1.7%) 
+texdata                 66/2048         2112/65536    ( 3.2%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples       83880/0           83880/0        ( 0.0%) 
+faces                  841/65536       47096/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              315/65536       17640/3670016  ( 0.5%) 
+leaves                 662/65536       21184/2097152  ( 1.0%) 
+leaffaces              960/65536        1920/131072   ( 1.5%) 
+leafbrushes            372/65536         744/131072   ( 0.6%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges             5071/512000      20284/2048000  ( 1.0%) 
+edges                 2793/256000      11172/1024000  ( 1.1%) 
+LDR worldlights          8/16384         704/1441792  ( 0.0%) 
+HDR worldlights          0/16384           0/1441792  ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             80/131072        800/1310720  ( 0.1%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices          1131/131072       2262/262144   ( 0.9%) 
+cubemapsamples          14/1024          224/16384    ( 1.4%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]      542408/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       22174/16777216 ( 0.1%) 
+entdata               [variable]       11357/393216   ( 2.9%) 
+LDR ambient table      662/65536        2648/262144   ( 1.0%) 
+HDR ambient table      662/65536        2648/262144   ( 1.0%) 
+LDR leaf ambient      2890/65536       80920/1835008  ( 4.4%) 
+HDR leaf ambient       662/65536       18536/1835008  ( 1.0%) 
+occluders                1/0              40/0        ( 0.0%) 
+occluder polygons        6/0              72/0        ( 0.0%) 
+occluder vert ind       24/0              96/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5392     ( 0.0%) 
+pakfile               [variable]     1539814/0        ( 0.0%) 
+physics               [variable]       33198/4194304  ( 0.8%) 
+physics terrain       [variable]        1603/1048576  ( 0.2%) 
+
+Level flags = 1
+
+Total triangle count: 2131
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+31 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_branches.vtf
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_leaves.vtf
+841 faces
+1497330 square feet [215615648.00 square inches]
+12 Displacements
+638910 Square Feet [92003048.00 Square Inches]
+841 patches before subdivision
+14477 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 446621, max 269
+transfer lists:   3.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(9507, 7128, 4086)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1689, 1024, 467)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(354, 183, 67)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(85, 40, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(23, 10, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(7, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0077 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  10/4096          480/196608   ( 0.2%) 
+brushes                 90/32768        1080/393216   ( 0.3%) 
+brushsides             564/65536        4512/524288   ( 0.9%) 
+planes                 548/65536       10960/1310720  ( 0.8%) 
+vertexes              1173/65536       14076/786432   ( 1.8%) 
+nodes                  651/65536       20832/2097152  ( 1.0%) 
+texinfos               205/12288       14760/884736   ( 1.7%) 
+texdata                 66/2048         2112/65536    ( 3.2%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples       83880/0           83880/0        ( 0.0%) 
+faces                  841/65536       47096/3670016  ( 1.3%) 
+hdr faces              841/65536       47096/3670016  ( 1.3%) 
+origfaces              315/65536       17640/3670016  ( 0.5%) 
+leaves                 662/65536       21184/2097152  ( 1.0%) 
+leaffaces              960/65536        1920/131072   ( 1.5%) 
+leafbrushes            372/65536         744/131072   ( 0.6%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges             5071/512000      20284/2048000  ( 1.0%) 
+edges                 2793/256000      11172/1024000  ( 1.1%) 
+LDR worldlights          8/16384         704/1441792  ( 0.0%) 
+HDR worldlights          8/16384         704/1441792  ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             80/131072        800/1310720  ( 0.1%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices          1131/131072       2262/262144   ( 0.9%) 
+cubemapsamples          14/1024          224/16384    ( 1.4%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]      542408/0        ( 0.0%) 
+HDR lightdata         [variable]      542408/0        ( 0.0%) 
+visdata               [variable]       22174/16777216 ( 0.1%) 
+entdata               [variable]       11357/393216   ( 2.9%) 
+LDR ambient table      662/65536        2648/262144   ( 1.0%) 
+HDR ambient table      662/65536        2648/262144   ( 1.0%) 
+LDR leaf ambient      2890/65536       80920/1835008  ( 4.4%) 
+HDR leaf ambient      2890/65536       80920/1835008  ( 4.4%) 
+occluders                1/0              40/0        ( 0.0%) 
+occluder polygons        6/0              72/0        ( 0.0%) 
+occluder vert ind       24/0              96/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5392     ( 0.0%) 
+pakfile               [variable]     1764960/0        ( 0.0%) 
+physics               [variable]       33198/4194304  ( 0.8%) 
+physics terrain       [variable]        1603/1048576  ( 0.2%) 
+
+Level flags = 3
+
+Total triangle count: 2131
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+30 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.vmf
+Map revision 58
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+Patching WVT material: maps/dachafoto_d/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (32563 bytes)
+Error! To use model "models/props_wasteland/plasterwall029g_window01a_bars.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_wasteland/plasterwall029g_window01a_bars.mdl"!
+Error! To use model "models/props_wasteland/woodwall030b_window03a_bars.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_wasteland/woodwall030b_window03a_bars.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 341 texinfos to 203
+Reduced 85 texdatas to 64 (3161 bytes to 2397)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+1 second elapsed
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.prt
+ 274 portalclusters
+ 913 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 651 visible clusters (0.00%)
+Total clusters visible: 65921
+Average clusters visible: 240
+Building PAS...
+Average clusters audible: 247
+visdatasize:20709  compressed from 21920
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_branches.vtf
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_leaves.vtf
+824 faces
+1404848 square feet [202298112.00 square inches]
+12 Displacements
+638910 Square Feet [92003048.00 Square Inches]
+824 patches before subdivision
+14536 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 444265, max 262
+transfer lists:   3.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(9967, 7462, 4243)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1758, 1065, 481)
+Build Patch/Sample Hash Table(s).....Done<0.0086 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  10/4096          480/196608   ( 0.2%) 
+brushes                 89/32768        1068/393216   ( 0.3%) 
+brushsides             548/65536        4384/524288   ( 0.8%) 
+planes                 516/65536       10320/1310720  ( 0.8%) 
+vertexes              1143/65536       13716/786432   ( 1.7%) 
+nodes                  633/65536       20256/2097152  ( 1.0%) 
+texinfos               203/12288       14616/884736   ( 1.7%) 
+texdata                 64/2048         2048/65536    ( 3.1%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples       83880/0           83880/0        ( 0.0%) 
+faces                  824/65536       46144/3670016  ( 1.3%) 
+hdr faces              824/65536       46144/3670016  ( 1.3%) 
+origfaces              313/65536       17528/3670016  ( 0.5%) 
+leaves                 644/65536       20608/2097152  ( 1.0%) 
+leaffaces              939/65536        1878/131072   ( 1.4%) 
+leafbrushes            364/65536         728/131072   ( 0.6%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges             4981/512000      19924/2048000  ( 1.0%) 
+edges                 2744/256000      10976/1024000  ( 1.1%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          8/16384         704/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             77/131072        770/1310720  ( 0.1%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices          1095/131072       2190/262144   ( 0.8%) 
+cubemapsamples          14/1024          224/16384    ( 1.4%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      538904/0        ( 0.0%) 
+visdata               [variable]       20709/16777216 ( 0.1%) 
+entdata               [variable]       10655/393216   ( 2.7%) 
+LDR ambient table      644/65536        2576/262144   ( 1.0%) 
+HDR ambient table      644/65536        2576/262144   ( 1.0%) 
+LDR leaf ambient       644/65536       18032/1835008  ( 1.0%) 
+HDR leaf ambient      2806/65536       78568/1835008  ( 4.3%) 
+occluders                1/0              40/0        ( 0.0%) 
+occluder polygons        6/0              72/0        ( 0.0%) 
+occluder vert ind       24/0              96/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5378     ( 0.0%) 
+pakfile               [variable]     1538980/0        ( 0.0%) 
+physics               [variable]       32563/4194304  ( 0.8%) 
+physics terrain       [variable]        1603/1048576  ( 0.2%) 
+
+Level flags = 2
+
+Total triangle count: 2083
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+8 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.vmf
+Map revision 58
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+Patching WVT material: maps/dachafoto_d/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (32563 bytes)
+Error! To use model "models/props_wasteland/plasterwall029g_window01a_bars.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_wasteland/plasterwall029g_window01a_bars.mdl"!
+Error! To use model "models/props_wasteland/woodwall030b_window03a_bars.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_wasteland/woodwall030b_window03a_bars.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 341 texinfos to 203
+Reduced 85 texdatas to 64 (3161 bytes to 2397)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+1 second elapsed
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.prt
+ 274 portalclusters
+ 913 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 215 visible clusters (0.00%)
+Total clusters visible: 58711
+Average clusters visible: 214
+Building PAS...
+Average clusters audible: 247
+visdatasize:20643  compressed from 21920
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+18 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_branches.vtf
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_leaves.vtf
+824 faces
+1404848 square feet [202298112.00 square inches]
+12 Displacements
+638910 Square Feet [92003048.00 Square Inches]
+824 patches before subdivision
+14536 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 444238, max 262
+transfer lists:   3.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(9496, 7128, 4087)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1682, 1020, 465)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(353, 182, 67)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(85, 40, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(23, 10, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(7, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0084 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  10/4096          480/196608   ( 0.2%) 
+brushes                 89/32768        1068/393216   ( 0.3%) 
+brushsides             548/65536        4384/524288   ( 0.8%) 
+planes                 516/65536       10320/1310720  ( 0.8%) 
+vertexes              1143/65536       13716/786432   ( 1.7%) 
+nodes                  633/65536       20256/2097152  ( 1.0%) 
+texinfos               203/12288       14616/884736   ( 1.7%) 
+texdata                 64/2048         2048/65536    ( 3.1%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples       83880/0           83880/0        ( 0.0%) 
+faces                  824/65536       46144/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              313/65536       17528/3670016  ( 0.5%) 
+leaves                 644/65536       20608/2097152  ( 1.0%) 
+leaffaces              939/65536        1878/131072   ( 1.4%) 
+leafbrushes            364/65536         728/131072   ( 0.6%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges             4981/512000      19924/2048000  ( 1.0%) 
+edges                 2744/256000      10976/1024000  ( 1.1%) 
+LDR worldlights          8/16384         704/1441792  ( 0.0%) 
+HDR worldlights          0/16384           0/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             77/131072        770/1310720  ( 0.1%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices          1095/131072       2190/262144   ( 0.8%) 
+cubemapsamples          14/1024          224/16384    ( 1.4%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]      538904/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       20643/16777216 ( 0.1%) 
+entdata               [variable]       10655/393216   ( 2.7%) 
+LDR ambient table      644/65536        2576/262144   ( 1.0%) 
+HDR ambient table      644/65536        2576/262144   ( 1.0%) 
+LDR leaf ambient      2810/65536       78680/1835008  ( 4.3%) 
+HDR leaf ambient       644/65536       18032/1835008  ( 1.0%) 
+occluders                1/0              40/0        ( 0.0%) 
+occluder polygons        6/0              72/0        ( 0.0%) 
+occluder vert ind       24/0              96/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5378     ( 0.0%) 
+pakfile               [variable]     1538748/0        ( 0.0%) 
+physics               [variable]       32563/4194304  ( 0.8%) 
+physics terrain       [variable]        1603/1048576  ( 0.2%) 
+
+Level flags = 1
+
+Total triangle count: 2083
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+30 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_branches.vtf
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_leaves.vtf
+824 faces
+1404848 square feet [202298112.00 square inches]
+12 Displacements
+638910 Square Feet [92003048.00 Square Inches]
+824 patches before subdivision
+14536 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 444238, max 262
+transfer lists:   3.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(9496, 7128, 4087)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1682, 1020, 465)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(353, 182, 67)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(85, 40, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(23, 10, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(7, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0088 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  10/4096          480/196608   ( 0.2%) 
+brushes                 89/32768        1068/393216   ( 0.3%) 
+brushsides             548/65536        4384/524288   ( 0.8%) 
+planes                 516/65536       10320/1310720  ( 0.8%) 
+vertexes              1143/65536       13716/786432   ( 1.7%) 
+nodes                  633/65536       20256/2097152  ( 1.0%) 
+texinfos               203/12288       14616/884736   ( 1.7%) 
+texdata                 64/2048         2048/65536    ( 3.1%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples       83880/0           83880/0        ( 0.0%) 
+faces                  824/65536       46144/3670016  ( 1.3%) 
+hdr faces              824/65536       46144/3670016  ( 1.3%) 
+origfaces              313/65536       17528/3670016  ( 0.5%) 
+leaves                 644/65536       20608/2097152  ( 1.0%) 
+leaffaces              939/65536        1878/131072   ( 1.4%) 
+leafbrushes            364/65536         728/131072   ( 0.6%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges             4981/512000      19924/2048000  ( 1.0%) 
+edges                 2744/256000      10976/1024000  ( 1.1%) 
+LDR worldlights          8/16384         704/1441792  ( 0.0%) 
+HDR worldlights          8/16384         704/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             77/131072        770/1310720  ( 0.1%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices          1095/131072       2190/262144   ( 0.8%) 
+cubemapsamples          14/1024          224/16384    ( 1.4%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]      538904/0        ( 0.0%) 
+HDR lightdata         [variable]      538904/0        ( 0.0%) 
+visdata               [variable]       20643/16777216 ( 0.1%) 
+entdata               [variable]       10655/393216   ( 2.7%) 
+LDR ambient table      644/65536        2576/262144   ( 1.0%) 
+HDR ambient table      644/65536        2576/262144   ( 1.0%) 
+LDR leaf ambient      2810/65536       78680/1835008  ( 4.3%) 
+HDR leaf ambient      2810/65536       78680/1835008  ( 4.3%) 
+occluders                1/0              40/0        ( 0.0%) 
+occluder polygons        6/0              72/0        ( 0.0%) 
+occluder vert ind       24/0              96/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5378     ( 0.0%) 
+pakfile               [variable]     1763894/0        ( 0.0%) 
+physics               [variable]       32563/4194304  ( 0.8%) 
+physics terrain       [variable]        1603/1048576  ( 0.2%) 
+
+Level flags = 3
+
+Total triangle count: 2083
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+29 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.vmf
+Map revision 59
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+Patching WVT material: maps/dachafoto_d/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (32563 bytes)
+Error! To use model "models/props_wasteland/plasterwall029g_window01a_bars.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_wasteland/plasterwall029g_window01a_bars.mdl"!
+Error! To use model "models/props_wasteland/woodwall030b_window03a_bars.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_wasteland/woodwall030b_window03a_bars.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 341 texinfos to 203
+Reduced 85 texdatas to 64 (3161 bytes to 2397)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.prt
+ 274 portalclusters
+ 913 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 651 visible clusters (0.00%)
+Total clusters visible: 65921
+Average clusters visible: 240
+Building PAS...
+Average clusters audible: 247
+visdatasize:20709  compressed from 21920
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_branches.vtf
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_leaves.vtf
+824 faces
+1404848 square feet [202298112.00 square inches]
+12 Displacements
+638910 Square Feet [92003048.00 Square Inches]
+824 patches before subdivision
+14536 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 444759, max 262
+transfer lists:   3.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(9966, 7462, 4243)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1758, 1064, 481)
+Build Patch/Sample Hash Table(s).....Done<0.0103 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  10/4096          480/196608   ( 0.2%) 
+brushes                 89/32768        1068/393216   ( 0.3%) 
+brushsides             548/65536        4384/524288   ( 0.8%) 
+planes                 516/65536       10320/1310720  ( 0.8%) 
+vertexes              1143/65536       13716/786432   ( 1.7%) 
+nodes                  633/65536       20256/2097152  ( 1.0%) 
+texinfos               203/12288       14616/884736   ( 1.7%) 
+texdata                 64/2048         2048/65536    ( 3.1%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples       83880/0           83880/0        ( 0.0%) 
+faces                  824/65536       46144/3670016  ( 1.3%) 
+hdr faces              824/65536       46144/3670016  ( 1.3%) 
+origfaces              313/65536       17528/3670016  ( 0.5%) 
+leaves                 644/65536       20608/2097152  ( 1.0%) 
+leaffaces              939/65536        1878/131072   ( 1.4%) 
+leafbrushes            364/65536         728/131072   ( 0.6%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges             4981/512000      19924/2048000  ( 1.0%) 
+edges                 2744/256000      10976/1024000  ( 1.1%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          8/16384         704/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             77/131072        770/1310720  ( 0.1%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices          1095/131072       2190/262144   ( 0.8%) 
+cubemapsamples          14/1024          224/16384    ( 1.4%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      538904/0        ( 0.0%) 
+visdata               [variable]       20709/16777216 ( 0.1%) 
+entdata               [variable]       10655/393216   ( 2.7%) 
+LDR ambient table      644/65536        2576/262144   ( 1.0%) 
+HDR ambient table      644/65536        2576/262144   ( 1.0%) 
+LDR leaf ambient       644/65536       18032/1835008  ( 1.0%) 
+HDR leaf ambient      2795/65536       78260/1835008  ( 4.3%) 
+occluders                1/0              40/0        ( 0.0%) 
+occluder polygons        6/0              72/0        ( 0.0%) 
+occluder vert ind       24/0              96/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5378     ( 0.0%) 
+pakfile               [variable]     1538980/0        ( 0.0%) 
+physics               [variable]       32563/4194304  ( 0.8%) 
+physics terrain       [variable]        1603/1048576  ( 0.2%) 
+
+Level flags = 2
+
+Total triangle count: 2083
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+10 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.vmf
+Map revision 60
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+Patching WVT material: maps/dachafoto_d/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (32010 bytes)
+Error! To use model "models/props_wasteland/plasterwall029g_window01a_bars.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_wasteland/plasterwall029g_window01a_bars.mdl"!
+Error! To use model "models/props_wasteland/woodwall030b_window03a_bars.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_wasteland/woodwall030b_window03a_bars.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 338 texinfos to 200
+Reduced 85 texdatas to 64 (3161 bytes to 2397)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.prt
+ 274 portalclusters
+ 913 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 215 visible clusters (0.00%)
+Total clusters visible: 58711
+Average clusters visible: 214
+Building PAS...
+Average clusters audible: 247
+visdatasize:20643  compressed from 21920
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+16 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_branches.vtf
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_leaves.vtf
+818 faces
+1404667 square feet [202272096.00 square inches]
+12 Displacements
+638910 Square Feet [92003048.00 Square Inches]
+818 patches before subdivision
+14530 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 443395, max 262
+transfer lists:   3.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(9398, 7055, 4044)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1667, 1011, 461)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(350, 181, 66)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(84, 39, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(22, 10, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(7, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0084 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/4096          432/196608   ( 0.2%) 
+brushes                 88/32768        1056/393216   ( 0.3%) 
+brushsides             542/65536        4336/524288   ( 0.8%) 
+planes                 504/65536       10080/1310720  ( 0.8%) 
+vertexes              1135/65536       13620/786432   ( 1.7%) 
+nodes                  627/65536       20064/2097152  ( 1.0%) 
+texinfos               200/12288       14400/884736   ( 1.6%) 
+texdata                 64/2048         2048/65536    ( 3.1%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples       83880/0           83880/0        ( 0.0%) 
+faces                  818/65536       45808/3670016  ( 1.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              307/65536       17192/3670016  ( 0.5%) 
+leaves                 637/65536       20384/2097152  ( 1.0%) 
+leaffaces              933/65536        1866/131072   ( 1.4%) 
+leafbrushes            363/65536         726/131072   ( 0.6%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges             4933/512000      19732/2048000  ( 1.0%) 
+edges                 2720/256000      10880/1024000  ( 1.1%) 
+LDR worldlights          8/16384         704/1441792  ( 0.0%) 
+HDR worldlights          0/16384           0/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             77/131072        770/1310720  ( 0.1%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices          1095/131072       2190/262144   ( 0.8%) 
+cubemapsamples          14/1024          224/16384    ( 1.4%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]      538904/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       20643/16777216 ( 0.1%) 
+entdata               [variable]       10414/393216   ( 2.6%) 
+LDR ambient table      637/65536        2548/262144   ( 1.0%) 
+HDR ambient table      637/65536        2548/262144   ( 1.0%) 
+LDR leaf ambient      2788/65536       78064/1835008  ( 4.3%) 
+HDR leaf ambient       637/65536       17836/1835008  ( 1.0%) 
+occluders                1/0              40/0        ( 0.0%) 
+occluder polygons        6/0              72/0        ( 0.0%) 
+occluder vert ind       24/0              96/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5378     ( 0.0%) 
+pakfile               [variable]     1538748/0        ( 0.0%) 
+physics               [variable]       32010/4194304  ( 0.8%) 
+physics terrain       [variable]        1603/1048576  ( 0.2%) 
+
+Level flags = 1
+
+Total triangle count: 2071
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+30 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_branches.vtf
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_leaves.vtf
+818 faces
+1404667 square feet [202272096.00 square inches]
+12 Displacements
+638910 Square Feet [92003048.00 Square Inches]
+818 patches before subdivision
+14530 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 443395, max 262
+transfer lists:   3.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(9398, 7055, 4044)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1667, 1011, 461)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(350, 181, 66)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(84, 39, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(22, 10, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(7, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0126 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/4096          432/196608   ( 0.2%) 
+brushes                 88/32768        1056/393216   ( 0.3%) 
+brushsides             542/65536        4336/524288   ( 0.8%) 
+planes                 504/65536       10080/1310720  ( 0.8%) 
+vertexes              1135/65536       13620/786432   ( 1.7%) 
+nodes                  627/65536       20064/2097152  ( 1.0%) 
+texinfos               200/12288       14400/884736   ( 1.6%) 
+texdata                 64/2048         2048/65536    ( 3.1%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts            3468/0           69360/0        ( 0.0%) 
+disp_tris             6144/0           12288/0        ( 0.0%) 
+disp_lmsamples       83880/0           83880/0        ( 0.0%) 
+faces                  818/65536       45808/3670016  ( 1.2%) 
+hdr faces              818/65536       45808/3670016  ( 1.2%) 
+origfaces              307/65536       17192/3670016  ( 0.5%) 
+leaves                 637/65536       20384/2097152  ( 1.0%) 
+leaffaces              933/65536        1866/131072   ( 1.4%) 
+leafbrushes            363/65536         726/131072   ( 0.6%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges             4933/512000      19732/2048000  ( 1.0%) 
+edges                 2720/256000      10880/1024000  ( 1.1%) 
+LDR worldlights          8/16384         704/1441792  ( 0.0%) 
+HDR worldlights          8/16384         704/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             77/131072        770/1310720  ( 0.1%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices          1095/131072       2190/262144   ( 0.8%) 
+cubemapsamples          14/1024          224/16384    ( 1.4%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]      538904/0        ( 0.0%) 
+HDR lightdata         [variable]      538904/0        ( 0.0%) 
+visdata               [variable]       20643/16777216 ( 0.1%) 
+entdata               [variable]       10414/393216   ( 2.6%) 
+LDR ambient table      637/65536        2548/262144   ( 1.0%) 
+HDR ambient table      637/65536        2548/262144   ( 1.0%) 
+LDR leaf ambient      2788/65536       78064/1835008  ( 4.3%) 
+HDR leaf ambient      2788/65536       78064/1835008  ( 4.3%) 
+occluders                1/0              40/0        ( 0.0%) 
+occluder polygons        6/0              72/0        ( 0.0%) 
+occluder vert ind       24/0              96/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5378     ( 0.0%) 
+pakfile               [variable]     1763894/0        ( 0.0%) 
+physics               [variable]       32010/4194304  ( 0.8%) 
+physics terrain       [variable]        1603/1048576  ( 0.2%) 
+
+Level flags = 3
+
+Total triangle count: 2071
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\dachafoto_d.bsp
+29 seconds elapsed
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\counter-strike source\cstrike\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\dachafoto_d.vmf
+Map revision 60
+material "stone/cobble08a" not found.
+Material not found!: STONE/COBBLE08A
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "wood/woodfence001" not found.
+Material not found!: WOOD/WOODFENCE001
+Could not locate 'GameData' key in e:\steamlibrary\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/dachafoto_d/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\dachafoto_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (32010 bytes)
+Error loading studio model "models/props_interiors/clothing_pile3.mdl"!
+Error loading studio model "models/props_forest/light_security.mdl"!
+Error! To use model "models/props_wasteland/plasterwall029g_window01a_bars.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_wasteland/plasterwall029g_window01a_bars.mdl"!
+Error loading studio model "models/props_wasteland/woodwall030b_window03b.mdl"!
+Error! To use model "models/props_wasteland/woodwall030b_window03a_bars.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_wasteland/woodwall030b_window03a_bars.mdl"!
+Error loading studio model "models/props_silo/silo_launchroom_monitor.mdl"!
+Error loading studio model "models/props_silo/silo_server_d.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9.Material NATURE/BLENDGRASSGRAVEL001A uses unknown detail object type coastline_redgrass02!
+Material NATURE/BLENDGRASSGRAVEL001A uses unknown detail object type coastline_redgrass02!
+Material NATURE/BLENDGRASSGRAVEL001A uses unknown detail object type coastline_redgrass02!
+Material NATURE/BLENDGRASSGRAVEL001A uses unknown detail object type coastline_redgrass02!
+Material NATURE/BLENDGRASSGRAVEL001A uses unknown detail object type coastline_redgrass02!
+Material NATURE/BLENDGRASSGRAVEL001A uses unknown detail object type coastline_redgrass02!
+..10
+Compacting texture/material tables...
+Reduced 328 texinfos to 200
+Reduced 79 texdatas to 61 (2883 bytes to 2207)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\dachafoto_d.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\dachafoto_d.bsp', but we don't own that location. Allowing.
+1 second elapsed
+CMaterialDict::Shutdown m_MissingList count: 2
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\dachafoto_d.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\dachafoto_d.prt
+ 273 portalclusters
+ 910 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 215 visible clusters (0.00%)
+Total clusters visible: 58696
+Average clusters visible: 215
+Building PAS...
+Average clusters audible: 248
+visdatasize:20606  compressed from 21840
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\dachafoto_d.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\dachafoto_d.bsp', but we don't own that location. Allowing.
+16 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\dachafoto_d.vmf
+Map revision 60
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+Patching WVT material: maps/dachafoto_d/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\dachafoto_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (32010 bytes)
+Error! To use model "models/props_wasteland/plasterwall029g_window01a_bars.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_wasteland/plasterwall029g_window01a_bars.mdl"!
+Error! To use model "models/props_wasteland/woodwall030b_window03a_bars.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_wasteland/woodwall030b_window03a_bars.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 338 texinfos to 200
+Reduced 85 texdatas to 64 (3161 bytes to 2397)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\dachafoto_d.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\dachafoto_d.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\dachafoto_d.prt
+ 274 portalclusters
+ 913 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 651 visible clusters (0.00%)
+Total clusters visible: 65921
+Average clusters visible: 240
+Building PAS...
+Average clusters audible: 247
+visdatasize:20709  compressed from 21920
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\dachafoto_d.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\dachafoto_d.bsp
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_branches.vtf
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_leaves.vtf
