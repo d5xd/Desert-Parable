@@ -1,0 +1,225 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent_backup.vmf
+Map revision 1
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+Multiple references for cubemap on texture maps/newcontent_backup/dev/dev_envcubemap_-831_1408_-214!!!
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 218 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent_backup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Overlay touching too many faces (touching 78, max 64)
+Overlay overlays/carpet_border_004a at 900.5 404.0 -153.0
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent_backup.vmf
+Map revision 2
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+Multiple references for cubemap on texture maps/newcontent_backup/dev/dev_envcubemap_-831_1408_-214!!!
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 218 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent_backup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Overlay touching too many faces (touching 78, max 64)
+Overlay overlays/carpet_border_004a at 900.5 404.0 -153.0
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent_backup.vmf
+Map revision 3
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+Multiple references for cubemap on texture maps/newcontent_backup/dev/dev_envcubemap_-831_1408_-214!!!
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 220 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent_backup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Overlay touching too many faces (touching 78, max 64)
+Overlay overlays/carpet_border_004a at 662.0 418.3 -153.0
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent_backup.vmf
+Map revision 4
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+Multiple references for cubemap on texture maps/newcontent_backup/dev/dev_envcubemap_-831_1408_-214!!!
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 220 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent_backup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Overlay touching too many faces (touching 78, max 64)
+Overlay overlays/carpet_border_004a at 662.0 418.3 -153.0
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent_backup.vmf
+Map revision 5
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+Multiple references for cubemap on texture maps/newcontent_backup/dev/dev_envcubemap_-831_1408_-214!!!
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 220 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent_backup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Overlay touching too many faces (touching 78, max 64)
+Overlay overlays/carpet_border_004a at 662.0 418.3 -153.0
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent_backup.vmf
+Map revision 6
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+Multiple references for cubemap on texture maps/newcontent_backup/dev/dev_envcubemap_-831_1408_-214!!!
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 220 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent_backup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Overlay touching too many faces (touching 78, max 64)
+Overlay overlays/carpet_border_004a at 662.0 418.3 -153.0
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent_backup.vmf
+Map revision 7
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+Multiple references for cubemap on texture maps/newcontent_backup/dev/dev_envcubemap_-831_1408_-214!!!
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 220 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent_backup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Overlay touching too many faces (touching 78, max 64)
+Overlay overlays/carpet_border_004a at 662.0 418.3 -153.0
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent_backup.vmf
+Map revision 8
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light (70.00 1060.00 -73.00) leaked!
+--- MAP LEAKED ---
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent_backup.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent_backup.bsp
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent_backup.vmf
+Map revision 9
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 212 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\newcontent_backup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Overlay touching too many faces (touching 78, max 64)
+Overlay overlays/carpet_border_004a at 662.0 418.3 -153.0

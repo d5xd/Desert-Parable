@@ -1,0 +1,3797 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\nestorparable1.vmf
+Map revision 2
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-436.00 -1232.00 -155.75) leaked!
+--- MAP LEAKED ---
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\nestorparable1.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\nestorparable1.bsp
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\nestorparable1.vmf
+Map revision 3
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 212 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\nestorparable1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (449613 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1514 texinfos to 881
+Reduced 101 texdatas to 90 (3506 bytes to 3189)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\nestorparable1.bsp
+4 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\nestorparable1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\nestorparable1.prt
+1075 portalclusters
+3151 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 20403 visible clusters (0.00%)
+Total clusters visible: 546973
+Average clusters visible: 508
+Building PAS...
+Average clusters audible: 1031
+visdatasize:291218  compressed from 292400
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\nestorparable1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\nestorparable1.bsp
+5158 faces
+1 degenerate faces
+900989 square feet [129742488.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5157 patches before subdivision
+zero area child patch
+zero area child patch
+86039 patches after subdivision
+328 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 8709591, max 830
+transfer lists:  66.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(101560, 108414, 117393)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(26455, 28439, 29759)
+Build Patch/Sample Hash Table(s).....Done<0.0585 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  29/4096         1392/196608   ( 0.7%) 
+brushes               1247/32768       14964/393216   ( 3.8%) 
+brushsides            9177/65536       73416/524288   (14.0%) 
+planes                4266/65536       85320/1310720  ( 6.5%) 
+vertexes              8582/65536      102984/786432   (13.1%) 
+nodes                 2465/65536       78880/2097152  ( 3.8%) 
+texinfos               881/12288       63432/884736   ( 7.2%) 
+texdata                 90/2048         2880/65536    ( 4.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5158/65536      288848/3670016  ( 7.9%) 
+hdr faces             5158/65536      288848/3670016  ( 7.9%) 
+origfaces             3324/65536      186144/3670016  ( 5.1%) 
+leaves                2495/65536       79840/2097152  ( 3.8%) 
+leaffaces             6274/65536       12548/131072   ( 9.6%) 
+leafbrushes           2284/65536        4568/131072   ( 3.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            39389/512000     157556/2048000  ( 7.7%) 
+edges                23697/256000      94788/1024000  ( 9.3%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        328/16384       28864/1441792  ( 2.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            553/131072       5530/1310720  ( 0.4%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         11193/131072      22386/262144   ( 8.5%) 
+cubemapsamples           4/1024           64/16384    ( 0.4%) 
+overlays                80/1024        28160/360448   ( 7.8%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     3031156/0        ( 0.0%) 
+visdata               [variable]      291218/16777216 ( 1.7%) 
+entdata               [variable]      132749/393216   (33.8%) 
+LDR ambient table     2495/65536        9980/262144   ( 3.8%) 
+HDR ambient table     2495/65536        9980/262144   ( 3.8%) 
+LDR leaf ambient      2495/65536       69860/1835008  ( 3.8%) 
+HDR leaf ambient      9197/65536      257516/1835008  (14.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/66060    ( 0.0%) 
+pakfile               [variable]     2220044/0        ( 0.0%) 
+physics               [variable]      449613/4194304  (10.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 15768
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\nestorparable1.bsp
+1 minute, 17 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\nestorparable1.vmf
+Map revision 4
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 212 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\nestorparable1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (449613 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1514 texinfos to 881
+Reduced 101 texdatas to 90 (3506 bytes to 3189)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\nestorparable1.bsp
+4 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\nestorparable1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\nestorparable1.prt
+1075 portalclusters
+3151 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 20403 visible clusters (0.00%)
+Total clusters visible: 546973
+Average clusters visible: 508
+Building PAS...
+Average clusters audible: 1031
+visdatasize:291218  compressed from 292400
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\nestorparable1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\nestorparable1.bsp
+5158 faces
+1 degenerate faces
+900989 square feet [129742488.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5157 patches before subdivision
+zero area child patch
+zero area child patch
+86039 patches after subdivision
+328 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 8709591, max 830
+transfer lists:  66.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(101560, 108414, 117393)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(26455, 28439, 29759)
+Build Patch/Sample Hash Table(s).....Done<0.0292 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  29/4096         1392/196608   ( 0.7%) 
+brushes               1247/32768       14964/393216   ( 3.8%) 
+brushsides            9177/65536       73416/524288   (14.0%) 
+planes                4266/65536       85320/1310720  ( 6.5%) 
+vertexes              8582/65536      102984/786432   (13.1%) 
+nodes                 2465/65536       78880/2097152  ( 3.8%) 
+texinfos               881/12288       63432/884736   ( 7.2%) 
+texdata                 90/2048         2880/65536    ( 4.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5158/65536      288848/3670016  ( 7.9%) 
+hdr faces             5158/65536      288848/3670016  ( 7.9%) 
+origfaces             3324/65536      186144/3670016  ( 5.1%) 
+leaves                2495/65536       79840/2097152  ( 3.8%) 
+leaffaces             6274/65536       12548/131072   ( 9.6%) 
+leafbrushes           2284/65536        4568/131072   ( 3.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            39389/512000     157556/2048000  ( 7.7%) 
+edges                23697/256000      94788/1024000  ( 9.3%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        328/16384       28864/1441792  ( 2.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            553/131072       5530/1310720  ( 0.4%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         11193/131072      22386/262144   ( 8.5%) 
+cubemapsamples           4/1024           64/16384    ( 0.4%) 
+overlays                80/1024        28160/360448   ( 7.8%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     3031156/0        ( 0.0%) 
+visdata               [variable]      291218/16777216 ( 1.7%) 
+entdata               [variable]      132749/393216   (33.8%) 
+LDR ambient table     2495/65536        9980/262144   ( 3.8%) 
+HDR ambient table     2495/65536        9980/262144   ( 3.8%) 
+LDR leaf ambient      2495/65536       69860/1835008  ( 3.8%) 
+HDR leaf ambient      9197/65536      257516/1835008  (14.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/66060    ( 0.0%) 
+pakfile               [variable]     2220044/0        ( 0.0%) 
+physics               [variable]      449613/4194304  (10.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 15768
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus\maps\nestorparable1.bsp
+1 minute, 19 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 11
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 240 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (445605 bytes)
+Error! To use model "models/cases/1/hp_case.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/cases/1/hp_case.mdl"!
+Error! To use model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1453 texinfos to 844
+Reduced 99 texdatas to 89 (3264 bytes to 3006)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+4 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt
+1075 portalclusters
+3155 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 20183 visible clusters (0.00%)
+Total clusters visible: 546383
+Average clusters visible: 508
+Building PAS...
+Average clusters audible: 1031
+visdatasize:291230  compressed from 292400
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+5146 faces
+1 degenerate faces
+896642 square feet [129116472.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5145 patches before subdivision
+zero area child patch
+zero area child patch
+86011 patches after subdivision
+328 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 8895088, max 835
+transfer lists:  67.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(102169, 109132, 118400)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(26851, 28878, 30288)
+Build Patch/Sample Hash Table(s).....Done<0.0366 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  19/4096          912/196608   ( 0.5%) 
+brushes               1242/32768       14904/393216   ( 3.8%) 
+brushsides            9204/65536       73632/524288   (14.0%) 
+planes                4308/65536       86160/1310720  ( 6.6%) 
+vertexes              8575/65536      102900/786432   (13.1%) 
+nodes                 2400/65536       76800/2097152  ( 3.7%) 
+texinfos               844/12288       60768/884736   ( 6.9%) 
+texdata                 89/2048         2848/65536    ( 4.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5146/65536      288176/3670016  ( 7.9%) 
+hdr faces             5146/65536      288176/3670016  ( 7.9%) 
+origfaces             3295/65536      184520/3670016  ( 5.0%) 
+leaves                2420/65536       77440/2097152  ( 3.7%) 
+leaffaces             6267/65536       12534/131072   ( 9.6%) 
+leafbrushes           2280/65536        4560/131072   ( 3.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            39257/512000     157028/2048000  ( 7.7%) 
+edges                23661/256000      94644/1024000  ( 9.2%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        328/16384       28864/1441792  ( 2.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            559/131072       5590/1310720  ( 0.4%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         11307/131072      22614/262144   ( 8.6%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                80/1024        28160/360448   ( 7.8%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     3032816/0        ( 0.0%) 
+visdata               [variable]      291230/16777216 ( 1.7%) 
+entdata               [variable]      121533/393216   (30.9%) 
+LDR ambient table     2420/65536        9680/262144   ( 3.7%) 
+HDR ambient table     2420/65536        9680/262144   ( 3.7%) 
+LDR leaf ambient      2420/65536       67760/1835008  ( 3.7%) 
+HDR leaf ambient      8930/65536      250040/1835008  (13.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/65602    ( 0.0%) 
+pakfile               [variable]     2130205/0        ( 0.0%) 
+physics               [variable]      445605/4194304  (10.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 15776
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+4 minutes, 25 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 13
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 240 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (445605 bytes)
+Error! To use model "models/cases/1/hp_case.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/cases/1/hp_case.mdl"!
+Error! To use model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1453 texinfos to 844
+Reduced 99 texdatas to 89 (3264 bytes to 3006)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+4 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt
+1075 portalclusters
+3155 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 20183 visible clusters (0.00%)
+Total clusters visible: 546383
+Average clusters visible: 508
+Building PAS...
+Average clusters audible: 1031
+visdatasize:291230  compressed from 292400
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+5146 faces
+1 degenerate faces
+896642 square feet [129116472.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5145 patches before subdivision
+zero area child patch
+zero area child patch
+86011 patches after subdivision
+328 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 8895088, max 835
+transfer lists:  67.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(102618, 109567, 118807)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(27150, 29161, 30529)
+Build Patch/Sample Hash Table(s).....Done<0.0283 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  19/4096          912/196608   ( 0.5%) 
+brushes               1242/32768       14904/393216   ( 3.8%) 
+brushsides            9204/65536       73632/524288   (14.0%) 
+planes                4308/65536       86160/1310720  ( 6.6%) 
+vertexes              8575/65536      102900/786432   (13.1%) 
+nodes                 2400/65536       76800/2097152  ( 3.7%) 
+texinfos               844/12288       60768/884736   ( 6.9%) 
+texdata                 89/2048         2848/65536    ( 4.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5146/65536      288176/3670016  ( 7.9%) 
+hdr faces             5146/65536      288176/3670016  ( 7.9%) 
+origfaces             3295/65536      184520/3670016  ( 5.0%) 
+leaves                2420/65536       77440/2097152  ( 3.7%) 
+leaffaces             6267/65536       12534/131072   ( 9.6%) 
+leafbrushes           2280/65536        4560/131072   ( 3.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            39257/512000     157028/2048000  ( 7.7%) 
+edges                23661/256000      94644/1024000  ( 9.2%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        328/16384       28864/1441792  ( 2.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            559/131072       5590/1310720  ( 0.4%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         11307/131072      22614/262144   ( 8.6%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                80/1024        28160/360448   ( 7.8%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     2992736/0        ( 0.0%) 
+visdata               [variable]      291230/16777216 ( 1.7%) 
+entdata               [variable]      121396/393216   (30.9%) 
+LDR ambient table     2420/65536        9680/262144   ( 3.7%) 
+HDR ambient table     2420/65536        9680/262144   ( 3.7%) 
+LDR leaf ambient      2420/65536       67760/1835008  ( 3.7%) 
+HDR leaf ambient      8991/65536      251748/1835008  (13.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/65602    ( 0.0%) 
+pakfile               [variable]     2130205/0        ( 0.0%) 
+physics               [variable]      445605/4194304  (10.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 15776
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+1 minute, 46 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 14
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 240 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (445768 bytes)
+Error! To use model "models/cases/1/hp_case.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/cases/1/hp_case.mdl"!
+Error! To use model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1453 texinfos to 847
+Reduced 99 texdatas to 89 (3264 bytes to 3006)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+4 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt
+1075 portalclusters
+3155 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 20183 visible clusters (0.00%)
+Total clusters visible: 546383
+Average clusters visible: 508
+Building PAS...
+Average clusters audible: 1031
+visdatasize:291230  compressed from 292400
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+5152 faces
+1 degenerate faces
+898243 square feet [129347008.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5151 patches before subdivision
+zero area child patch
+zero area child patch
+86017 patches after subdivision
+328 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9055142, max 835
+transfer lists:  69.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(103578, 110643, 120182)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(27475, 29522, 30952)
+Build Patch/Sample Hash Table(s).....Done<0.0276 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  20/4096          960/196608   ( 0.5%) 
+brushes               1242/32768       14904/393216   ( 3.8%) 
+brushsides            9202/65536       73616/524288   (14.0%) 
+planes                4314/65536       86280/1310720  ( 6.6%) 
+vertexes              8583/65536      102996/786432   (13.1%) 
+nodes                 2406/65536       76992/2097152  ( 3.7%) 
+texinfos               847/12288       60984/884736   ( 6.9%) 
+texdata                 89/2048         2848/65536    ( 4.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5152/65536      288512/3670016  ( 7.9%) 
+hdr faces             5152/65536      288512/3670016  ( 7.9%) 
+origfaces             3301/65536      184856/3670016  ( 5.0%) 
+leaves                2427/65536       77664/2097152  ( 3.7%) 
+leaffaces             6273/65536       12546/131072   ( 9.6%) 
+leafbrushes           2279/65536        4558/131072   ( 3.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            39305/512000     157220/2048000  ( 7.7%) 
+edges                23685/256000      94740/1024000  ( 9.3%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        328/16384       28864/1441792  ( 2.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            559/131072       5590/1310720  ( 0.4%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         11307/131072      22614/262144   ( 8.6%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                80/1024        28160/360448   ( 7.8%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     2992736/0        ( 0.0%) 
+visdata               [variable]      291230/16777216 ( 1.7%) 
+entdata               [variable]      123669/393216   (31.5%) 
+LDR ambient table     2427/65536        9708/262144   ( 3.7%) 
+HDR ambient table     2427/65536        9708/262144   ( 3.7%) 
+LDR leaf ambient      2427/65536       67956/1835008  ( 3.7%) 
+HDR leaf ambient      9024/65536      252672/1835008  (13.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/65602    ( 0.0%) 
+pakfile               [variable]     2130205/0        ( 0.0%) 
+physics               [variable]      445768/4194304  (10.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 15788
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+1 minute, 22 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 15
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 240 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (445768 bytes)
+Error! To use model "models/cases/1/hp_case.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/cases/1/hp_case.mdl"!
+Error! To use model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1453 texinfos to 847
+Reduced 99 texdatas to 89 (3264 bytes to 3006)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+4 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt
+1075 portalclusters
+3155 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 20183 visible clusters (0.00%)
+Total clusters visible: 546383
+Average clusters visible: 508
+Building PAS...
+Average clusters audible: 1031
+visdatasize:291230  compressed from 292400
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+5152 faces
+1 degenerate faces
+898243 square feet [129347008.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5151 patches before subdivision
+zero area child patch
+zero area child patch
+86017 patches after subdivision
+328 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9055142, max 835
+transfer lists:  69.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(103578, 110643, 120182)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(27475, 29522, 30952)
+Build Patch/Sample Hash Table(s).....Done<0.0292 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  20/4096          960/196608   ( 0.5%) 
+brushes               1242/32768       14904/393216   ( 3.8%) 
+brushsides            9202/65536       73616/524288   (14.0%) 
+planes                4314/65536       86280/1310720  ( 6.6%) 
+vertexes              8583/65536      102996/786432   (13.1%) 
+nodes                 2406/65536       76992/2097152  ( 3.7%) 
+texinfos               847/12288       60984/884736   ( 6.9%) 
+texdata                 89/2048         2848/65536    ( 4.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5152/65536      288512/3670016  ( 7.9%) 
+hdr faces             5152/65536      288512/3670016  ( 7.9%) 
+origfaces             3301/65536      184856/3670016  ( 5.0%) 
+leaves                2427/65536       77664/2097152  ( 3.7%) 
+leaffaces             6273/65536       12546/131072   ( 9.6%) 
+leafbrushes           2279/65536        4558/131072   ( 3.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            39305/512000     157220/2048000  ( 7.7%) 
+edges                23685/256000      94740/1024000  ( 9.3%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        328/16384       28864/1441792  ( 2.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            559/131072       5590/1310720  ( 0.4%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         11307/131072      22614/262144   ( 8.6%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                80/1024        28160/360448   ( 7.8%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     2992736/0        ( 0.0%) 
+visdata               [variable]      291230/16777216 ( 1.7%) 
+entdata               [variable]      123670/393216   (31.5%) 
+LDR ambient table     2427/65536        9708/262144   ( 3.7%) 
+HDR ambient table     2427/65536        9708/262144   ( 3.7%) 
+LDR leaf ambient      2427/65536       67956/1835008  ( 3.7%) 
+HDR leaf ambient      9024/65536      252672/1835008  (13.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/65602    ( 0.0%) 
+pakfile               [variable]     2130205/0        ( 0.0%) 
+physics               [variable]      445768/4194304  (10.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 15788
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+1 minute, 24 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 17
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 240 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (448027 bytes)
+Error! To use model "models/cases/1/hp_case.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/cases/1/hp_case.mdl"!
+Error! To use model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1456 texinfos to 850
+Reduced 99 texdatas to 89 (3264 bytes to 3006)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+4 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt
+1075 portalclusters
+3155 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 20183 visible clusters (0.00%)
+Total clusters visible: 546383
+Average clusters visible: 508
+Building PAS...
+Average clusters audible: 1031
+visdatasize:291230  compressed from 292400
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+5176 faces
+1 degenerate faces
+901206 square feet [129773696.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5175 patches before subdivision
+zero area child patch
+zero area child patch
+86041 patches after subdivision
+328 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9079680, max 835
+transfer lists:  69.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(103769, 110857, 120455)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(27534, 29586, 31027)
+Build Patch/Sample Hash Table(s).....Done<0.0268 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  21/4096         1008/196608   ( 0.5%) 
+brushes               1246/32768       14952/393216   ( 3.8%) 
+brushsides            9226/65536       73808/524288   (14.1%) 
+planes                4366/65536       87320/1310720  ( 6.7%) 
+vertexes              8617/65536      103404/786432   (13.1%) 
+nodes                 2426/65536       77632/2097152  ( 3.7%) 
+texinfos               850/12288       61200/884736   ( 6.9%) 
+texdata                 89/2048         2848/65536    ( 4.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5176/65536      289856/3670016  ( 7.9%) 
+hdr faces             5176/65536      289856/3670016  ( 7.9%) 
+origfaces             3323/65536      186088/3670016  ( 5.1%) 
+leaves                2448/65536       78336/2097152  ( 3.7%) 
+leaffaces             6297/65536       12594/131072   ( 9.6%) 
+leafbrushes           2283/65536        4566/131072   ( 3.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            39505/512000     158020/2048000  ( 7.7%) 
+edges                23791/256000      95164/1024000  ( 9.3%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        328/16384       28864/1441792  ( 2.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            559/131072       5590/1310720  ( 0.4%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         11307/131072      22614/262144   ( 8.6%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays                80/1024        28160/360448   ( 7.8%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     2992736/0        ( 0.0%) 
+visdata               [variable]      291230/16777216 ( 1.7%) 
+entdata               [variable]      122191/393216   (31.1%) 
+LDR ambient table     2448/65536        9792/262144   ( 3.7%) 
+HDR ambient table     2448/65536        9792/262144   ( 3.7%) 
+LDR leaf ambient      2448/65536       68544/1835008  ( 3.7%) 
+HDR leaf ambient      9145/65536      256060/1835008  (14.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/65602    ( 0.0%) 
+pakfile               [variable]     2130201/0        ( 0.0%) 
+physics               [variable]      448027/4194304  (10.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 15852
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+1 minute, 17 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 29
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_door_rotating (1931.00 -1288.00 -403.99) leaked!
+--- MAP LEAKED ---
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 30
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_door_rotating (1931.00 -1288.00 -403.99) leaked!
+--- MAP LEAKED ---
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 30
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_door_rotating (1931.00 -1288.00 -403.99) leaked!
+--- MAP LEAKED ---
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 30
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_door_rotating (1931.00 -1288.00 -403.99) leaked!
+--- MAP LEAKED ---
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 31
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (1531.00 -1064.00 -317.00) leaked!
+--- MAP LEAKED ---
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 32
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_door_rotating (1931.00 -1288.00 -403.99) leaked!
+--- MAP LEAKED ---
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 33
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+--- MAP LEAKED ---
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 34
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 244 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (505792 bytes)
+Error! To use model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"!
+Error! To use model "models/cases/1/hp_case.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/cases/1/hp_case.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1756 texinfos to 1040
+Reduced 118 texdatas to 106 (3908 bytes to 3607)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+5 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt
+1306 portalclusters
+3922 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 63236 visible clusters (0.00%)
+Total clusters visible: 891325
+Average clusters visible: 682
+Building PAS...
+Average clusters audible: 1227
+visdatasize:426649  compressed from 438816
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 35
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 244 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (507392 bytes)
+Error! To use model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"!
+Error! To use model "models/cases/1/hp_case.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/cases/1/hp_case.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1758 texinfos to 1041
+Reduced 118 texdatas to 106 (3908 bytes to 3607)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+5 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt
+1262 portalclusters
+3622 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 63539 visible clusters (0.00%)
+Total clusters visible: 798712
+Average clusters visible: 632
+Building PAS...
+Average clusters audible: 1179
+visdatasize:390072  compressed from 403840
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+6028 faces
+2 degenerate faces
+944541 square feet [136014016.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6026 patches before subdivision
+zero area child patch
+zero area child patch
+99088 patches after subdivision
+363 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9767395, max 835
+transfer lists:  74.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(113709, 121599, 132870)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(30127, 32519, 34538)
+Build Patch/Sample Hash Table(s).....Done<0.0315 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  23/4096         1104/196608   ( 0.6%) 
+brushes               1423/32768       17076/393216   ( 4.3%) 
+brushsides           10423/65536       83384/524288   (15.9%) 
+planes                4786/65536       95720/1310720  ( 7.3%) 
+vertexes              9871/65536      118452/786432   (15.1%) 
+nodes                 2844/65536       91008/2097152  ( 4.3%) 
+texinfos              1041/12288       74952/884736   ( 8.5%) 
+texdata                106/2048         3392/65536    ( 5.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 6028/65536      337568/3670016  ( 9.2%) 
+hdr faces             6028/65536      337568/3670016  ( 9.2%) 
+origfaces             3868/65536      216608/3670016  ( 5.9%) 
+leaves                2868/65536       91776/2097152  ( 4.4%) 
+leaffaces             7352/65536       14704/131072   (11.2%) 
+leafbrushes           2642/65536        5284/131072   ( 4.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            45955/512000     183820/2048000  ( 9.0%) 
+edges                27539/256000     110156/1024000  (10.8%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        363/16384       31944/1441792  ( 2.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            669/131072       6690/1310720  ( 0.5%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         13332/131072      26664/262144   (10.2%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays               112/1024        39424/360448   (10.9%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     3692376/0        ( 0.0%) 
+visdata               [variable]      390072/16777216 ( 2.3%) 
+entdata               [variable]      140957/393216   (35.8%) 
+LDR ambient table     2868/65536       11472/262144   ( 4.4%) 
+HDR ambient table     2868/65536       11472/262144   ( 4.4%) 
+LDR leaf ambient      2868/65536       80304/1835008  ( 4.4%) 
+HDR leaf ambient     10551/65536      295428/1835008  (16.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/75002    ( 0.0%) 
+pakfile               [variable]     2394785/0        ( 0.0%) 
+physics               [variable]      507392/4194304  (12.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 18420
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+1 minute, 39 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 36
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 244 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (507392 bytes)
+Error! To use model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"!
+Error! To use model "models/cases/1/hp_case.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/cases/1/hp_case.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1758 texinfos to 1041
+Reduced 118 texdatas to 106 (3908 bytes to 3607)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+5 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt
+1262 portalclusters
+3622 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 63539 visible clusters (0.00%)
+Total clusters visible: 798712
+Average clusters visible: 632
+Building PAS...
+Average clusters audible: 1179
+visdatasize:390072  compressed from 403840
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+6028 faces
+2 degenerate faces
+944541 square feet [136014016.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6026 patches before subdivision
+zero area child patch
+zero area child patch
+99088 patches after subdivision
+363 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9767395, max 835
+transfer lists:  74.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(113709, 121599, 132870)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(30127, 32519, 34538)
+Build Patch/Sample Hash Table(s).....Done<0.0312 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  23/4096         1104/196608   ( 0.6%) 
+brushes               1423/32768       17076/393216   ( 4.3%) 
+brushsides           10423/65536       83384/524288   (15.9%) 
+planes                4786/65536       95720/1310720  ( 7.3%) 
+vertexes              9871/65536      118452/786432   (15.1%) 
+nodes                 2844/65536       91008/2097152  ( 4.3%) 
+texinfos              1041/12288       74952/884736   ( 8.5%) 
+texdata                106/2048         3392/65536    ( 5.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 6028/65536      337568/3670016  ( 9.2%) 
+hdr faces             6028/65536      337568/3670016  ( 9.2%) 
+origfaces             3868/65536      216608/3670016  ( 5.9%) 
+leaves                2868/65536       91776/2097152  ( 4.4%) 
+leaffaces             7352/65536       14704/131072   (11.2%) 
+leafbrushes           2642/65536        5284/131072   ( 4.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            45955/512000     183820/2048000  ( 9.0%) 
+edges                27539/256000     110156/1024000  (10.8%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        363/16384       31944/1441792  ( 2.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            669/131072       6690/1310720  ( 0.5%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         13332/131072      26664/262144   (10.2%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays               112/1024        39424/360448   (10.9%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     3692376/0        ( 0.0%) 
+visdata               [variable]      390072/16777216 ( 2.3%) 
+entdata               [variable]      141017/393216   (35.9%) 
+LDR ambient table     2868/65536       11472/262144   ( 4.4%) 
+HDR ambient table     2868/65536       11472/262144   ( 4.4%) 
+LDR leaf ambient      2868/65536       80304/1835008  ( 4.4%) 
+HDR leaf ambient     10551/65536      295428/1835008  (16.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/75002    ( 0.0%) 
+pakfile               [variable]     2394785/0        ( 0.0%) 
+physics               [variable]      507392/4194304  (12.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 18420
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+1 minute, 41 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 37
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 244 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (507392 bytes)
+Error! To use model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"!
+Error! To use model "models/cases/1/hp_case.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/cases/1/hp_case.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1758 texinfos to 1041
+Reduced 118 texdatas to 106 (3908 bytes to 3607)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+5 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt
+1262 portalclusters
+3622 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 63539 visible clusters (0.00%)
+Total clusters visible: 798712
+Average clusters visible: 632
+Building PAS...
+Average clusters audible: 1179
+visdatasize:390072  compressed from 403840
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+6028 faces
+2 degenerate faces
+944541 square feet [136014016.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6026 patches before subdivision
+zero area child patch
+zero area child patch
+99088 patches after subdivision
+363 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9767395, max 835
+transfer lists:  74.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(113709, 121599, 132870)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(30127, 32519, 34538)
+Build Patch/Sample Hash Table(s).....Done<0.0316 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  23/4096         1104/196608   ( 0.6%) 
+brushes               1423/32768       17076/393216   ( 4.3%) 
+brushsides           10423/65536       83384/524288   (15.9%) 
+planes                4786/65536       95720/1310720  ( 7.3%) 
+vertexes              9871/65536      118452/786432   (15.1%) 
+nodes                 2844/65536       91008/2097152  ( 4.3%) 
+texinfos              1041/12288       74952/884736   ( 8.5%) 
+texdata                106/2048         3392/65536    ( 5.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 6028/65536      337568/3670016  ( 9.2%) 
+hdr faces             6028/65536      337568/3670016  ( 9.2%) 
+origfaces             3868/65536      216608/3670016  ( 5.9%) 
+leaves                2868/65536       91776/2097152  ( 4.4%) 
+leaffaces             7352/65536       14704/131072   (11.2%) 
+leafbrushes           2642/65536        5284/131072   ( 4.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            45955/512000     183820/2048000  ( 9.0%) 
+edges                27539/256000     110156/1024000  (10.8%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        363/16384       31944/1441792  ( 2.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            669/131072       6690/1310720  ( 0.5%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         13332/131072      26664/262144   (10.2%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays               112/1024        39424/360448   (10.9%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     3692376/0        ( 0.0%) 
+visdata               [variable]      390072/16777216 ( 2.3%) 
+entdata               [variable]      141017/393216   (35.9%) 
+LDR ambient table     2868/65536       11472/262144   ( 4.4%) 
+HDR ambient table     2868/65536       11472/262144   ( 4.4%) 
+LDR leaf ambient      2868/65536       80304/1835008  ( 4.4%) 
+HDR leaf ambient     10551/65536      295428/1835008  (16.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/75002    ( 0.0%) 
+pakfile               [variable]     2394785/0        ( 0.0%) 
+physics               [variable]      507392/4194304  (12.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 18420
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+1 minute, 43 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 38
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 244 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (507392 bytes)
+Error! To use model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"!
+Error! To use model "models/cases/1/hp_case.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/cases/1/hp_case.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1758 texinfos to 1041
+Reduced 118 texdatas to 106 (3908 bytes to 3607)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+5 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt
+1262 portalclusters
+3622 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 63539 visible clusters (0.00%)
+Total clusters visible: 798712
+Average clusters visible: 632
+Building PAS...
+Average clusters audible: 1179
+visdatasize:390072  compressed from 403840
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+6028 faces
+2 degenerate faces
+944541 square feet [136014016.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6026 patches before subdivision
+zero area child patch
+zero area child patch
+99088 patches after subdivision
+363 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9767395, max 835
+transfer lists:  74.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(113709, 121599, 132870)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(30127, 32519, 34538)
+Build Patch/Sample Hash Table(s).....Done<0.0312 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  23/4096         1104/196608   ( 0.6%) 
+brushes               1423/32768       17076/393216   ( 4.3%) 
+brushsides           10423/65536       83384/524288   (15.9%) 
+planes                4786/65536       95720/1310720  ( 7.3%) 
+vertexes              9871/65536      118452/786432   (15.1%) 
+nodes                 2844/65536       91008/2097152  ( 4.3%) 
+texinfos              1041/12288       74952/884736   ( 8.5%) 
+texdata                106/2048         3392/65536    ( 5.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 6028/65536      337568/3670016  ( 9.2%) 
+hdr faces             6028/65536      337568/3670016  ( 9.2%) 
+origfaces             3868/65536      216608/3670016  ( 5.9%) 
+leaves                2868/65536       91776/2097152  ( 4.4%) 
+leaffaces             7352/65536       14704/131072   (11.2%) 
+leafbrushes           2642/65536        5284/131072   ( 4.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            45955/512000     183820/2048000  ( 9.0%) 
+edges                27539/256000     110156/1024000  (10.8%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        363/16384       31944/1441792  ( 2.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            669/131072       6690/1310720  ( 0.5%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         13332/131072      26664/262144   (10.2%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays               112/1024        39424/360448   (10.9%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     3692376/0        ( 0.0%) 
+visdata               [variable]      390072/16777216 ( 2.3%) 
+entdata               [variable]      140989/393216   (35.9%) 
+LDR ambient table     2868/65536       11472/262144   ( 4.4%) 
+HDR ambient table     2868/65536       11472/262144   ( 4.4%) 
+LDR leaf ambient      2868/65536       80304/1835008  ( 4.4%) 
+HDR leaf ambient     10551/65536      295428/1835008  (16.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/75002    ( 0.0%) 
+pakfile               [variable]     2394785/0        ( 0.0%) 
+physics               [variable]      507392/4194304  (12.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 18420
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+1 minute, 44 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 39
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 244 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (507552 bytes)
+Error! To use model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"!
+Error! To use model "models/cases/1/hp_case.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/cases/1/hp_case.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1761 texinfos to 1044
+Reduced 118 texdatas to 106 (3908 bytes to 3607)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+5 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt
+1259 portalclusters
+3613 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 58580 visible clusters (0.00%)
+Total clusters visible: 749364
+Average clusters visible: 595
+Building PAS...
+Average clusters audible: 849
+visdatasize:379045  compressed from 402880
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+6028 faces
+2 degenerate faces
+944777 square feet [136047936.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6026 patches before subdivision
+zero area child patch
+zero area child patch
+99098 patches after subdivision
+363 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9769744, max 836
+transfer lists:  74.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(113950, 121841, 133111)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(30168, 32562, 34588)
+Build Patch/Sample Hash Table(s).....Done<0.0308 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  24/4096         1152/196608   ( 0.6%) 
+brushes               1424/32768       17088/393216   ( 4.3%) 
+brushsides           10429/65536       83432/524288   (15.9%) 
+planes                4794/65536       95880/1310720  ( 7.3%) 
+vertexes              9872/65536      118464/786432   (15.1%) 
+nodes                 2844/65536       91008/2097152  ( 4.3%) 
+texinfos              1044/12288       75168/884736   ( 8.5%) 
+texdata                106/2048         3392/65536    ( 5.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 6028/65536      337568/3670016  ( 9.2%) 
+hdr faces             6028/65536      337568/3670016  ( 9.2%) 
+origfaces             3868/65536      216608/3670016  ( 5.9%) 
+leaves                2869/65536       91808/2097152  ( 4.4%) 
+leaffaces             7349/65536       14698/131072   (11.2%) 
+leafbrushes           2639/65536        5278/131072   ( 4.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            45945/512000     183780/2048000  ( 9.0%) 
+edges                27528/256000     110112/1024000  (10.8%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        363/16384       31944/1441792  ( 2.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            666/131072       6660/1310720  ( 0.5%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         13278/131072      26556/262144   (10.1%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays               112/1024        39424/360448   (10.9%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     3692548/0        ( 0.0%) 
+visdata               [variable]      379045/16777216 ( 2.3%) 
+entdata               [variable]      140617/393216   (35.8%) 
+LDR ambient table     2869/65536       11476/262144   ( 4.4%) 
+HDR ambient table     2869/65536       11476/262144   ( 4.4%) 
+LDR leaf ambient      2869/65536       80332/1835008  ( 4.4%) 
+HDR leaf ambient     10558/65536      295624/1835008  (16.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/74932    ( 0.0%) 
+pakfile               [variable]     2394785/0        ( 0.0%) 
+physics               [variable]      507552/4194304  (12.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 18410
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+1 minute, 44 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 40
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 244 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (507552 bytes)
+Error! To use model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"!
+Error! To use model "models/cases/1/hp_case.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/cases/1/hp_case.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1761 texinfos to 1044
+Reduced 118 texdatas to 106 (3908 bytes to 3607)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+5 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt
+1259 portalclusters
+3613 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 58580 visible clusters (0.00%)
+Total clusters visible: 749364
+Average clusters visible: 595
+Building PAS...
+Average clusters audible: 849
+visdatasize:379045  compressed from 402880
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+6028 faces
+2 degenerate faces
+944777 square feet [136047936.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6026 patches before subdivision
+zero area child patch
+zero area child patch
+99098 patches after subdivision
+363 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9769744, max 836
+transfer lists:  74.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(113950, 121841, 133111)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(30168, 32562, 34588)
+Build Patch/Sample Hash Table(s).....Done<0.0397 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  24/4096         1152/196608   ( 0.6%) 
+brushes               1424/32768       17088/393216   ( 4.3%) 
+brushsides           10429/65536       83432/524288   (15.9%) 
+planes                4794/65536       95880/1310720  ( 7.3%) 
+vertexes              9872/65536      118464/786432   (15.1%) 
+nodes                 2844/65536       91008/2097152  ( 4.3%) 
+texinfos              1044/12288       75168/884736   ( 8.5%) 
+texdata                106/2048         3392/65536    ( 5.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 6028/65536      337568/3670016  ( 9.2%) 
+hdr faces             6028/65536      337568/3670016  ( 9.2%) 
+origfaces             3868/65536      216608/3670016  ( 5.9%) 
+leaves                2869/65536       91808/2097152  ( 4.4%) 
+leaffaces             7349/65536       14698/131072   (11.2%) 
+leafbrushes           2639/65536        5278/131072   ( 4.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            45945/512000     183780/2048000  ( 9.0%) 
+edges                27528/256000     110112/1024000  (10.8%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        363/16384       31944/1441792  ( 2.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            666/131072       6660/1310720  ( 0.5%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         13278/131072      26556/262144   (10.1%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays               112/1024        39424/360448   (10.9%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     3692548/0        ( 0.0%) 
+visdata               [variable]      379045/16777216 ( 2.3%) 
+entdata               [variable]      140616/393216   (35.8%) 
+LDR ambient table     2869/65536       11476/262144   ( 4.4%) 
+HDR ambient table     2869/65536       11476/262144   ( 4.4%) 
+LDR leaf ambient      2869/65536       80332/1835008  ( 4.4%) 
+HDR leaf ambient     10558/65536      295624/1835008  (16.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/74932    ( 0.0%) 
+pakfile               [variable]     2394785/0        ( 0.0%) 
+physics               [variable]      507552/4194304  (12.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 18410
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+1 minute, 39 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 42
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 244 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (519261 bytes)
+Error! To use model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"!
+Error! To use model "models/cases/1/hp_case.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/cases/1/hp_case.mdl"!
+Static prop models/props_office/duct_round_128.mdl outside the map (2575.00, -960.00, -220.00)
+Static prop models/props_office/duct_round_128.mdl outside the map (2447.00, -960.00, -220.00)
+Static prop models/props_office/duct_round_90bend.mdl outside the map (2367.00, -944.00, -220.00)
+Static prop models/props_office/duct_round_64.mdl outside the map (2367.00, -912.00, -220.00)
+Error! To use model "models/characters/stanley.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/stanley.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1864 texinfos to 1130
+Reduced 127 texdatas to 114 (4228 bytes to 3904)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+5 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt
+1402 portalclusters
+4082 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 85058 visible clusters (0.00%)
+Total clusters visible: 955973
+Average clusters visible: 681
+Building PAS...
+Average clusters audible: 968
+visdatasize:462248  compressed from 493504
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+6543 faces
+2 degenerate faces
+1024487 square feet [147526144.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6541 patches before subdivision
+zero area child patch
+zero area child patch
+105193 patches after subdivision
+402 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10314450, max 836
+transfer lists:  78.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(237422, 165062, 208593)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(86940, 41679, 69579)
+Build Patch/Sample Hash Table(s).....Done<0.0335 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 26 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  27/4096         1296/196608   ( 0.7%) 
+brushes               1454/32768       17448/393216   ( 4.4%) 
+brushsides           10624/65536       84992/524288   (16.2%) 
+planes                4994/65536       99880/1310720  ( 7.6%) 
+vertexes             10645/65536      127740/786432   (16.2%) 
+nodes                 3156/65536      100992/2097152  ( 4.8%) 
+texinfos              1130/12288       81360/884736   ( 9.2%) 
+texdata                114/2048         3648/65536    ( 5.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 6543/65536      366408/3670016  (10.0%) 
+hdr faces             6543/65536      366408/3670016  (10.0%) 
+origfaces             4010/65536      224560/3670016  ( 6.1%) 
+leaves                3184/65536      101888/2097152  ( 4.9%) 
+leaffaces             7908/65536       15816/131072   (12.1%) 
+leafbrushes           2860/65536        5720/131072   ( 4.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            48964/512000     195856/2048000  ( 9.6%) 
+edges                29116/256000     116464/1024000  (11.4%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        402/16384       35376/1441792  ( 2.5%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            716/131072       7160/1310720  ( 0.5%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         14061/131072      28122/262144   (10.7%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays               112/1024        39424/360448   (10.9%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     4049932/0        ( 0.0%) 
+visdata               [variable]      462248/16777216 ( 2.8%) 
+entdata               [variable]      146970/393216   (37.4%) 
+LDR ambient table     3184/65536       12736/262144   ( 4.9%) 
+HDR ambient table     3184/65536       12736/262144   ( 4.9%) 
+LDR leaf ambient      3184/65536       89152/1835008  ( 4.9%) 
+HDR leaf ambient     11866/65536      332248/1835008  (18.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/75480    ( 0.0%) 
+pakfile               [variable]     2432416/0        ( 0.0%) 
+physics               [variable]      519261/4194304  (12.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 19831
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+1 minute, 42 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 43
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 244 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (519261 bytes)
+Error! To use model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"!
+Error! To use model "models/cases/1/hp_case.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/cases/1/hp_case.mdl"!
+Static prop models/props_office/duct_round_128.mdl outside the map (2575.00, -960.00, -220.00)
+Static prop models/props_office/duct_round_128.mdl outside the map (2447.00, -960.00, -220.00)
+Static prop models/props_office/duct_round_90bend.mdl outside the map (2367.00, -944.00, -220.00)
+Static prop models/props_office/duct_round_64.mdl outside the map (2367.00, -912.00, -220.00)
+Error! To use model "models/characters/stanley.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/stanley.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1864 texinfos to 1130
+Reduced 127 texdatas to 114 (4228 bytes to 3904)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+5 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt
+1402 portalclusters
+4082 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 85058 visible clusters (0.00%)
+Total clusters visible: 955973
+Average clusters visible: 681
+Building PAS...
+Average clusters audible: 968
+visdatasize:462248  compressed from 493504
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+6543 faces
+2 degenerate faces
+1024487 square feet [147526144.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6541 patches before subdivision
+zero area child patch
+zero area child patch
+105193 patches after subdivision
+402 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10314450, max 836
+transfer lists:  78.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(237422, 165062, 208593)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(86940, 41679, 69579)
+Build Patch/Sample Hash Table(s).....Done<0.0334 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 26 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  27/4096         1296/196608   ( 0.7%) 
+brushes               1454/32768       17448/393216   ( 4.4%) 
+brushsides           10624/65536       84992/524288   (16.2%) 
+planes                4994/65536       99880/1310720  ( 7.6%) 
+vertexes             10645/65536      127740/786432   (16.2%) 
+nodes                 3156/65536      100992/2097152  ( 4.8%) 
+texinfos              1130/12288       81360/884736   ( 9.2%) 
+texdata                114/2048         3648/65536    ( 5.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 6543/65536      366408/3670016  (10.0%) 
+hdr faces             6543/65536      366408/3670016  (10.0%) 
+origfaces             4010/65536      224560/3670016  ( 6.1%) 
+leaves                3184/65536      101888/2097152  ( 4.9%) 
+leaffaces             7908/65536       15816/131072   (12.1%) 
+leafbrushes           2860/65536        5720/131072   ( 4.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            48964/512000     195856/2048000  ( 9.6%) 
+edges                29116/256000     116464/1024000  (11.4%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        402/16384       35376/1441792  ( 2.5%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            716/131072       7160/1310720  ( 0.5%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         14061/131072      28122/262144   (10.7%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays               112/1024        39424/360448   (10.9%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     4049932/0        ( 0.0%) 
+visdata               [variable]      462248/16777216 ( 2.8%) 
+entdata               [variable]      147005/393216   (37.4%) 
+LDR ambient table     3184/65536       12736/262144   ( 4.9%) 
+HDR ambient table     3184/65536       12736/262144   ( 4.9%) 
+LDR leaf ambient      3184/65536       89152/1835008  ( 4.9%) 
+HDR leaf ambient     11866/65536      332248/1835008  (18.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/75480    ( 0.0%) 
+pakfile               [variable]     2432416/0        ( 0.0%) 
+physics               [variable]      519261/4194304  (12.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 19831
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+1 minute, 43 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 44
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 244 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (519261 bytes)
+Error! To use model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"!
+Error! To use model "models/cases/1/hp_case.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/cases/1/hp_case.mdl"!
+Static prop models/props_office/duct_round_128.mdl outside the map (2575.00, -960.00, -220.00)
+Static prop models/props_office/duct_round_128.mdl outside the map (2447.00, -960.00, -220.00)
+Static prop models/props_office/duct_round_90bend.mdl outside the map (2367.00, -944.00, -220.00)
+Static prop models/props_office/duct_round_64.mdl outside the map (2367.00, -912.00, -220.00)
+Error! To use model "models/characters/stanley.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/stanley.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1864 texinfos to 1130
+Reduced 127 texdatas to 114 (4228 bytes to 3904)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+5 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt
+1402 portalclusters
+4082 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 85058 visible clusters (0.00%)
+Total clusters visible: 955973
+Average clusters visible: 681
+Building PAS...
+Average clusters audible: 968
+visdatasize:462248  compressed from 493504
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 48
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Can't find surfaceprop upholstery for material PLASTER/CEILING_INSULATION02, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 244 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (512987 bytes)
+Error! To use model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"!
+Error! To use model "models/cases/1/hp_case.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/cases/1/hp_case.mdl"!
+Static prop models/props_office/lab_copy_machine_broken.mdl outside the map (2416.00, -1057.24, -403.75)
+Static prop models/props_office/cardboardbox_b_1970.mdl outside the map (2377.29, -1055.00, -403.75)
+Static prop models/props_underground/filecabinet_lobby.mdl outside the map (2504.41, -1058.53, -403.75)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1855 texinfos to 1090
+Reduced 130 texdatas to 114 (4396 bytes to 3933)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+5 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt
+1298 portalclusters
+3724 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 70908 visible clusters (0.00%)
+Total clusters visible: 784887
+Average clusters visible: 604
+Building PAS...
+Average clusters audible: 879
+visdatasize:402579  compressed from 436128
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+6108 faces
+2 degenerate faces
+981069 square feet [141273984.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6106 patches before subdivision
+zero area child patch
+zero area child patch
+99816 patches after subdivision
+371 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9747144, max 836
+transfer lists:  74.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(115535, 123215, 133839)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(30135, 32486, 34465)
+Build Patch/Sample Hash Table(s).....Done<0.0327 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+2 of 6 (33% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  26/4096         1248/196608   ( 0.6%) 
+brushes               1443/32768       17316/393216   ( 4.4%) 
+brushsides           10579/65536       84632/524288   (16.1%) 
+planes                4950/65536       99000/1310720  ( 7.6%) 
+vertexes             10057/65536      120684/786432   (15.3%) 
+nodes                 2927/65536       93664/2097152  ( 4.5%) 
+texinfos              1090/12288       78480/884736   ( 8.9%) 
+texdata                114/2048         3648/65536    ( 5.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 6108/65536      342048/3670016  ( 9.3%) 
+hdr faces             6108/65536      342048/3670016  ( 9.3%) 
+origfaces             3919/65536      219464/3670016  ( 6.0%) 
+leaves                2954/65536       94528/2097152  ( 4.5%) 
+leaffaces             7465/65536       14930/131072   (11.4%) 
+leafbrushes           2696/65536        5392/131072   ( 4.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            46511/512000     186044/2048000  ( 9.1%) 
+edges                27866/256000     111464/1024000  (10.9%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        370/16384       32560/1441792  ( 2.3%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            667/131072       6670/1310720  ( 0.5%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         13287/131072      26574/262144   (10.1%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays               112/1024        39424/360448   (10.9%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     3702100/0        ( 0.0%) 
+visdata               [variable]      402579/16777216 ( 2.4%) 
+entdata               [variable]      142764/393216   (36.3%) 
+LDR ambient table     2954/65536       11816/262144   ( 4.5%) 
+HDR ambient table     2954/65536       11816/262144   ( 4.5%) 
+LDR leaf ambient      2954/65536       82712/1835008  ( 4.5%) 
+HDR leaf ambient     10877/65536      304556/1835008  (16.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/76594    ( 0.0%) 
+pakfile               [variable]     2427639/0        ( 0.0%) 
+physics               [variable]      512987/4194304  (12.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 18608
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+1 minute, 43 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 48
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Can't find surfaceprop upholstery for material PLASTER/CEILING_INSULATION02, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 244 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (512987 bytes)
+Error! To use model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"!
+Error! To use model "models/cases/1/hp_case.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/cases/1/hp_case.mdl"!
+Static prop models/props_office/lab_copy_machine_broken.mdl outside the map (2416.00, -1057.24, -403.75)
+Static prop models/props_office/cardboardbox_b_1970.mdl outside the map (2377.29, -1055.00, -403.75)
+Static prop models/props_underground/filecabinet_lobby.mdl outside the map (2504.41, -1058.53, -403.75)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1855 texinfos to 1090
+Reduced 130 texdatas to 114 (4396 bytes to 3933)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+5 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt
+1298 portalclusters
+3724 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 70908 visible clusters (0.00%)
+Total clusters visible: 784887
+Average clusters visible: 604
+Building PAS...
+Average clusters audible: 879
+visdatasize:402579  compressed from 436128
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+6108 faces
+2 degenerate faces
+981069 square feet [141273984.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6106 patches before subdivision
+zero area child patch
+zero area child patch
+99816 patches after subdivision
+371 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9747144, max 836
+transfer lists:  74.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(115535, 123215, 133839)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(30135, 32486, 34465)
+Build Patch/Sample Hash Table(s).....Done<0.0312 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+2 of 6 (33% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  26/4096         1248/196608   ( 0.6%) 
+brushes               1443/32768       17316/393216   ( 4.4%) 
+brushsides           10579/65536       84632/524288   (16.1%) 
+planes                4950/65536       99000/1310720  ( 7.6%) 
+vertexes             10057/65536      120684/786432   (15.3%) 
+nodes                 2927/65536       93664/2097152  ( 4.5%) 
+texinfos              1090/12288       78480/884736   ( 8.9%) 
+texdata                114/2048         3648/65536    ( 5.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 6108/65536      342048/3670016  ( 9.3%) 
+hdr faces             6108/65536      342048/3670016  ( 9.3%) 
+origfaces             3919/65536      219464/3670016  ( 6.0%) 
+leaves                2954/65536       94528/2097152  ( 4.5%) 
+leaffaces             7465/65536       14930/131072   (11.4%) 
+leafbrushes           2696/65536        5392/131072   ( 4.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            46511/512000     186044/2048000  ( 9.1%) 
+edges                27866/256000     111464/1024000  (10.9%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        370/16384       32560/1441792  ( 2.3%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            667/131072       6670/1310720  ( 0.5%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         13287/131072      26574/262144   (10.1%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays               112/1024        39424/360448   (10.9%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     3702100/0        ( 0.0%) 
+visdata               [variable]      402579/16777216 ( 2.4%) 
+entdata               [variable]      142764/393216   (36.3%) 
+LDR ambient table     2954/65536       11816/262144   ( 4.5%) 
+HDR ambient table     2954/65536       11816/262144   ( 4.5%) 
+LDR leaf ambient      2954/65536       82712/1835008  ( 4.5%) 
+HDR leaf ambient     10877/65536      304556/1835008  (16.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/76594    ( 0.0%) 
+pakfile               [variable]     2427639/0        ( 0.0%) 
+physics               [variable]      512987/4194304  (12.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 18608
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+1 minute, 44 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 49
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Can't find surfaceprop upholstery for material PLASTER/CEILING_INSULATION02, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 244 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (513331 bytes)
+Error! To use model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"!
+Error! To use model "models/cases/1/hp_case.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/cases/1/hp_case.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1864 texinfos to 1092
+Reduced 131 texdatas to 116 (4423 bytes to 4012)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+5 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt
+1298 portalclusters
+3714 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 70494 visible clusters (0.00%)
+Total clusters visible: 788419
+Average clusters visible: 607
+Building PAS...
+Average clusters audible: 879
+visdatasize:402916  compressed from 436128
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+6123 faces
+2 degenerate faces
+981466 square feet [141331168.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6121 patches before subdivision
+zero area child patch
+zero area child patch
+99797 patches after subdivision
+371 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9754611, max 836
+transfer lists:  74.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(115561, 123279, 133972)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(30171, 32540, 34547)
+Build Patch/Sample Hash Table(s).....Done<0.0346 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+2 of 6 (33% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  26/4096         1248/196608   ( 0.6%) 
+brushes               1443/32768       17316/393216   ( 4.4%) 
+brushsides           10579/65536       84632/524288   (16.1%) 
+planes                4952/65536       99040/1310720  ( 7.6%) 
+vertexes             10093/65536      121116/786432   (15.4%) 
+nodes                 2936/65536       93952/2097152  ( 4.5%) 
+texinfos              1092/12288       78624/884736   ( 8.9%) 
+texdata                116/2048         3712/65536    ( 5.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 6123/65536      342888/3670016  ( 9.3%) 
+hdr faces             6123/65536      342888/3670016  ( 9.3%) 
+origfaces             3921/65536      219576/3670016  ( 6.0%) 
+leaves                2963/65536       94816/2097152  ( 4.5%) 
+leaffaces             7478/65536       14956/131072   (11.4%) 
+leafbrushes           2702/65536        5404/131072   ( 4.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            46609/512000     186436/2048000  ( 9.1%) 
+edges                27921/256000     111684/1024000  (10.9%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        370/16384       32560/1441792  ( 2.3%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            667/131072       6670/1310720  ( 0.5%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         13281/131072      26562/262144   (10.1%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays               112/1024        39424/360448   (10.9%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     3704436/0        ( 0.0%) 
+visdata               [variable]      402916/16777216 ( 2.4%) 
+entdata               [variable]      143321/393216   (36.4%) 
+LDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+HDR ambient table     2963/65536       11852/262144   ( 4.5%) 
+LDR leaf ambient      2963/65536       82964/1835008  ( 4.5%) 
+HDR leaf ambient     10883/65536      304724/1835008  (16.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/76924    ( 0.0%) 
+pakfile               [variable]     2439727/0        ( 0.0%) 
+physics               [variable]      513331/4194304  (12.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 18668
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+1 minute, 45 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 50
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Can't find surfaceprop upholstery for material PLASTER/CEILING_INSULATION02, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 244 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (514395 bytes)
+Error! To use model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"!
+Error! To use model "models/cases/1/hp_case.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/cases/1/hp_case.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1863 texinfos to 1092
+Reduced 131 texdatas to 117 (4423 bytes to 4076)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+6 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt
+1299 portalclusters
+3729 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1891 visible clusters (0.00%)
+Total clusters visible: 349643
+Average clusters visible: 269
+Building PAS...
+Average clusters audible: 642
+visdatasize:326473  compressed from 436464
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+19 minutes, 30 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+6144 faces
+2 degenerate faces
+981838 square feet [141384800.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6142 patches before subdivision
+zero area child patch
+zero area child patch
+99982 patches after subdivision
+371 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9778570, max 836
+transfer lists:  74.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(112919, 120618, 131500)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29556, 31921, 34003)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9492, 10171, 10190)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3610, 3833, 3633)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1462, 1533, 1370)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(657, 682, 585)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(311, 319, 264)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(157, 159, 129)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(84, 84, 67)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(46, 46, 36)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(27, 26, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(16, 15, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(10, 10, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(6, 6, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(4, 4, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(3, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(2, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0348 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+2 of 6 (33% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  26/4096         1248/196608   ( 0.6%) 
+brushes               1442/32768       17304/393216   ( 4.4%) 
+brushsides           10573/65536       84584/524288   (16.1%) 
+planes                4952/65536       99040/1310720  ( 7.6%) 
+vertexes             10112/65536      121344/786432   (15.4%) 
+nodes                 2937/65536       93984/2097152  ( 4.5%) 
+texinfos              1092/12288       78624/884736   ( 8.9%) 
+texdata                117/2048         3744/65536    ( 5.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 6144/65536      344064/3670016  ( 9.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3934/65536      220304/3670016  ( 6.0%) 
+leaves                2964/65536       94848/2097152  ( 4.5%) 
+leaffaces             7552/65536       15104/131072   (11.5%) 
+leafbrushes           2726/65536        5452/131072   ( 4.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            46810/512000     187240/2048000  ( 9.1%) 
+edges                28032/256000     112128/1024000  (10.9%) 
+LDR worldlights        370/16384       32560/1441792  ( 2.3%) 
+HDR worldlights          0/16384           0/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            669/131072       6690/1310720  ( 0.5%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         13425/131072      26850/262144   (10.2%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays               112/1024        39424/360448   (10.9%) 
+LDR lightdata         [variable]     3716028/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      326473/16777216 ( 1.9%) 
+entdata               [variable]      142943/393216   (36.4%) 
+LDR ambient table     2964/65536       11856/262144   ( 4.5%) 
+HDR ambient table     2964/65536       11856/262144   ( 4.5%) 
+LDR leaf ambient     10965/65536      307020/1835008  (16.7%) 
+HDR leaf ambient      2964/65536       82992/1835008  ( 4.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/76920    ( 0.0%) 
+pakfile               [variable]     2435215/0        ( 0.0%) 
+physics               [variable]      514395/4194304  (12.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 18775
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+3 minutes, 18 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+6144 faces
+2 degenerate faces
+981838 square feet [141384800.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6142 patches before subdivision
+zero area child patch
+zero area child patch
+99982 patches after subdivision
+371 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9778570, max 836
+transfer lists:  74.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(112920, 120618, 131500)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29557, 31921, 34003)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9492, 10171, 10190)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3610, 3833, 3633)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1462, 1533, 1370)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(657, 682, 585)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(311, 319, 264)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(157, 159, 129)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(84, 84, 67)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(46, 46, 36)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(27, 26, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(16, 15, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(10, 10, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(6, 6, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(4, 4, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(3, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(2, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0380 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+2 of 6 (33% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  26/4096         1248/196608   ( 0.6%) 
+brushes               1442/32768       17304/393216   ( 4.4%) 
+brushsides           10573/65536       84584/524288   (16.1%) 
+planes                4952/65536       99040/1310720  ( 7.6%) 
+vertexes             10112/65536      121344/786432   (15.4%) 
+nodes                 2937/65536       93984/2097152  ( 4.5%) 
+texinfos              1092/12288       78624/884736   ( 8.9%) 
+texdata                117/2048         3744/65536    ( 5.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 6144/65536      344064/3670016  ( 9.4%) 
+hdr faces             6144/65536      344064/3670016  ( 9.4%) 
+origfaces             3934/65536      220304/3670016  ( 6.0%) 
+leaves                2964/65536       94848/2097152  ( 4.5%) 
+leaffaces             7552/65536       15104/131072   (11.5%) 
+leafbrushes           2726/65536        5452/131072   ( 4.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            46810/512000     187240/2048000  ( 9.1%) 
+edges                28032/256000     112128/1024000  (10.9%) 
+LDR worldlights        370/16384       32560/1441792  ( 2.3%) 
+HDR worldlights        370/16384       32560/1441792  ( 2.3%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            669/131072       6690/1310720  ( 0.5%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         13425/131072      26850/262144   (10.2%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays               112/1024        39424/360448   (10.9%) 
+LDR lightdata         [variable]     3716028/0        ( 0.0%) 
+HDR lightdata         [variable]     3716028/0        ( 0.0%) 
+visdata               [variable]      326473/16777216 ( 1.9%) 
+entdata               [variable]      142943/393216   (36.4%) 
+LDR ambient table     2964/65536       11856/262144   ( 4.5%) 
+HDR ambient table     2964/65536       11856/262144   ( 4.5%) 
+LDR leaf ambient     10965/65536      307020/1835008  (16.7%) 
+HDR leaf ambient     10965/65536      307020/1835008  (16.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/76920    ( 0.0%) 
+pakfile               [variable]     4514699/0        ( 0.0%) 
+physics               [variable]      514395/4194304  (12.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3
+
+Total triangle count: 18775
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+3 minutes, 17 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 52
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Can't find surfaceprop upholstery for material PLASTER/CEILING_INSULATION02, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 244 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (514395 bytes)
+Error! To use model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"!
+Error! To use model "models/cases/1/hp_case.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/cases/1/hp_case.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1863 texinfos to 1092
+Reduced 131 texdatas to 117 (4423 bytes to 4076)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+5 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt
+1299 portalclusters
+3729 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4.
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 52
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Can't find surfaceprop upholstery for material PLASTER/CEILING_INSULATION02, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 244 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (514395 bytes)
+Error! To use model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"!
+Error! To use model "models/cases/1/hp_case.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/cases/1/hp_case.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1863 texinfos to 1092
+Reduced 131 texdatas to 117 (4423 bytes to 4076)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+5 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt
+1299 portalclusters
+3729 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 72063 visible clusters (0.00%)
+Total clusters visible: 790391
+Average clusters visible: 608
+Building PAS...
+Average clusters audible: 881
+visdatasize:400590  compressed from 436464
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+6144 faces
+2 degenerate faces
+981838 square feet [141384800.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6142 patches before subdivision
+zero area child patch
+zero area child patch
+99982 patches after subdivision
+371 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9780402, max 836
+transfer lists:  74.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(115755, 123501, 134269)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(30287, 32668, 34701)
+Build Patch/Sample Hash Table(s).....Done<0.0626 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+2 of 6 (33% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  26/4096         1248/196608   ( 0.6%) 
+brushes               1442/32768       17304/393216   ( 4.4%) 
+brushsides           10573/65536       84584/524288   (16.1%) 
+planes                4952/65536       99040/1310720  ( 7.6%) 
+vertexes             10112/65536      121344/786432   (15.4%) 
+nodes                 2937/65536       93984/2097152  ( 4.5%) 
+texinfos              1092/12288       78624/884736   ( 8.9%) 
+texdata                117/2048         3744/65536    ( 5.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 6144/65536      344064/3670016  ( 9.4%) 
+hdr faces             6144/65536      344064/3670016  ( 9.4%) 
+origfaces             3934/65536      220304/3670016  ( 6.0%) 
+leaves                2964/65536       94848/2097152  ( 4.5%) 
+leaffaces             7552/65536       15104/131072   (11.5%) 
+leafbrushes           2726/65536        5452/131072   ( 4.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            46810/512000     187240/2048000  ( 9.1%) 
+edges                28032/256000     112128/1024000  (10.9%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        370/16384       32560/1441792  ( 2.3%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            669/131072       6690/1310720  ( 0.5%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         13425/131072      26850/262144   (10.2%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays               112/1024        39424/360448   (10.9%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     3716028/0        ( 0.0%) 
+visdata               [variable]      400590/16777216 ( 2.4%) 
+entdata               [variable]      144659/393216   (36.8%) 
+LDR ambient table     2964/65536       11856/262144   ( 4.5%) 
+HDR ambient table     2964/65536       11856/262144   ( 4.5%) 
+LDR leaf ambient      2964/65536       82992/1835008  ( 4.5%) 
+HDR leaf ambient     10987/65536      307636/1835008  (16.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/76852    ( 0.0%) 
+pakfile               [variable]     2439727/0        ( 0.0%) 
+physics               [variable]      514395/4194304  (12.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 18775
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+1 minute, 44 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 53
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Can't find surfaceprop upholstery for material PLASTER/CEILING_INSULATION02, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 244 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (513287 bytes)
+Error! To use model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"!
+Error! To use model "models/cases/1/hp_case.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/cases/1/hp_case.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1857 texinfos to 1086
+Reduced 131 texdatas to 117 (4423 bytes to 4076)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+5 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt
+1299 portalclusters
+3729 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1891 visible clusters (0.00%)
+Total clusters visible: 349643
+Average clusters visible: 269
+Building PAS...
+Average clusters audible: 642
+visdatasize:326473  compressed from 436464
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+19 minutes, 40 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+6132 faces
+2 degenerate faces
+981219 square feet [141295584.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6130 patches before subdivision
+zero area child patch
+zero area child patch
+99970 patches after subdivision
+371 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9780125, max 836
+transfer lists:  74.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(112931, 120632, 131520)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29567, 31932, 34016)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9498, 10178, 10196)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3613, 3836, 3635)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1464, 1535, 1371)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(658, 682, 585)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(312, 319, 264)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(157, 160, 129)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(84, 84, 67)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(46, 46, 36)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(27, 26, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(16, 15, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(10, 10, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(6, 6, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(4, 4, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(3, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(2, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0314 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+2 of 6 (33% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  24/4096         1152/196608   ( 0.6%) 
+brushes               1440/32768       17280/393216   ( 4.4%) 
+brushsides           10561/65536       84488/524288   (16.1%) 
+planes                4922/65536       98440/1310720  ( 7.5%) 
+vertexes             10096/65536      121152/786432   (15.4%) 
+nodes                 2925/65536       93600/2097152  ( 4.5%) 
+texinfos              1086/12288       78192/884736   ( 8.8%) 
+texdata                117/2048         3744/65536    ( 5.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 6132/65536      343392/3670016  ( 9.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3922/65536      219632/3670016  ( 6.0%) 
+leaves                2950/65536       94400/2097152  ( 4.5%) 
+leaffaces             7540/65536       15080/131072   (11.5%) 
+leafbrushes           2724/65536        5448/131072   ( 4.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            46714/512000     186856/2048000  ( 9.1%) 
+edges                27984/256000     111936/1024000  (10.9%) 
+LDR worldlights        370/16384       32560/1441792  ( 2.3%) 
+HDR worldlights          0/16384           0/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            669/131072       6690/1310720  ( 0.5%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         13425/131072      26850/262144   (10.2%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays               112/1024        39424/360448   (10.9%) 
+LDR lightdata         [variable]     3716028/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      326473/16777216 ( 1.9%) 
+entdata               [variable]      144327/393216   (36.7%) 
+LDR ambient table     2950/65536       11800/262144   ( 4.5%) 
+HDR ambient table     2950/65536       11800/262144   ( 4.5%) 
+LDR leaf ambient     10947/65536      306516/1835008  (16.7%) 
+HDR leaf ambient      2950/65536       82600/1835008  ( 4.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/76852    ( 0.0%) 
+pakfile               [variable]     2435215/0        ( 0.0%) 
+physics               [variable]      513287/4194304  (12.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 18751
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+3 minutes, 20 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+6132 faces
+2 degenerate faces
+981219 square feet [141295584.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6130 patches before subdivision
+zero area child patch
+zero area child patch
+99970 patches after subdivision
+371 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9780125, max 836
+transfer lists:  74.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(112934, 120635, 131522)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29568, 31933, 34017)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9498, 10178, 10196)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3613, 3836, 3636)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1464, 1535, 1371)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(658, 682, 585)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(312, 319, 264)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(157, 160, 129)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(84, 84, 67)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(46, 46, 36)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(27, 26, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(16, 15, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(10, 10, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(6, 6, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(4, 4, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(3, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(2, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0339 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+2 of 6 (33% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  24/4096         1152/196608   ( 0.6%) 
+brushes               1440/32768       17280/393216   ( 4.4%) 
+brushsides           10561/65536       84488/524288   (16.1%) 
+planes                4922/65536       98440/1310720  ( 7.5%) 
+vertexes             10096/65536      121152/786432   (15.4%) 
+nodes                 2925/65536       93600/2097152  ( 4.5%) 
+texinfos              1086/12288       78192/884736   ( 8.8%) 
+texdata                117/2048         3744/65536    ( 5.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 6132/65536      343392/3670016  ( 9.4%) 
+hdr faces             6132/65536      343392/3670016  ( 9.4%) 
+origfaces             3922/65536      219632/3670016  ( 6.0%) 
+leaves                2950/65536       94400/2097152  ( 4.5%) 
+leaffaces             7540/65536       15080/131072   (11.5%) 
+leafbrushes           2724/65536        5448/131072   ( 4.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            46714/512000     186856/2048000  ( 9.1%) 
+edges                27984/256000     111936/1024000  (10.9%) 
+LDR worldlights        370/16384       32560/1441792  ( 2.3%) 
+HDR worldlights        370/16384       32560/1441792  ( 2.3%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            669/131072       6690/1310720  ( 0.5%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         13425/131072      26850/262144   (10.2%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays               112/1024        39424/360448   (10.9%) 
+LDR lightdata         [variable]     3716028/0        ( 0.0%) 
+HDR lightdata         [variable]     3716028/0        ( 0.0%) 
+visdata               [variable]      326473/16777216 ( 1.9%) 
+entdata               [variable]      144327/393216   (36.7%) 
+LDR ambient table     2950/65536       11800/262144   ( 4.5%) 
+HDR ambient table     2950/65536       11800/262144   ( 4.5%) 
+LDR leaf ambient     10947/65536      306516/1835008  (16.7%) 
+HDR leaf ambient     10947/65536      306516/1835008  (16.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/76852    ( 0.0%) 
+pakfile               [variable]     4514699/0        ( 0.0%) 
+physics               [variable]      513287/4194304  (12.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3
+
+Total triangle count: 18751
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+3 minutes, 37 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\desertparablerus1\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.vmf
+Map revision 53
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tile/tile_ceiling_001b" not found.
+Material not found!: TILE/TILE_CEILING_001B
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Can't find surfaceprop upholstery for material PLASTER/CEILING_INSULATION02, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 244 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (513287 bytes)
+Error! To use model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/unconid/pc_models/monitors/lcd_lg_4x3.mdl"!
+Error! To use model "models/cases/1/hp_case.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/cases/1/hp_case.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1857 texinfos to 1086
+Reduced 131 texdatas to 117 (4423 bytes to 4076)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+5 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.prt
+1299 portalclusters
+3729 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1890 visible clusters (0.00%)
+Total clusters visible: 349642
+Average clusters visible: 269
+Building PAS...
+Average clusters audible: 642
+visdatasize:326473  compressed from 436464
+writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+17 minutes, 31 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+6132 faces
+2 degenerate faces
+981219 square feet [141295584.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6130 patches before subdivision
+zero area child patch
+zero area child patch
+99970 patches after subdivision
+371 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9780125, max 836
+transfer lists:  74.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(112934, 120634, 131522)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29568, 31933, 34017)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9498, 10178, 10196)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3613, 3836, 3636)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1464, 1535, 1371)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(658, 682, 585)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(312, 319, 264)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(157, 160, 129)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(84, 84, 67)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(46, 46, 36)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(27, 26, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(16, 15, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(10, 10, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(6, 6, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(4, 4, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(3, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(2, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0328 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+2 of 6 (33% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  24/4096         1152/196608   ( 0.6%) 
+brushes               1440/32768       17280/393216   ( 4.4%) 
+brushsides           10561/65536       84488/524288   (16.1%) 
+planes                4922/65536       98440/1310720  ( 7.5%) 
+vertexes             10096/65536      121152/786432   (15.4%) 
+nodes                 2925/65536       93600/2097152  ( 4.5%) 
+texinfos              1086/12288       78192/884736   ( 8.8%) 
+texdata                117/2048         3744/65536    ( 5.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 6132/65536      343392/3670016  ( 9.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3922/65536      219632/3670016  ( 6.0%) 
+leaves                2950/65536       94400/2097152  ( 4.5%) 
+leaffaces             7540/65536       15080/131072   (11.5%) 
+leafbrushes           2724/65536        5448/131072   ( 4.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            46714/512000     186856/2048000  ( 9.1%) 
+edges                27984/256000     111936/1024000  (10.9%) 
+LDR worldlights        370/16384       32560/1441792  ( 2.3%) 
+HDR worldlights          0/16384           0/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            669/131072       6690/1310720  ( 0.5%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         13425/131072      26850/262144   (10.2%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays               112/1024        39424/360448   (10.9%) 
+LDR lightdata         [variable]     3716028/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      326473/16777216 ( 1.9%) 
+entdata               [variable]      144327/393216   (36.7%) 
+LDR ambient table     2950/65536       11800/262144   ( 4.5%) 
+HDR ambient table     2950/65536       11800/262144   ( 4.5%) 
+LDR leaf ambient     10945/65536      306460/1835008  (16.7%) 
+HDR leaf ambient      2950/65536       82600/1835008  ( 4.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/76852    ( 0.0%) 
+pakfile               [variable]     2435215/0        ( 0.0%) 
+physics               [variable]      513287/4194304  (12.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 18751
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+3 minutes, 24 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+6132 faces
+2 degenerate faces
+981219 square feet [141295584.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6130 patches before subdivision
+zero area child patch
+zero area child patch
+99970 patches after subdivision
+371 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9780125, max 836
+transfer lists:  74.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(112935, 120636, 131523)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29568, 31933, 34017)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9498, 10178, 10196)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3613, 3836, 3636)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1464, 1535, 1371)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(658, 682, 585)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(312, 319, 264)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(157, 160, 129)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(84, 84, 67)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(46, 46, 36)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(27, 26, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(16, 15, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(10, 10, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(6, 6, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(4, 4, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(3, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(2, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0314 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+2 of 6 (33% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  24/4096         1152/196608   ( 0.6%) 
+brushes               1440/32768       17280/393216   ( 4.4%) 
+brushsides           10561/65536       84488/524288   (16.1%) 
+planes                4922/65536       98440/1310720  ( 7.5%) 
+vertexes             10096/65536      121152/786432   (15.4%) 
+nodes                 2925/65536       93600/2097152  ( 4.5%) 
+texinfos              1086/12288       78192/884736   ( 8.8%) 
+texdata                117/2048         3744/65536    ( 5.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 6132/65536      343392/3670016  ( 9.4%) 
+hdr faces             6132/65536      343392/3670016  ( 9.4%) 
+origfaces             3922/65536      219632/3670016  ( 6.0%) 
+leaves                2950/65536       94400/2097152  ( 4.5%) 
+leaffaces             7540/65536       15080/131072   (11.5%) 
+leafbrushes           2724/65536        5448/131072   ( 4.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            46714/512000     186856/2048000  ( 9.1%) 
+edges                27984/256000     111936/1024000  (10.9%) 
+LDR worldlights        370/16384       32560/1441792  ( 2.3%) 
+HDR worldlights        370/16384       32560/1441792  ( 2.3%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            669/131072       6690/1310720  ( 0.5%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         13425/131072      26850/262144   (10.2%) 
+cubemapsamples           3/1024           48/16384    ( 0.3%) 
+overlays               112/1024        39424/360448   (10.9%) 
+LDR lightdata         [variable]     3716028/0        ( 0.0%) 
+HDR lightdata         [variable]     3716028/0        ( 0.0%) 
+visdata               [variable]      326473/16777216 ( 1.9%) 
+entdata               [variable]      144327/393216   (36.7%) 
+LDR ambient table     2950/65536       11800/262144   ( 4.5%) 
+HDR ambient table     2950/65536       11800/262144   ( 4.5%) 
+LDR leaf ambient     10945/65536      306460/1835008  (16.7%) 
+HDR leaf ambient     10945/65536      306460/1835008  (16.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/76852    ( 0.0%) 
+pakfile               [variable]     4514699/0        ( 0.0%) 
+physics               [variable]      513287/4194304  (12.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3
+
+Total triangle count: 18751
+Writing c:\program files (x86)\steam\steamapps\sourcemods\desertparablerus1\maps\nestorparable1.bsp
+3 minutes, 22 seconds elapsed
