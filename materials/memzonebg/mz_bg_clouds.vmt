@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "memzonebg/mz_bg_clouds"
+	"$translucent" 1
+}

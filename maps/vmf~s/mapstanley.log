@@ -1,0 +1,158 @@
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\sourcemods\Desert-Parable\materials
+Loading d:\sourcemods\desert-parable\maps\vmf~s\mapstanley.vmf
+Material not found!: METAL/METALDOOR055A
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_BASE, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+Material not found!: CONCRETE/CONCRETEWALL015A
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_BACK, using default
+Material not found!: PLASTER/PLASTERWALL053C
+Material not found!: STONE/STONEWALL050A
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+Material not found!: CONCRETE/CONCRETEWALL010A
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_EDGES, using default
+Material not found!: METAL/METALPIPE008A
+Material not found!: CONCRETE/CONCRETEWALL023B
+Material not found!: CONCRETE/CONCRETEWALL023D
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE001B
+"materials/Tools/toolsskip.vtf": cached version doesn't exist
+"materials/Tools/toolshint.vtf": cached version doesn't exist
+Material not found!: CONCRETE/CONCRETECEILING003A
+Material not found!: CONCRETE/CONCRETEWALL061B
+Material not found!: WOOD/WOODDOOR046A
+Material not found!: CONCRETE/CONCRETEWALL010B
+Material not found!: CONCRETE/CONCRETEWALL_MINE_001A
+Material not found!: WOOD/WOODSHELF002A
+Material not found!: LIGHTS/FLUORESCENT001A
+Material not found!: WOOD/WOODDOOR048B
+Material not found!: LIGHTS/FLUORESCENTCOOL003A
+Material not found!: WOOD/WOODDOOR011A
+Material not found!: WOOD/WOODDOOR013A
+Material not found!: DEV/DEV_CONCRETEFLOOR004A
+Material not found!: PLASTER/PLASTERWALL048A
+Material not found!: GLASS/GLASSWINDOW001B
+Material not found!: WOOD/WOODWALL018A
+Material not found!: WOOD/WOODDOOR014B
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE004B
+Material not found!: METAL/METALCEILING005A
+Material not found!: NATURE/BLENDSANDGRASS008A
+Material not found!: GLASS/GLASSWINDOW017A
+Material not found!: WOOD/WOODDOOR021A
+Material not found!: DEV/DEV_ENVCUBEMAP
+"materials/Tools/toolsplayerclip.vtf": cached version doesn't exist
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK01_NOBUMP, using default
+Material not found!: CABLE/GREEN
+Material not found!: CABLE/RED
+Material not found!: TILE/TILEWALL006A
+Material not found!: BRICK/BRICKWALL017A
+Material not found!: CONCRETE/CONCRETEWALL008A
+"materials/Tools/toolstrigger.vtf": cached version doesn't exist
+Material not found!: TOOLS/TOOLSOCCLUDER
+Material not found!: METAL/METALDOOR046A
+Material not found!: METAL/METALPIPE007A
+Material not found!: STONE/STONEWALL013A
+Material not found!: CONCRETE/CONCRETEWALL013A
+Material not found!: BRICK/BRICKWALL034F
+Could not locate GameData file stanley.fgd
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 370 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\sourcemods\desert-parable\maps\vmf~s\mapstanley.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (465553 bytes)
+Error loading studio model "models/biyyegy/plant2.mdl"!
+Error! To use model "models/props_parable/pencil.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_parable/pencil.mdl"!
+Error loading studio model "models/props_c17/gasmeter003a.mdl"!
+Error loading studio model "models/props_silo/wall_light.mdl"!
+Error loading studio model "models/props_silo/wall_light_off.mdl"!
+Error loading studio model "models/cs_office/plant01_static.mdl"!
+Error loading studio model "models/cs_office/box_office_indoor_32.mdl"!
+Error loading studio model "models/props_wasteland/light_spotlight02_base.mdl"!
+Error loading studio model "models/props_wasteland/light_spotlight01_lamp.mdl"!
+Error loading studio model "models/props_lab/frame001a.mdl"!
+Error loading studio model "models/props_combine/breenchair.mdl"!
+Error loading studio model "models/props_vents/vent_medium_straight001.mdl"!
+Error loading studio model "models/props_lab/generatorconsole.mdl"!
+Error! To use model "models/props_parable/pen.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_parable/pen.mdl"!
+Error! prop_static using model "models/props_c17/chair_office01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/chair_office01a.mdl"!
+Error loading studio model "models/cases/1/hp_case.mdl"!
+Error! prop_static using model "models/props_interiors/radiator01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/radiator01a.mdl"!
+Error loading studio model "models/props_c17/metalladder001.mdl"!
+Error loading studio model "models/props_junk/metal_paintcan001a.mdl"!
+Error loading studio model "models/props_junk/vent001.mdl"!
+Error loading studio model "models/props_combine/breendesk.mdl"!
+Error! prop_static using model "models/props_c17/furniturecouch001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/furniturecouch001a.mdl"!
+Error loading studio model "models/props_lab/servers.mdl"!
+Error loading studio model "models/props_silo/silo_launchroom_monitor.mdl"!
+Error loading studio model "models/props_c17/hospital_shelf01.mdl"!
+Error loading studio model "models/props_combine/breenclock.mdl"!
+Error loading studio model "models/biyyegy/plant1.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2540 texinfos to 1580
+Reduced 289 texdatas to 248 (10903 bytes to 9238)
+Writing d:\sourcemods\desert-parable\maps\vmf~s\mapstanley.bsp
+
+nummapplanes:     (  4218 / 65536 )
+nummapbrushes:    (  1325 /  8192 )
+nummapbrushsides: (  8465 / 65536 )
+num_map_overlays: (    77 /   512 )
+nummodels:        (    55 /  1024 )
+num_entities:     (   393 / 16384 )
+
+5 seconds elapsed
+
+
+
+20 threads
+reading d:\sourcemods\desert-parable\maps\vmf~s\mapstanley.bsp
+reading d:\sourcemods\desert-parable\maps\vmf~s\mapstanley.prt
+1704 portalclusters
+5316 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 7938 visible clusters (0.00%)
+Total clusters visible: 662132
+Average clusters visible: 388
+Building PAS...
+Average clusters audible: 1342
+visdatasize:593148  compressed from 736128
+writing d:\sourcemods\desert-parable\maps\vmf~s\mapstanley.bsp
+4 minutes, 24 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\SteamLibrary\steamapps\common\Portal 2\bin\lights.rad.
+Loading d:\sourcemods\desert-parable\maps\vmf~s\mapstanley.bsp
+6821 faces
+3 degenerate faces
+957944 square feet [137944000.00 square inches]
+1 Displacements
+96728 Square Feet [13928857.00 Square Inches]
+6818 patches before subdivision
+90622 patches after subdivision
+189 direct lights
+0...1..

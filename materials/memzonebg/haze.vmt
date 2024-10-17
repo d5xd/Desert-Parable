@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "memzonebg/haze"
+	"$translucent" 1
+}
