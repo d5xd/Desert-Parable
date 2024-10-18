@@ -119,44 +119,44 @@
 	"wave"	"#narrator/choose0000.wav"
 }
 //Auto-generated with the batch script!
-"narration.2c_stopmoving_00"
+"narration.NewcontentMemoryzoneintroduce"
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"1.0"
 	"soundlevel"	"SNDLVL_NONE"
-	"wave"	"#narrator/2c_stopmoving_00.wav"
+	"wave"	"#narrator/zonapamyati/memory10000.wav"
 }
 //Auto-generated with the batch script!
-"narration.2d_goback_00"
+"narration.NewContentMusseumZone"
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"1.0"
 	"soundlevel"	"SNDLVL_NONE"
-	"wave"	"#narrator/2d_goback_00.wav"
+	"wave"	"#narrator/zonapamyati/IntroDUce0000.wav"
 }
 //Auto-generated with the batch script!
-"narration.2e_convinceyou_00"
+"narration.NewContentWhere_areyougoinnestor_this_placeiscreatedby_writer"
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"1.0"
 	"soundlevel"	"SNDLVL_NONE"
-	"wave"	"#narrator/2e_convinceyou_00.wav"
+	"wave"	"#narrator/zonapamyati/PisatelMesto0000.wav"
 }
 //Auto-generated with the batch script!
-"narration.3a_letsgoback_00"
+"narration.NewContentbadreviewnarrator"
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"1.0"
 	"soundlevel"	"SNDLVL_NONE"
-	"wave"	"#narrator/3a_letsgoback_00.wav"
+	"wave"	"#narrator/zonapamyati/Otziv0000.wav"
 }
 //Auto-generated with the batch script!
-"narration.3b_perhapsyoucan_00"
+"narration.NewContent_writer_isuggestpressing_askipbutton"
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"1.0"
 	"soundlevel"	"SNDLVL_NONE"
-	"wave"	"#narrator/3b_perhapsyoucan_00.wav"
+	"wave"	"#narrator/zonapamyati/PisaTEL0000.wav"
 }
 //Auto-generated with the batch script!
 "narration.3c_wecantleave_00"
