@@ -15,108 +15,108 @@
 	"wave"	"#narrator/1THEREALnarator/prolog10000.wav"
 }
 //Auto-generated with the batch script!
-"narration.1b_Whereareyougoing_00"
+"narration.NewContentPT1"
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"1.0"
 	"soundlevel"	"SNDLVL_NONE"
-	"wave"	"#narrator/1b_Whereareyougoing_00.wav"
+	"wave"	"#narrator/THEREALnarator/NaratarNewcontent10000.wav"
 }
 //Auto-generated with the batch script!
-"narration.1c_Stayaway_00"
+"narration.NewContentPT2"
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"1.0"
 	"soundlevel"	"SNDLVL_NONE"
-	"wave"	"#narrator/1c_Stayaway_00.wav"
+	"wave"	"#narrator/THEREALnarator/newconctenct00200000.wav"
 }
 //Auto-generated with the batch script!
-"narration.1d_Donttakethis_00"
+"narration.newcontentpostirony"
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"1.0"
 	"soundlevel"	"SNDLVL_NONE"
-	"wave"	"#narrator/1d_Donttakethis_00.wav"
+	"wave"	"#narrator/THEREALnarator/postirony0000.wav"
+}
+//for Boz-changed the location of this file to sound/narrator/THEREALnarator
+"narration.NewContentEND"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"#narrator/THEREALnarator/Progrаmjgsk;cm0000.wav"
 }
 //Auto-generated with the batch script!
-"narration.1e_No_00"
+"narration.nestorparablefuckyounestor"
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"1.0"
 	"soundlevel"	"SNDLVL_NONE"
-	"wave"	"#narrator/1e_No_00.wav"
+	"wave"	"#narrator/NESTORTIEBLANTEBENESUDA0000.wav"
 }
 //Auto-generated with the batch script!
-"narration.1f_wherewerewe_00"
+"narration.writer_nestor_enteredtherightdoor"
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"1.0"
 	"soundlevel"	"SNDLVL_NONE"
-	"wave"	"#narrator/1f_wherewerewe_00.wav"
+	"wave"	"#narrator/NESTORPARABLE/nestorpravayadver10000.wav"
 }
 //Auto-generated with the batch script!
-"narration.1g_promiseyouwontgoback_00"
+"narration.Nestorwhere_are_you_going_you_dont_likemygame"
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"1.0"
 	"soundlevel"	"SNDLVL_NONE"
-	"wave"	"#narrator/1g_promiseyouwontgoback_00.wav"
+	"wave"	"#narrator/NESTORPARABLE/tebenravicamoyaigra0000.wav"
 }
 //Auto-generated with the batch script!
-"narration.1h_youreriskingeverything_00"
+"narration.nestoryoudontlikemygameGREEN"
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"1.0"
 	"soundlevel"	"SNDLVL_NONE"
-	"wave"	"#narrator/1h_youreriskingeverything_00.wav"
+	"wave"	"#narrator/NESTORPARABLE/REDENDING10000.wav"
 }
 //Auto-generated with the batch script!
-"narration.1i_stayhere_00"
+"narration.gta4"
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"1.0"
 	"soundlevel"	"SNDLVL_NONE"
-	"wave"	"#narrator/1i_stayhere_00.wav"
+	"wave"	"#narrator/NESTORPARABLE/GTA40000.wav"
 }
 //Auto-generated with the batch script!
-"narration.1j_heardmebefore_00"
+"narration.writer_thecargoisbroken"
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"1.0"
 	"soundlevel"	"SNDLVL_NONE"
-	"wave"	"#narrator/1j_heardmebefore_00.wav"
+	"wave"	"#narrator/NESTORPARABLE/cargo1/cargoEBLAN10000.wav"
 }
 //Auto-generated with the batch script!
-"narration.1k_Think_00"
+"narration.writer_ithinkushouldsaysorrytosomeone"
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"1.0"
 	"soundlevel"	"SNDLVL_NONE"
-	"wave"	"#narrator/1k_Think_00.wav"
+	"wave"	"#narrator/NESTORPARABLE/cargo1/carhoizvinitsa0000.wav"
 }
 //Auto-generated with the batch script!
-"narration.2a_Thankgod_00"
+"narration.Narrator_hellodumbassphoneENDING"
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"1.0"
 	"soundlevel"	"SNDLVL_NONE"
-	"wave"	"#narrator/2a_Thankgod_00.wav"
+	"wave"	"#narrator/NESTORPARALBE/cargo1/PRIVETYEBISHENAHUI0000.wav"
 }
 //Auto-generated with the batch script!
-"narration.2b_wellbothgoback_00"
+"narration.PHONEENDINGEND"
 {
 	"channel"	"CHAN_VOICE"
 	"volume"	"1.0"
 	"soundlevel"	"SNDLVL_NONE"
-	"wave"	"#narrator/2b_wellbothgoback_00.wav"
-}
-//Auto-generated with the batch script!
-"narration.2b_wellbothgoback_01"
-{
-	"channel"	"CHAN_VOICE"
-	"volume"	"1.0"
-	"soundlevel"	"SNDLVL_NONE"
-	"wave"	"#narrator/2b_wellbothgoback_01.wav"
+	"wave"	"#narrator/choose0000.wav"
 }
 //Auto-generated with the batch script!
 "narration.2c_stopmoving_00"
