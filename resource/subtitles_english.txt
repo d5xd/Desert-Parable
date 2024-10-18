@@ -12,6 +12,12 @@
             "narration.NewContentPT2"                     "Well, who's that? Hm, looks like a clever man, let's not get in his way."
             "narration.newcontentpostirony"               "Wow it's a sand pyramid.... Well maybe that's post irony."
             "narration.NewContentEND"                    "That's it!? The developer's playing a joke on us, isn't it!? I'll show him! I can erase this ga-"
+            "narration.NewcontentMemoryzoneintroduce"       "Hi Nestor, do you agree that the new content was just a spit in the face of the fans? Then go ahead, I have a present for you."
+            "narration.NewContentMusseumZone"       "What do you think? I call it “The Place of Memory” or “The Place of the Museum” but don't tell the writer!"
+            "narration.NewContentWhere_areyougoinnestor_this_placeiscreatedby_writer"     "Where are you going Nestor, I remember this place, this place was created by a writer, he always hated my original game and idea, everything wants to make endless sequels and write his own articles, asshole. Let's take a peek and go!"
+//Skip Button Sub-Ending
+            "narration.NewContentbadreviewnarrator" "Boring. Ha, If they knew how much I put into this original game, they wouldn't be giggling. But of course, it's just a show-off for those who are incapable of appreciating true art... assholes.."
+            "narration.NewContent_writer_isuggestpressing_askipbutton"      "Nestor, you have to admit, the narrator is very boring. Don't listen to him. Yeah, well, I created this place. Well, I'm sorry, many locations are owned by a terrible narrator. I suggest you use the skip button."
 //i forgor what that ending is, but it contains RE7 and gta 4 (great games btw yall should play)
             "narration.nestorparablefuckyounestor"    "Nestor, are you fucking nuts? Where are you going, genius? Nestor, you're not going this fucking way, you're going this way. Well, fuck you. I'm leaving. Bye."
             "narration.writer_nestor_enteredtherightdoor"       "Nestor walked through the right door."
