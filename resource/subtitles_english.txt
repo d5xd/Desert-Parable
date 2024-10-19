@@ -14,21 +14,21 @@
             "narration.NewContentEND"                    "That's it!? The developer's playing a joke on us, isn't it!? I'll show him! I can erase this ga-"
             "narration.NewcontentMemoryzoneintroduce"       "Hi Nestor, do you agree that the new content was just a spit in the face of the fans? Then go ahead, I have a present for you."
             "narration.NewContentMusseumZone"       "What do you think? I call it “The Place of Memory” or “The Place of the Museum” but don't tell the writer!"
-            "narration.NewContentWhere_areyougoinnestor_this_placeiscreatedby_writer"     "Where are you going Nestor, I remember this place, this place was created by a writer, he always hated my original game and idea, everything wants to make endless sequels and write his own articles, asshole. Let's take a peek and go!"
+            "narration.NewContentWhere_areyougoinnestor_this_placeiscreatedby_writer"     "Where are you going Nestor, I remember this place, this place was created by a writer, he always hated my original game and idea, everything wants to make endless sequels and write his own articles, as##ole. Let's take a peek and go!"
 //Skip Button Sub-Ending
-            "narration.NewContentbadreviewnarrator" "Boring. Ha, If they knew how much I put into this original game, they wouldn't be giggling. But of course, it's just a show-off for those who are incapable of appreciating true art... assholes.."
+            "narration.NewContentbadreviewnarrator" "Boring. Ha, If they knew how much I put into this original game, they wouldn't be giggling. But of course, it's just a show-off for those who are incapable of appreciating true art... as####.."
             "narration.NewContent_writer_isuggestpressing_askipbutton"      "Nestor, you have to admit, the narrator is very boring. Don't listen to him. Yeah, well, I created this place. Well, I'm sorry, many locations are owned by a terrible narrator. I suggest you use the skip button."
 //i forgor what that ending is, but it contains RE7 and gta 4 (great games btw yall should play)
-            "narration.nestorparablefuckyounestor"    "Nestor, are you fucking nuts? Where are you going, genius? Nestor, you're not going this fucking way, you're going this way. Well, fuck you. I'm leaving. Bye."
+            "narration.nestorparablefuckyounestor"    "Nestor, are you fricking nuts? Where are you going, genius? Nestor, you're not going this fu###ng way, you're going this way. Well, fuck you. I'm leaving. Bye."
             "narration.writer_nestor_enteredtherightdoor"       "Nestor walked through the right door."
             "narration.Nestorwhere_are_you_going_you_dont_likemygame"   "Nestor, where are you going? You don't like my game or something? Did you know how long I've been making it? It's-- Okay. Let me ask you a question. Is my game boring? Green Yes. Red No."
-            "narration.nestoryoudontlikemygameGREEN" "Hmm, my game is boring after all, that's just great. I put so much effort into my game that some I'm not afraid of the word... faggot said my game was a piece of shit. All right, Nestor, you got it. Look, okay, let's play another game since you hate my game. What's that? Hmm, that looks good!"
+            "narration.nestoryoudontlikemygameGREEN" "Hmm, my game is boring after all, that's just great. I put so much effort into my game that some I'm not afraid of the word... fa##ot said my game was a piece of shit. All right, Nestor, you got it. Look, okay, let's play another game since you hate my game. What's that? Hmm, that looks good!"
             "narration.gta4"                                              "All right, well, Nestor, what's this? Nestor, close your eyes, this is not a game for children, hmm. Guess I'll have to find another one, hmm-hmm-hmm. This'll do."
 //Cargo lift and offensive word bruh in russian it sounds great and not offensive
-            "narration.writer_thecargoisbroken"                  "The elevator's broken? Nestor, are you retarded? You can't turn on the nooclip!? All right, I'll teleport you."
+            "narration.writer_thecargoisbroken"                  "The elevator's broken? Nestor, are you ret###ed? You can't turn on the nooclip!? All right, I'll teleport you."
             "narration.writer_ithinkushouldsaysorrytosomeone" "Nestor, I think you owe someone an apology."
 //Phone Ending
-            "narration.Narrator_hellodumbassphoneENDING" "Hey, motherfucker, what the fuck do you want? Don't call here no more Nestor the fucker! You fucked me up, and fuck off and tell that to your new narrator."
+            "narration.Narrator_hellodumbassphoneENDING" "Hey, mot####cker, what the f##k do you want? Don't call here no more Nestor the fu###er! You fu##ed me up, and f##k off and tell that to your new narrator."
             "narration.PHONEENDINGEND" "Interesting. Now look here, Nestor. I killed him. He's gone, you know? Or is he? Ha-ha. Well, Nestor, you got a choice. Either you close the game, or I get you."
 	}
 }
