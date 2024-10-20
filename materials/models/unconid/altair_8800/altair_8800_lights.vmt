@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	"$basetexture"	 "models\unconid\pc_models\altair_8800\altair_8800_lights"
+	"$bumpmap"	 "models\unconid\1shared\sst_normal"
+
+	"$phong" "1"
+	"$phongexponent" "80"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[.2 4 1]"
+
+}
