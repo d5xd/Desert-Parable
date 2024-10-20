@@ -12,7 +12,7 @@
 	"channel"	"CHAN_VOICE"
 	"volume"	"1.0"
 	"soundlevel"	"SNDLVL_NONE"
-	"wave"	"#narrator/1THEREALnarator/prolog10000.wav"
+	"wave"	"#narrator/THEREALnarator/prolog10000.wav"
 }
 //Auto-generated with the batch script!
 "narration.NewContentPT1"

@@ -1,0 +1,27 @@
+// Choreo version 1
+actor "narrator"
+{
+  channel "voice"
+  {
+    event speak "narration.nestoryoudontlikemygameGREEN"
+    {
+      time 0.000000 31.192970
+      param "narration.nestoryoudontlikemygameGREEN"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+  }
+}
+
+scalesettings
+{
+  "SceneRampTool" "100"
+  "GestureTool" "100"
+  "ExpressionTool" "100"
+  "RampTool" "100"
+  "CChoreoView" "168"
+}
+fps 60
+snap off
+ignorePhonemes off

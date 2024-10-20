@@ -1,0 +1,27 @@
+// Choreo version 1
+actor "narrator"
+{
+  channel "voice"
+  {
+    event speak "narration.NewContentEND"
+    {
+      time 0.000000 -1.000000
+      param "narration.NewContentEND"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+  }
+}
+
+scalesettings
+{
+  "SceneRampTool" "100"
+  "GestureTool" "100"
+  "ExpressionTool" "100"
+  "RampTool" "100"
+  "CChoreoView" "100"
+}
+fps 60
+snap off
+ignorePhonemes off

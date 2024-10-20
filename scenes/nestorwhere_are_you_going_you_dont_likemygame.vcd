@@ -1,0 +1,27 @@
+// Choreo version 1
+actor "narrator"
+{
+  channel "voice"
+  {
+    event speak "narration.Nestorwhere_are_you_going_you_dont_likemygame"
+    {
+      time 0.000000 21.771746
+      param "narration.Nestorwhere_are_you_going_you_dont_likemygame"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+  }
+}
+
+scalesettings
+{
+  "SceneRampTool" "100"
+  "GestureTool" "100"
+  "ExpressionTool" "100"
+  "RampTool" "100"
+  "CChoreoView" "168"
+}
+fps 60
+snap off
+ignorePhonemes off

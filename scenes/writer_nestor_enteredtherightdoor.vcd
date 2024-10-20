@@ -1,0 +1,27 @@
+// Choreo version 1
+actor "narrator"
+{
+  channel "voice"
+  {
+    event speak "narration.writer_nestor_enteredtherightdoor"
+    {
+      time 0.000000 2.588254
+      param "narration.writer_nestor_enteredtherightdoor"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+  }
+}
+
+scalesettings
+{
+  "SceneRampTool" "100"
+  "GestureTool" "100"
+  "ExpressionTool" "100"
+  "RampTool" "100"
+  "CChoreoView" "168"
+}
+fps 60
+snap off
+ignorePhonemes off
