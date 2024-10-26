@@ -1176,3 +1176,961 @@ Level flags = 2
 Total triangle count: 4311
 Writing d:\sourcemods\desert-parable\maps\mapstanley_remake.bsp
 10 seconds elapsed
+
+
+
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\sourcemods\Desert-Parable\materials
+Loading d:\sourcemods\desert-parable\maps\mapstanley_remake.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK01_NOBUMP, using default
+"materials/Tools/toolsplayerclip.vtf": cached version doesn't exist
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_BASE, using default
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_EDGES, using default
+"materials/Tools/toolsskip.vtf": cached version doesn't exist
+Material not found!: TOOLS/TOOLSBLOCKLIGHT_OPACITY
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_BACK, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_PATCHED, using default
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+"materials/Tools/toolshint.vtf": cached version doesn't exist
+"materials/Tools/toolstrigger.vtf": cached version doesn't exist
+Could not locate GameData file stanley.fgd
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_changelevel (-82.00 2080.00 -121.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 2560.0 -428.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 2112.0 256.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 2624.0 256.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 2064.0 328.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 2112.0 328.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 2608.0 328.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 2560.0 820.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3116.0 2048.0 -364.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 216 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (438781 bytes)
+Error! To use model "models/props_se/propper/power_monitor_7.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_se/propper/power_monitor_7.mdl"!
+Error! prop_static using model "models/props_c17/furniturecouch001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/furniturecouch001a.mdl"!
+Error! prop_static using model "models/props_interiors/radiator01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/radiator01a.mdl"!
+Error! To use model "models/props_se/pc_case02.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_se/pc_case02.mdl"!
+Error! To use model "models/props_parable/pencil.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_parable/pencil.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2290 texinfos to 1215
+Reduced 171 texdatas to 150 (6447 bytes to 5810)
+Writing d:\sourcemods\desert-parable\maps\mapstanley_remake.bsp
+
+nummapplanes:     (  3020 / 65536 )
+nummapbrushes:    (  1260 /  8192 )
+nummapbrushsides: (  7944 / 65536 )
+num_map_overlays: (    79 /   512 )
+nummodels:        (    27 /  1024 )
+num_entities:     (   375 / 16384 )
+
+12 seconds elapsed
+
+
+
+20 threads
+reading d:\sourcemods\desert-parable\maps\mapstanley_remake.bsp
+reading d:\sourcemods\desert-parable\maps\mapstanley_remake.prt
+LoadPortals: couldn't read d:\sourcemods\desert-parable\maps\mapstanley_remake.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\sourcemods\Desert-Parable\materials
+Loading d:\sourcemods\desert-parable\maps\mapstanley_remake.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK01_NOBUMP, using default
+"materials/Tools/toolsplayerclip.vtf": cached version doesn't exist
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_BASE, using default
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_EDGES, using default
+"materials/Tools/toolsskip.vtf": cached version doesn't exist
+Material not found!: TOOLS/TOOLSBLOCKLIGHT_OPACITY
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_BACK, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_PATCHED, using default
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+"materials/Tools/toolshint.vtf": cached version doesn't exist
+"materials/Tools/toolstrigger.vtf": cached version doesn't exist
+Could not locate GameData file stanley.fgd
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (1707.00 100.00 576.26) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 2560.0 -428.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 2112.0 256.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 2624.0 256.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 2064.0 328.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 2112.0 328.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 2608.0 328.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 2560.0 820.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3116.0 2048.0 -364.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 216 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (438781 bytes)
+Error! To use model "models/props_se/propper/power_monitor_7.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_se/propper/power_monitor_7.mdl"!
+Error! prop_static using model "models/props_c17/furniturecouch001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/furniturecouch001a.mdl"!
+Error! prop_static using model "models/props_interiors/radiator01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/radiator01a.mdl"!
+Error! To use model "models/props_se/pc_case02.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_se/pc_case02.mdl"!
+Error! To use model "models/props_parable/pencil.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_parable/pencil.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2290 texinfos to 1215
+Reduced 171 texdatas to 150 (6447 bytes to 5810)
+Writing d:\sourcemods\desert-parable\maps\mapstanley_remake.bsp
+
+nummapplanes:     (  3020 / 65536 )
+nummapbrushes:    (  1260 /  8192 )
+nummapbrushsides: (  7944 / 65536 )
+num_map_overlays: (    79 /   512 )
+nummodels:        (    27 /  1024 )
+num_entities:     (   375 / 16384 )
+
+1 second elapsed
+
+
+
+20 threads
+reading d:\sourcemods\desert-parable\maps\mapstanley_remake.bsp
+reading d:\sourcemods\desert-parable\maps\mapstanley_remake.prt
+LoadPortals: couldn't read d:\sourcemods\desert-parable\maps\mapstanley_remake.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\sourcemods\Desert-Parable\materials
+Loading d:\sourcemods\desert-parable\maps\mapstanley_remake.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK01_NOBUMP, using default
+"materials/Tools/toolsplayerclip.vtf": cached version doesn't exist
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_BASE, using default
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_EDGES, using default
+"materials/Tools/toolsskip.vtf": cached version doesn't exist
+Material not found!: TOOLS/TOOLSBLOCKLIGHT_OPACITY
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_BACK, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_PATCHED, using default
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+"materials/Tools/toolshint.vtf": cached version doesn't exist
+"materials/Tools/toolstrigger.vtf": cached version doesn't exist
+Could not locate GameData file stanley.fgd
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_wall (2188.44 914.50 292.62) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 2560.0 -428.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 2112.0 256.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 2624.0 256.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 2064.0 328.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 2112.0 328.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 2608.0 328.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 2560.0 820.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3116.0 2048.0 -364.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "BossOFFICE" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Occluder "toomanyprops" straddles multiple areas. This is invalid!
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 216 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (439173 bytes)
+Error! To use model "models/props_se/propper/power_monitor_7.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_se/propper/power_monitor_7.mdl"!
+Error! prop_static using model "models/props_c17/furniturecouch001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/furniturecouch001a.mdl"!
+Error! prop_static using model "models/props_interiors/radiator01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/radiator01a.mdl"!
+Error! To use model "models/props_se/pc_case02.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_se/pc_case02.mdl"!
+Error! To use model "models/props_parable/pencil.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_parable/pencil.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2290 texinfos to 1215
+Reduced 171 texdatas to 150 (6447 bytes to 5810)
+Writing d:\sourcemods\desert-parable\maps\mapstanley_remake.bsp
+
+nummapplanes:     (  3024 / 65536 )
+nummapbrushes:    (  1261 /  8192 )
+nummapbrushsides: (  7950 / 65536 )
+num_map_overlays: (    79 /   512 )
+nummodels:        (    27 /  1024 )
+num_entities:     (   375 / 16384 )
+
+1 second elapsed
+
+
+
+20 threads
+reading d:\sourcemods\desert-parable\maps\mapstanley_remake.bsp
+reading d:\sourcemods\desert-parable\maps\mapstanley_remake.prt
+LoadPortals: couldn't read d:\sourcemods\desert-parable\maps\mapstanley_remake.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\sourcemods\Desert-Parable\materials
+Loading d:\sourcemods\desert-parable\maps\mapstanley_remake.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK01_NOBUMP, using default
+"materials/Tools/toolsplayerclip.vtf": cached version doesn't exist
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_BASE, using default
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_EDGES, using default
+"materials/Tools/toolsskip.vtf": cached version doesn't exist
+Material not found!: TOOLS/TOOLSBLOCKLIGHT_OPACITY
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_BACK, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_PATCHED, using default
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+"materials/Tools/toolshint.vtf": cached version doesn't exist
+"materials/Tools/toolstrigger.vtf": cached version doesn't exist
+Could not locate GameData file stanley.fgd
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 216 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\sourcemods\desert-parable\maps\mapstanley_remake.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (439173 bytes)
+Error! To use model "models/props_se/propper/power_monitor_7.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_se/propper/power_monitor_7.mdl"!
+Error! prop_static using model "models/props_c17/furniturecouch001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/furniturecouch001a.mdl"!
+Error! prop_static using model "models/props_interiors/radiator01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/radiator01a.mdl"!
+Error! To use model "models/props_se/pc_case02.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_se/pc_case02.mdl"!
+Error! To use model "models/props_parable/pencil.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_parable/pencil.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2290 texinfos to 1082
+Reduced 171 texdatas to 145 (6447 bytes to 5590)
+Writing d:\sourcemods\desert-parable\maps\mapstanley_remake.bsp
+
+nummapplanes:     (  3020 / 65536 )
+nummapbrushes:    (  1261 /  8192 )
+nummapbrushsides: (  7950 / 65536 )
+num_map_overlays: (    79 /   512 )
+nummodels:        (    27 /  1024 )
+num_entities:     (   375 / 16384 )
+
+0 seconds elapsed
+
+
+
+20 threads
+reading d:\sourcemods\desert-parable\maps\mapstanley_remake.bsp
+reading d:\sourcemods\desert-parable\maps\mapstanley_remake.prt
+ 488 portalclusters
+ 897 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 164 visible clusters (0.00%)
+Total clusters visible: 25742
+Average clusters visible: 52
+Building PAS...
+Average clusters audible: 126
+visdatasize:25354  compressed from 62464
+writing d:\sourcemods\desert-parable\maps\mapstanley_remake.bsp
+0 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\SteamLibrary\steamapps\common\Portal 2\bin\lights.rad.
+Loading d:\sourcemods\desert-parable\maps\mapstanley_remake.bsp
+3171 faces
+3 degenerate faces
+131038 square feet [18869488.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3168 patches before subdivision
+57266 patches after subdivision
+189 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4140115, max 365
+transfer lists:  31.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(89020, 91274, 102270)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(62946, 64795, 63585)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(24271, 24733, 24084)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(14501, 14730, 13502)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(6605, 6654, 5975)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4144, 4163, 3637)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2123, 2123, 1826)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1443, 1433, 1219)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(815, 807, 685)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(584, 572, 484)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(355, 347, 297)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(261, 251, 215)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(167, 161, 140)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(123, 118, 103)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(82, 79, 70)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(61, 57, 51)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(42, 39, 36)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(31, 29, 26)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(21, 20, 19)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(16, 15, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(11, 11, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(8, 8, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(6, 6, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(4, 4, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(3, 3, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0058 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  27/1024         1296/49152    ( 2.6%) 
+brushes               1261/8192        15132/98304    (15.4%) 
+brushsides            7954/65536       63632/524288   (12.1%) 
+planes                3020/65536       60400/1310720  ( 4.6%) 
+vertexes              6249/65536       74988/786432   ( 9.5%) 
+nodes                 1484/65536       47488/2097152  ( 2.3%) 
+texinfos              1082/12288       77904/884736   ( 8.8%) 
+texdata                145/2048         4640/65536    ( 7.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3171/65536      177576/3670016  ( 4.8%) 
+hdr faces             3171/65536      177576/3670016  ( 4.8%) 
+origfaces             2255/65536      126280/3670016  ( 3.4%) 
+facebrushes            657/0            1314/0        ( 0.0%) 
+facebrushlists        3171/0           12684/0        ( 0.0%) 
+leaves                1512/65536       48384/2097152  ( 2.3%) 
+leaffaces             3980/65536        7960/131072   ( 6.1%) 
+leafbrushes           1951/65536        3902/131072   ( 3.0%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            24836/512000      99344/2048000  ( 4.9%) 
+edges                16063/256000      64252/1024000  ( 6.3%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights        189/8192        18900/819200   ( 2.3%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            383/32768        3830/327680   ( 1.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7590/65536       15180/131072   (11.6%) 
+cubemapsamples           9/1024          144/16384    ( 0.9%) 
+overlays                79/512         27808/180224   (15.4%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     2826416/0        ( 0.0%) 
+visdata               [variable]       25354/16777216 ( 0.2%) 
+entdata               [variable]      124039/393216   (31.5%) 
+LDR ambient table     1512/65536        6048/262144   ( 2.3%) 
+HDR ambient table     1512/65536        6048/262144   ( 2.3%) 
+LDR leaf ambient      1512/65536       42336/1835008  ( 2.3%) 
+HDR leaf ambient      4226/65536      118328/1835008  ( 6.4%) 
+occluders                2/0              80/0        ( 0.0%) 
+occluder polygons       12/0             144/0        ( 0.0%) 
+occluder vert ind       48/0             192/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/74814    ( 0.0%) 
+pakfile               [variable]     2646916/0        ( 0.0%) 
+physics               [variable]      439173/4194304  (10.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 9483
+Writing d:\sourcemods\desert-parable\maps\mapstanley_remake.bsp
+26 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\sourcemods\Desert-Parable\materials
+Loading d:\sourcemods\desert-parable\maps\mapstanley_remake.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK02, using default
+Can't find surfaceprop sheetrock for material PLASTER/SHEETROCK01_NOBUMP, using default
+"materials/Tools/toolsplayerclip.vtf": cached version doesn't exist
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_BASE, using default
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_EDGES, using default
+Material not found!: TOOLS/TOOLSBLOCKLIGHT_OPACITY
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_BACK, using default
+Can't find surfaceprop upholstery for material BUILDINGS/VERTIGO_INSULATION_FRONT, using default
+Can't find surfaceprop sheetrock for material PLASTER/VERTIGO_DRYWALL_PATCHED, using default
+Can't find surfaceprop upholstery for material WOOD/VERTIGO_CEILINGB, using default
+"materials/Tools/toolshint.vtf": cached version doesn't exist
+"materials/Tools/toolsskip.vtf": cached version doesn't exist
+"materials/Tools/toolstrigger.vtf": cached version doesn't exist
+Could not locate GameData file stanley.fgd
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 216 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\sourcemods\desert-parable\maps\mapstanley_remake.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (439861 bytes)
+Error! To use model "models/props_se/propper/power_monitor_7.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_se/propper/power_monitor_7.mdl"!
+Error! prop_static using model "models/props_c17/furniturecouch001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/furniturecouch001a.mdl"!
+Error! prop_static using model "models/props_interiors/radiator01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/radiator01a.mdl"!
+Error! To use model "models/props_se/pc_case02.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_se/pc_case02.mdl"!
+Error! To use model "models/props_parable/pencil.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_parable/pencil.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2309 texinfos to 1080
+Reduced 171 texdatas to 145 (6447 bytes to 5590)
+Writing d:\sourcemods\desert-parable\maps\mapstanley_remake.bsp
+
+nummapplanes:     (  3026 / 65536 )
+nummapbrushes:    (  1262 /  8192 )
+nummapbrushsides: (  7962 / 65536 )
+num_map_overlays: (   108 /   512 )
+nummodels:        (    27 /  1024 )
+num_entities:     (   395 / 16384 )
+
+0 seconds elapsed
+
+
+
+20 threads
+reading d:\sourcemods\desert-parable\maps\mapstanley_remake.bsp
+reading d:\sourcemods\desert-parable\maps\mapstanley_remake.prt
+ 498 portalclusters
+ 914 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 170 visible clusters (0.00%)
+Total clusters visible: 25820
+Average clusters visible: 51
+Building PAS...
+Average clusters audible: 125
+visdatasize:26130  compressed from 63744
+writing d:\sourcemods\desert-parable\maps\mapstanley_remake.bsp
+0 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\SteamLibrary\steamapps\common\Portal 2\bin\lights.rad.
+Loading d:\sourcemods\desert-parable\maps\mapstanley_remake.bsp
+3195 faces
+3 degenerate faces
+131119 square feet [18881276.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3192 patches before subdivision
+57140 patches after subdivision
+206 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4139301, max 365
+transfer lists:  31.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(91286, 91429, 81533)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(61709, 62510, 50209)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(23983, 23837, 17814)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(14190, 14131, 10439)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(6489, 6388, 4599)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4049, 3996, 2987)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2076, 2039, 1535)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1404, 1377, 1079)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(792, 776, 621)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(566, 551, 451)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(344, 335, 281)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(252, 243, 206)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(162, 156, 136)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(119, 114, 100)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(80, 77, 68)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(59, 56, 50)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(41, 39, 35)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(30, 28, 26)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(21, 20, 19)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(16, 15, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(11, 10, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(8, 8, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(6, 6, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(4, 4, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(3, 3, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0055 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  27/1024         1296/49152    ( 2.6%) 
+brushes               1262/8192        15144/98304    (15.4%) 
+brushsides            7966/65536       63728/524288   (12.2%) 
+planes                3026/65536       60520/1310720  ( 4.6%) 
+vertexes              6284/65536       75408/786432   ( 9.6%) 
+nodes                 1503/65536       48096/2097152  ( 2.3%) 
+texinfos              1080/12288       77760/884736   ( 8.8%) 
+texdata                145/2048         4640/65536    ( 7.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3195/65536      178920/3670016  ( 4.9%) 
+hdr faces             3195/65536      178920/3670016  ( 4.9%) 
+origfaces             2259/65536      126504/3670016  ( 3.4%) 
+facebrushes            648/0            1296/0        ( 0.0%) 
+facebrushlists        3195/0           12780/0        ( 0.0%) 
+leaves                1531/65536       48992/2097152  ( 2.3%) 
+leaffaces             4022/65536        8044/131072   ( 6.1%) 
+leafbrushes           1973/65536        3946/131072   ( 3.0%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            24960/512000      99840/2048000  ( 4.9%) 
+edges                16124/256000      64496/1024000  ( 6.3%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights        206/8192        20600/819200   ( 2.5%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            389/32768        3890/327680   ( 1.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7722/65536       15444/131072   (11.8%) 
+cubemapsamples           9/1024          144/16384    ( 0.9%) 
+overlays               108/512         38016/180224   (21.1%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     2820472/0        ( 0.0%) 
+visdata               [variable]       26130/16777216 ( 0.2%) 
+entdata               [variable]      130223/393216   (33.1%) 
+LDR ambient table     1531/65536        6124/262144   ( 2.3%) 
+HDR ambient table     1531/65536        6124/262144   ( 2.3%) 
+LDR leaf ambient      1531/65536       42868/1835008  ( 2.3%) 
+HDR leaf ambient      4214/65536      117992/1835008  ( 6.4%) 
+occluders                2/0              80/0        ( 0.0%) 
+occluder polygons       12/0             144/0        ( 0.0%) 
+occluder vert ind       48/0             192/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/75086    ( 0.0%) 
+pakfile               [variable]     2656652/0        ( 0.0%) 
+physics               [variable]      439861/4194304  (10.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 9543
+Writing d:\sourcemods\desert-parable\maps\mapstanley_remake.bsp
+22 seconds elapsed
