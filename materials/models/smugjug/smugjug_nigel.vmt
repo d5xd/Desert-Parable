@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/smugjug/smugjug_nigel"
+	"$bumpmap" "models/smugjug/smugjug_n_rough"
+	"$envmap" env_cubemap
+	"$envmaptint" 1
+	"$envmapcontrast" 1
+	"$normalmapalphaenvmapmask" 1
+	"$model" 1
+	"$halflambert" 1
+}
