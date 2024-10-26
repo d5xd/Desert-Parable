@@ -1,0 +1,5 @@
+"VertexlitGeneric" //gener 2311
+{
+	"$baseTexture" "Models/props_se\citizen_tech/workspace_sheet"
+	"$selfillum" "1"
+}

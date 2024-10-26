@@ -1,0 +1,8 @@
+"VertexlitGeneric" //gener 2311
+{
+	"$basetexture"	"Models/props_se\citizen_tech/silo_server_sheet"
+	"$surfaceprop"	"computer"
+	"$selfillum"	1
+	"$halflambert"	1
+	"$model"	1
+}
