@@ -1,0 +1,14 @@
+"VertexlitGeneric" //gener 2311
+{
+	"$basetexture" "models/props_se/wasteland_cam_ind"
+	"$selfillum" 1
+		"Proxies"
+		{
+		"AnimatedTexture"
+			{
+				"animatedtexturevar" "$basetexture"
+				"animatedtextureframenumvar" "$frame"
+				"animatedtextureframerate" 2
+			}
+		}
+}
