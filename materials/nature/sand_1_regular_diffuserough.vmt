@@ -1,5 +1,12 @@
 "LightmappedGeneric"
 {
 	"$basetexture" "nature/sand_1_regular_diffuserough"
-	"$bumpmap" "nature/sand_1_regular_height"
+            "$bumpmap"    "nature/sand_1_regular_diffuserough_normal"
+    "$parallaxmap"	"nature/sand_1_regular_diffuserough_height"
+    "$parallaxmapscale"	0.05
+ "bumpscale" "1.0"
+             "$ssbump 1"
+"$envmapcontrast" "1"
+"$normalmapalphaenvmapmask" 
+	
 }
