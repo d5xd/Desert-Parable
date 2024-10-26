@@ -1,0 +1,9 @@
+"VertexlitGeneric" //gener 2311
+{
+	"$basetexture" "models/props_se/propper/power_monitor_7"
+	"$bumpmap" "models/props_se/propper/power_monitor_7_norm"
+	
+	$phong 1
+	$phongexponent   20 //чем меньше, тем блик больше
+	$phongboost    10 //чем меньше, тем сила блика меньше
+}

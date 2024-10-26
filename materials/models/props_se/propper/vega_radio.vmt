@@ -1,0 +1,11 @@
+"VertexlitGeneric" //gener 2311
+{
+	"$basetexture" "models/props_se/propper/vega_radio"
+	"$bumpmap" "models/props_se/propper/vega_radio_norm"
+
+	"$phong" "1"
+	"$phongexponenttexture" "models/props_se/propper/vega_radio_exp"
+	"$phongboost" "5"	
+	"$lightwarptexture" "models/props_se/propper/vega_radio_lightwarp"
+	"$phongfresnelranges"	"[5 1 2]"
+}
