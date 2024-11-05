@@ -1,4 +1,18 @@
-LightmappedGeneric
+"UnlitTwoTexture"
 {
-	$basetexture "deserttuxture/80386512KBAMD"
+	"$basetexture" "deserttuxture/80386512KBAMD"
+	"$texture2" "screens/screenbars"
+
+    "$scale2" "[0.05 0.05]"
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$texture2transform"
+			"texturescrollrate" .35
+			"texturescrollangle" 230.00
+		}
+	}
 }
+

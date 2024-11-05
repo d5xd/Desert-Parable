@@ -1,0 +1,5 @@
+"DecalModulate"
+{
+	"$basetexture" "deserttuxture/ElektronikaRF"
+	"$translucent" 1
+}
